@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+  <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%} {{ content }}
+
+  <h1>Status</h1>
+  <dl class="border-bottom">
+    {% for post in site.categories.status-signup limit:1 %} {% if post.url %}
+    <dt>
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a> 
+        <b class="
+        {% if (post.status == 'in-progress')  %} text-info {% endif %} 
+        {% if (post.status == 'live') %} text-success {% endif %} 
+        {% if (post.status == 'blocked') %} text-danger {% endif %} 
+        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}">
+        {{post.status}} {{post.status.live}} <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b> 
+      </h3>
+    </dt>
+    {% endif %} {% endfor %}
+  </dl>
+  <dl class="border-bottom">
+    {% for post in site.categories.auto-emails limit:1 %} {% if post.url %}
+    <dt>
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a> 
+        <b class="
+        {% if (post.status == 'in-progress')  %} text-info {% endif %} 
+        {% if (post.status == 'live') %} text-success {% endif %} 
+        {% if (post.status == 'blocked') %} text-danger {% endif %} 
+        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}">
+        {{post.status}} {{post.status.live}} <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b> 
+      </h3>
+    </dt>
+    {% endif %} {% endfor %}
+  </dl>
+  <dl class="border-bottom">
+    {% for post in site.categories.status-profile limit:1 %} {% if post.url %}
+    <dt>
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }} </a> 
+        <b class="
+        {% if (post.status == 'in-progress')  %} text-info {% endif %} 
+        {% if (post.status == 'live') %} text-success {% endif %} 
+        {% if (post.status == 'blocked') %} text-danger {% endif %} 
+        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}">
+        {{post.status}} <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b>
+      </h3>
+    </dt>
+    {% endif %} {% endfor %}
+  </dl>
+
+  
+  <h1 class="margin-top-40">Release Notes</h1>
+  <dl class="border-bottom">
+    {% for post in site.categories.release-note %} {% if post.url %}
+    <dt>
+      <h3>
+        <a href="{{ post.url }}"
+          >{{ post.title }} | <span class="date">{{post.date | date: "%m/%d/%Y"}}</span></a
+        >
+      </h3>
+    </dt>
+    <dd>{{ post.excerpt }}</dd>
+    {% endif %} {% endfor %}
+  </dl>
+</div>

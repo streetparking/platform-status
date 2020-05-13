@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "V 1.6.12 "
+date:   2020-05-11 14:24:13 -0600
+categories: release-note
+
+---
+
+Where the information will go
