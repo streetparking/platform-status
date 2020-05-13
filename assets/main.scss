@@ -2,7 +2,11 @@
 ---
 
 @import "minima";
-
+#logo{
+  width: 220px;
+  margin-top: 20px;
+  margin-left: -20px;
+}
 .text-danger {
   color: red;
 }
