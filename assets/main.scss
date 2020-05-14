@@ -1,8 +1,6 @@
 ---
 ---
 
-$SPgold: #c89211;
-
 @import "minima";
 .site-header {
   padding-bottom: 20px;
@@ -19,7 +17,7 @@ $SPgold: #c89211;
   display: inline;
   margin-left: 20px;
   &:hover {
-    color: $SPgold;
+    color: #c89211;
   }
 }
 .text-danger {
