@@ -1,0 +1,53 @@
+---
+---
+
+$SPgold: #c89211;
+
+@import "minima";
+.site-header {
+  padding-bottom: 20px;
+}
+#logo {
+  width: 220px;
+  margin-top: 20px;
+  margin-left: -20px;
+}
+.site-nav {
+  margin-top: 18px;
+}
+.trigger {
+  display: inline;
+  margin-left: 20px;
+  &:hover {
+    color: $SPgold;
+  }
+}
+.text-danger {
+  color: red;
+}
+.text-info {
+  color: blue;
+}
+.text-success {
+  color: green;
+}
+.text-gray {
+  color: gray;
+}
+
+.date {
+  font-size: 12px;
+}
+// status specific
+
+// Release specific
+.read-more {
+  font-size: 12px;
+}
+// spacing
+.margin-top-40 {
+  margin-top: 40px;
+}
+.margin-bottom-40 {
+  margin-bottom: 40px;
+}
