@@ -11,7 +11,7 @@ layout: default
     {% for post in site.categories.status-signup limit:1 %} {% if post.url %}
     <dt>
       <h3>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <b
           class="
         {% if (post.status == 'in-progress')  %} text-info {% endif %} 
@@ -30,7 +30,7 @@ layout: default
     {% for post in site.categories.auto-emails limit:1 %} {% if post.url %}
     <dt>
       <h3>
-        <a href="{{ post.url }}">{{ post.title }}</a>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <b
           class="
         {% if (post.status == 'in-progress')  %} text-info {% endif %} 
@@ -49,7 +49,7 @@ layout: default
     {% for post in site.categories.status-profile limit:1 %} {% if post.url %}
     <dt>
       <h3>
-        <a href="{{ post.url }}">{{ post.title }} </a>
+        <a href="{{ post.url | relative_url}}">{{ post.title }} </a>
         <b
           class="
         {% if (post.status == 'in-progress')  %} text-info {% endif %} 
@@ -70,7 +70,7 @@ layout: default
   <dl class="margin-bottom-40">
     <dt>
       <h3>
-        <a href="{{ post.url }}"
+        <a href="{{ post.url | relative_url}}"
           >{{ post.title }} |
           <span class="date">{{post.date | date: "%m/%d/%Y"}}</span></a
         >
@@ -78,7 +78,7 @@ layout: default
     </dt>
     <dd>
       {{ post.excerpt }}
-      <a class="read-more" href="{{ post.url }}">Continue Reading...</a>
+      <a class="read-more" href="{{ post.url | relative_url}}">Continue Reading...</a>
     </dd>
   </dl>
   {% endif %} {% endfor %}
