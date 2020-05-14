@@ -6,19 +6,22 @@ layout: default
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} {{ content }}
-<p> </p>
-  <h2 id="status">Status</h2>
+  <h1 id="status">Status</h1>
   <dl class="border-bottom">
     {% for post in site.categories.status-signup limit:1 %} {% if post.url %}
     <dt>
       <h3>
-        <a href="{{ post.url }}">{{ post.title }}</a> 
-        <b class="
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <b
+          class="
         {% if (post.status == 'in-progress')  %} text-info {% endif %} 
         {% if (post.status == 'live') %} text-success {% endif %} 
         {% if (post.status == 'blocked') %} text-danger {% endif %} 
-        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}">
-        {{post.status}} {{post.status.live}} <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b> 
+        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}"
+        >
+          {{post.status}} {{post.status.live}}
+          <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b
+        >
       </h3>
     </dt>
     {% endif %} {% endfor %}
@@ -27,45 +30,56 @@ layout: default
     {% for post in site.categories.auto-emails limit:1 %} {% if post.url %}
     <dt>
       <h3>
-        <a href="{{ post.url }}">{{ post.title }}</a> 
-        <b class="
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <b
+          class="
         {% if (post.status == 'in-progress')  %} text-info {% endif %} 
         {% if (post.status == 'live') %} text-success {% endif %} 
         {% if (post.status == 'blocked') %} text-danger {% endif %} 
-        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}">
-        {{post.status}} {{post.status.live}} <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b> 
+        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}"
+        >
+          {{post.status}} {{post.status.live}}
+          <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b
+        >
       </h3>
     </dt>
     {% endif %} {% endfor %}
   </dl>
-  <dl class="border-bottom">
+  <dl>
     {% for post in site.categories.status-profile limit:1 %} {% if post.url %}
     <dt>
       <h3>
-        <a href="{{ post.url }}">{{ post.title }} </a> 
-        <b class="
+        <a href="{{ post.url }}">{{ post.title }} </a>
+        <b
+          class="
         {% if (post.status == 'in-progress')  %} text-info {% endif %} 
         {% if (post.status == 'live') %} text-success {% endif %} 
         {% if (post.status == 'blocked') %} text-danger {% endif %} 
-        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}">
-        {{post.status}} <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b>
+        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}"
+        >
+          {{post.status}}
+          <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b
+        >
       </h3>
     </dt>
     {% endif %} {% endfor %}
   </dl>
 
-  
-  <h2 class="margin-top-40" id="release-notes">Release Notes</h2>
-  <dl class="border-bottom">
-    {% for post in site.categories.release-note %} {% if post.url %}
+  <h1 class="margin-top-40" id="release-notes">Release Notes</h1>
+  {% for post in site.categories.release-note %} {% if post.url %}
+  <dl class="margin-bottom-40">
     <dt>
       <h3>
         <a href="{{ post.url }}"
-          >{{ post.title }} | <span class="date">{{post.date | date: "%m/%d/%Y"}}</span></a
+          >{{ post.title }} |
+          <span class="date">{{post.date | date: "%m/%d/%Y"}}</span></a
         >
       </h3>
     </dt>
-    <dd>{{ post.excerpt }}</dd>
-    {% endif %} {% endfor %}
+    <dd>
+      {{ post.excerpt }}
+      <a class="read-more" href="{{ post.url }}">Continue Reading...</a>
+    </dd>
   </dl>
+  {% endif %} {% endfor %}
 </div>
