@@ -14,10 +14,10 @@ layout: default
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <b
           class="
-        {% if (post.status == 'in-progress')  %} text-info {% endif %} 
-        {% if (post.status == 'live') %} text-success {% endif %} 
-        {% if (post.status == 'blocked') %} text-danger {% endif %} 
-        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}"
+        {% if post.status == 'in-progress'  %} text-info {% endif %} 
+        {% if post.status == 'live' %} text-success {% endif %} 
+        {% if post.status == 'blocked' %} text-danger {% endif %} 
+        {% if post.status == 'on-roadmap' %} text-gray {% endif %}"
         >
           {{post.status}} {{post.status.live}}
           <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b
@@ -33,10 +33,10 @@ layout: default
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <b
           class="
-        {% if (post.status == 'in-progress')  %} text-info {% endif %} 
-        {% if (post.status == 'live') %} text-success {% endif %} 
-        {% if (post.status == 'blocked') %} text-danger {% endif %} 
-        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}"
+        {% if post.status == 'in-progress'  %} text-info {% endif %} 
+        {% if post.status == 'live' %} text-success {% endif %} 
+        {% if post.status == 'blocked' %} text-danger {% endif %} 
+        {% if post.status == 'on-roadmap' %} text-gray {% endif %}"
         >
           {{post.status}} {{post.status.live}}
           <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b
@@ -52,10 +52,10 @@ layout: default
         <a href="{{ post.url | relative_url}}">{{ post.title }} </a>
         <b
           class="
-        {% if (post.status == 'in-progress')  %} text-info {% endif %} 
-        {% if (post.status == 'live') %} text-success {% endif %} 
-        {% if (post.status == 'blocked') %} text-danger {% endif %} 
-        {% if (post.status == 'on-roadmap') %} text-gray {% endif %}"
+        {% if post.status == 'in-progress'  %} text-info {% endif %} 
+        {% if post.status == 'live' %} text-success {% endif %} 
+        {% if post.status == 'blocked' %} text-danger {% endif %} 
+        {% if post.status == 'on-roadmap' %} text-gray {% endif %}"
         >
           {{post.status}}
           <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b
