@@ -27,7 +27,7 @@ layout: default
     {% endif %} {% endfor %}
   </dl>
   <dl class="border-bottom">
-    {% for post in site.categories.auto-emails limit:1 %} {% if post.url %}
+    {% for post in site.categories.status-autoemails limit:1 %} {% if post.url %}
     <dt>
       <h3>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>

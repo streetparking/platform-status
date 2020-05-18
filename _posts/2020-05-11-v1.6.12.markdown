@@ -5,5 +5,14 @@ date:   2020-05-11 14:24:13 -0600
 categories: release-note
 
 ---
+Something about how this was improved and all in all it's great.
 
-Where the information will go
+# What’s New
+- First item
+- Second item
+- Third item
+
+# Bug Fixes
+- First item
+- Second item
+- Third item
