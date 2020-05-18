@@ -64,6 +64,25 @@ layout: default
     </dt>
     {% endif %} {% endfor %}
   </dl>
+  <dl>
+    {% for post in site.categories.status-admin limit:1 %} {% if post.url %}
+    <dt>
+      <h3>
+        <a href="{{ post.url | relative_url}}">{{ post.title }} </a>
+        <b
+          class="
+        {% if post.status == 'in-progress'  %} text-info {% endif %} 
+        {% if post.status == 'live' %} text-success {% endif %} 
+        {% if post.status == 'blocked' %} text-danger {% endif %} 
+        {% if post.status == 'on-roadmap' %} text-gray {% endif %}"
+        >
+          {{post.status}}
+          <span class="date">({{post.date | date: "%m/%d/%Y"}})</span></b
+        >
+      </h3>
+    </dt>
+    {% endif %} {% endfor %}
+  </dl>
 
   <h1 class="margin-top-40" id="release-notes">Release Notes</h1>
   {% for post in site.categories.release-note %} {% if post.url %}
