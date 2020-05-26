@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "V 1.8.12 "
+date:   2020-5-22 14:24:13 -0600
+categories: release-note
+
+---
+Something about how this was improved and all in all it's great.
+
+# What’s New
+- First item
+- Second item
+- Third item
+
+# Bug Fixes
+- First item
+- Second item
+- Third item
