@@ -27,5 +27,5 @@ Last night we wrapped version 1.6.12 of the new Street Parking desktop site. Thi
 - The Payment page layout got a tasteful facelift and the “Add Card” button no longer does nothing. Unnecessary errors were removed and we made it clearer when payment methods are added. 
 
 # We Heard You
-We took the feedback from the SP Test Team and coupled it with testing done by the dev team to improve this version of the Sign up Stepper. At the time of this release, our dev team had knocked out 88 tickets and a huge number of improvements were made. Thank you to the SP Test Team for taking time to provide valuable feedback and a huge shoutout to our developers who created and accomplished all of these initiatives. 
+We took feedback from the SP Test Team and testing done by the dev team to improve this version of the Sign up Stepper. At the time of this release, our dev team had knocked out 88 tickets and made a huge number of improvements. Thank you to the SP Test Team for taking time to provide valuable feedback and a huge shoutout to our developers who accomplished all of these initiatives.
 
