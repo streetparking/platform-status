@@ -20,7 +20,7 @@ Last night we wrapped version 1.6.12 of the new Street Parking desktop site. Thi
 
 - In About You, we added some helper text for entering social media handles and made sure that no one under the age of 12 can sign up using parameters with the sweet new date picker (birth dates, not date dates). 
 
-- Getting stuck at Step 2 in Contact Details was frustrating for anyone wanting more from life and being told that your address is in correct when in fact it is, is just rude. These were both problems on this page: Step 2 is no longer sticky and the address error message has been removed. 
+- Getting stuck at Step 2 in Contact Details was frustrating for anyone wanting more from life and being told that your address is incorrect when in fact it was not, is just rude. These were both problems on this page: Step 2 is no longer sticky and the address error message has been removed. 
 
 - You used to be able to skip the Terms and Conditions acknowledgement which is a major no no- so that’s fixed. We added a shortcut arrow to the bottom of the paragraph (so you can’t skip it, but you don’t have to read it). We also adjusted some font sizing and text spacing. 
 
