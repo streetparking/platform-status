@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Release Note Template V 1.31.33 "
+title:  "Release Notes V 1.31.33 "
 date:   2020-7-6 14:24:13 -0600
 categories: release-note
 
 ---
-On Monday, we released version 1.31.33 of the new Street Parking site. This release debuts the member profile and admin portals which allow new users as well as admins to stay completely inside the Street Parking experience from the sign up process to membership management. 1.31.33 also unveils bug fixes and feature upgrades that have taken the sign up experience from great to greater.
+ Version 1.31.33 debuts the member profile and admin portals which allow new users as well as admins to stay completely inside the Street Parking experience from the sign up process to membership management. This version also unveils bug fixes and feature upgrades that have taken the sign up experience from great to greater.
 
 # What’s New
 - A Member Profile feature where contact information can be updated, and passwords can be changed and most likely, promptly forgotten.
