@@ -6,7 +6,7 @@ layout: default
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} {{ content }}
-  <h1 id="status">Status</h1>
+  <!-- <h1 id="status">Status</h1>
   <dl class="border-bottom">
     {% for post in site.categories.status-signup limit:1 %} {% if post.url %}
     <dt>
@@ -82,7 +82,7 @@ layout: default
       </h3>
     </dt>
     {% endif %} {% endfor %}
-  </dl>
+  </dl> -->
 
   <h1 class="margin-top-40" id="release-notes">Release Notes</h1>
   {% for post in site.categories.release-note %} {% if post.url %}
