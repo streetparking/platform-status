@@ -5,40 +5,35 @@ date:   2020-7-6 14:24:13 -0600
 categories: release-note
 
 ---
- Version 1.31.33 debuts the member profile and admin portals which allow new users as well as admins to stay completely inside the Street Parking experience from the sign up process to membership management. This version also unveils bug fixes and feature upgrades that have taken the sign up experience from great to greater.
+Version 1.31.33 debuts the member profile and admin portals which allow new users as well as admins to stay completely inside the Street Parking experience from the sign up process to membership management. This version also unveils bug fixes and feature upgrades that have taken the sign up experience from great to greater.
 
 # What’s New
-- A Member Profile feature where contact information can be updated, and passwords can be changed and most likely, promptly forgotten.
-- Shiny new Manage Membership tools (including Change, Hold, Cancel and Reinstate capabilities) that free up Admins by giving members more control of their memberships.
-- We added fresh images from login to logout - good enough for the ‘gram #nofilter
-- We updated ID.me military and first responder employment verification to allow two users to verify with the same credentials and automatically calculate membership discounts on the Payment Page. Well deserved and handy!
-- We brought Street Parking administrative processes together into one robust collection of applications to streamline workflows and save Admin users from running hither and yon to accomplish tasks (and because we think efficiency is sexy). They’re listed with a bit of detail below: 
-    - Membership Management: We put member information into a one stop shop with time saving shortcuts and the ability to adjust member information, place holds and view account activity. 
-    - Coaching: We wanted coaches to be able to filter, view and access member information in one convenient place and this is it. Those with the proper cred can modify coach-member assignments and add goals (which is a major deal).
-    - Staff member information can now be managed in the Staff app - go figure. It houses staff information and allows Super Admins to add or remove staff members, adjust credentials and see which staff birthdays are coming up (so you can alert the party planning committee).
-    - It’s a bird, it’s a plane...The Super Admin app lives up to its name by housing important templated emails, membership subscription options and a coupon creation stepper that integrates tidily with Stripe and Shopify to manage coupons and promos.
-    - Support Requests - We created this app as a hub for user support tickets rather than chasing them around inboxes. Requests can be viewed by priority and filtered with a helpful variety of parameters.
+- New Manage Membership tools for both users and admins to give everyone more control  
+- Fresh images from login to logout - good enough for the ‘gram #nofilter
+- ID.me military and first responder employment verification now automatically calculate membership discounts on the Payment Page. Well deserved and handy!
+- We brought admin processes together into one collection of apps to save users from running hither and yon to accomplish tasks. They’re listed below:  
+    - Membership Management: We put member information into a one stop shop with time saving shortcuts. 
+    - Coaching: Coaches can filter, view and access member information in one convenient place. 
+    - Staff member information can now be managed in the Staff app - go figure. It also highlights which staff birthdays are coming up (so you can alert the party planning committee).
+    - The Super Admin app lives up to its name by housing email templates, membership options and a super cool coupon creator.
+    - Support Requests - We created this app as a hub for user support tickets rather than chasing them around inboxes. 
     
 
 # Bug Fixes
-- We fixed a lot of issues with padding that you may not have even noticed. Basically, there were a lot of buttons that looked like they were “leaning” and now they don’t.  
+- Who knew entering addresses could be such a shenanigan? Well we found out and fixed it up so you can now enter addresses without feeling like you’re being punked.  
 
-- The logout page used to flash by at lightning speed and it felt glitchy. It now shows up at a much more reasonable pace.
+- We changed some less-than-obvious-but-still-important font sizing and padding issues so the pages don’t feel like an eye exam. 
 
 - We got rid of some typos that were too ridiculous to blame on autocorrect.
 
-- We changed some less-than-obvious-but-still-important font sizing issues so the pages don’t feel like an eye exam. 
+- We added confirmation messages for after you change your password or email. It just felt anticlimactic without them. 
 
-- We added confirmation messages for after you change your password or email. It just felt anticlimactic without them.
+- There was a glitch that unchecked the “I agree to Terms & Conditions” box if you scrolled back through the Terms & Conditions. We need that box to stay checked, so we fixed all that. 
 
-- There was a glitch that unchecked the “I agree to Terms & Conditions” box if you scrolled back through the Terms & Conditions. We need that box to stay checked, so we fixed all that.
-
-- We corrected a discrepancy between what the Instagram handle field did and what the helper text suggested. It was a confusing “do as I do and not as I say” situation for those who pay close attention to helper text.
-
-- We spruced up all of the admin apps with things like quick filters, tooltips, and gave app layouts a few tasteful facelifts. 
+- We corrected a discrepancy between what the Instagram handle field did and what the helper text suggested. It was a confusing “do as I do and not as I say” situation for those who pay close attention to helper text. 
 
 - Securities for the admin apps got updated. Things were already safe, but are now even safer.
 
 - If you were on mobile, the Profile menu would slide over and refuse collapse without rotating the screen from portrait to landscape and back. It has been fixed and is now appropriately collapsey.
 
-- Social media query parameters have been improved so we can connect you to your social media handles with greater accuracy. Go ahead and @ us.
+- Social media query parameters have been improved so we can connect you to your social media handles with greater accuracy. Go ahead and @ us. 
