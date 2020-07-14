@@ -89,7 +89,7 @@ layout: default
   <dl class="margin-bottom-40">
     <dt>
       <h3>
-        <a href="{{ post.url | relative_url}}"
+        <a href="{{ post.url | baseurl}}"
           >{{ post.title }} |
           <span class="date">{{post.date | date: "%m/%d/%Y"}}</span></a
         >
@@ -97,7 +97,7 @@ layout: default
     </dt>
     <dd>
       {{ post.excerpt }}
-      <a class="read-more" href="{{ post.url | relative_url}}">Continue Reading...</a>
+      <a class="read-more" href="{{ post.url | baseurl}}">Continue Reading...</a>
     </dd>
   </dl>
   {% endif %} {% endfor %}
