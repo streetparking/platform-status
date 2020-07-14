@@ -5,14 +5,27 @@ date:   2020-05-11 14:24:13 -0600
 categories: release-note
 
 ---
-Something about how this was improved and all in all it's great.
+Last night we wrapped version 1.6.12 of the new Street Parking desktop site. This is a big release as it shifts away from depending on Wodify for creating memberships and allows the user to stay inside the Street Parking experience. 
 
 # What’s New
-- First item
-- Second item
-- Third item
+- Fresh page layouts and streamlined navigation
+- Birth Date Picker - simple, less cumbersome, not as easy to create as you’d think
+- Revamped Payment Page - a layout that gives priority where it is due 
+- ID.me military employment verification that automatically calculates discounted membership cost on the Payment Page. Handy!
 
 # Bug Fixes
-- First item
-- Second item
-- Third item
+- The Login/Sign Up: We fixed some confusing email verification password/reset issues, and adjusted the size of the “Get Started” button. We also fixed the mobile screens that loaded off centered.
+
+- On the Join Now page, we changed some less-than-obvious-but-still-important font sizing issues as well as off centered pages. Also, if you entered and confirmed your passwords, you’d receive an error message that your passwords didn’t match. That was a lie. 
+
+- In About You, we added some helper text for entering social media handles and made sure that no one under the age of 12 can sign up using parameters with the sweet new date picker (birth dates, not date dates). 
+
+- Getting stuck at Step 2 in Contact Details was frustrating for anyone wanting more from life and being told that your address is incorrect when in fact it was not, is just rude. These were both problems on this page: Step 2 is no longer sticky and the address error message has been removed. 
+
+- You used to be able to skip the Terms and Conditions acknowledgement which is a major no no- so that’s fixed. We added a shortcut arrow to the bottom of the paragraph (so you can’t skip it, but you don’t have to read it). We also adjusted some font sizing and text spacing. 
+
+- The Payment page layout got a tasteful facelift and the “Add Card” button no longer does nothing. Unnecessary errors were removed and we made it clearer when payment methods are added. 
+
+# We Heard You
+We took feedback from the SP Test Team and testing done by the dev team to improve this version of the Sign up Stepper. At the time of this release, our dev team had knocked out 88 tickets and made a huge number of improvements. Thank you to the SP Test Team for taking time to provide valuable feedback and a huge shoutout to our developers who accomplished all of these initiatives.
+
