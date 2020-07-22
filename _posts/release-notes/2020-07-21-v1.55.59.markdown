@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Release Notes V 1.55.59 "
+date:   2020-7-21 14:24:13 -0600
+categories: release-note
+
+---
+Version 1.55.59 debuts helpful new administrative tools, ID.me verification upgrades and smooths out some difficulties with saving information.
+
+# What’s New
+- We added new sign ups and athlete trend and a couple other cool reports to the memberships dashboard in admin. Charts and graphs never looked so good. 
+- Admins can now manually add an ID.me verification from Membership Management.
+- There are new components for Gross and Net sales for that before and after vibe.
+- About Me has a fancy new button that shows a user has been verified through ID.me.
+- ID.me military and LEO verification now allows two unique users to validate with the same unique ID because sharing is caring. 
+- Invoices now collect more data and have their very own badge on the invoice table so a user can always see how invoices are doing.
+- We added a social media status to the member profile in admin. Kind of like a relationship status, but not as cute. 
+
+
+# Bug Fixes
+- There was a way to accidentally uncheck the “Agree to Terms” box on the Terms and Conditions page, which is a major no-no. That box now stays checked. 
+
+- We fixed a bug that cleared demographic data after a user verified an ID.me account. No one likes to re-click all the things. 
+
+- Coupons were not updated automatically from Stripe. Now they are updated from Stripe automatically. So cute.
+
+- The occasional new user profile had a janky save button and it was impossible to save address updates on leads - both were inconvenient and both are now fixed. 
+
+- We fixed a bug that showed the wrong amount after discounts were applied. No more fake news. 
+
+- We removed some helper text that was no longer helpy and added helper text to country selection in the sign-up process.
+
+- We did some aesthetic maintenance in the form of adding a helpful error message, getting rid of some unnecessary white spacee, throwing in an important comma, changing an image and adjusting some padding.
