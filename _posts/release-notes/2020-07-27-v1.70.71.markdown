@@ -11,9 +11,9 @@ Version 1.70.71 debuts email validation required before completing the sign-up p
 - New users are now required to verify their email before completing the sign up process. It’s efficient for the user and helpy for the admins. Win. Win. Win. 
 - Admins can now resend a welcome email from a Membership Profile page. They’ve got mail. 
 - We added some helpful alerts for admins creating coupon codes. 
-- New users now get an in Profile about immediate program access through Wodify and the wait window for the Invite to Street Parking Members Only email. This is helpful. If you know you know.
+- New users now get an in Profile alert about immediate program access through Wodify and the wait window for the 'Invite to Street Parking Members Only' email. This is helpful. If you know, you know.
 - Manual address entry, got a stylish new cancel button in case users wanted to return to the google address search bar.
-- The sign up process now includes a checkbox that alerts users who forgo adding social media information that they won’t have access to Street Parking Members Only. No groups for you.
+- The sign up process now includes a checkbox that alerts users, who forgo adding social media information, that they won’t have access to Street Parking Members Only. No groups for you.
 
 
 # Bug Fixes
@@ -27,7 +27,7 @@ Version 1.70.71 debuts email validation required before completing the sign-up p
 
 - We fixed a bug that stopped a user from seeing an updated password confirmation which made changing passwords a little dicey. 
 
-- We fixed some aesthetic issues with a back button and a misaligned Forgot Password on mobile so you don’t have to feel off centered AND forgetful. 
+- We fixed some aesthetic issues with a back button and a misaligned "Forgot Password" on mobile so you don’t have to feel off centered AND forgetful. 
 
 - The admin apps got some fresh new descriptions (because ‘test description’ really didn’t paint the entire picture).
 
