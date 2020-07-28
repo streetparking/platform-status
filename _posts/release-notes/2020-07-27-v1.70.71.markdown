@@ -31,5 +31,4 @@ Version 1.70.71 debuts email validation required before completing the sign-up p
 
 - The admin apps got some fresh new descriptions (because ‘test description’ really didn’t paint the entire picture).
 
-- We removed an awkward alert that reminded users who didn’t add social media handles to join social media groups.
-
+- We had a notification reminding users to join Street Parking social media groups even after they've already been added to Street Parking social media groups. It was silly and we fixed it. 
