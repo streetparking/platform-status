@@ -9,10 +9,11 @@ Branch `gh-pages` is what's being published. Any time a push to the branch is ma
 2. `gem install`
 3. `bundle install`
 3. `bundle exec jekyll serve`
-4. visit http://localhost:4000/platform-status/
+4. visit http://localhost:4000
 
 ## thereafter
-1. `jekyll serve`
+1. `bundle exec jekyll serve`
+2. visit http://localhost:4000
 
 # creating new release note
 1. make sure in gh-pages branch
