@@ -5,7 +5,7 @@ date:   2020-7-28 14:24:13 -0600
 categories: release-note
 
 ---
-Version 1.73.72 debuts two new tools for admins and an email fix. Sometimes less is more.  
+Version 1.73.72 debuts two new tools for admins and an email fix. Short and sweet. 
 
 
 # What’s New
