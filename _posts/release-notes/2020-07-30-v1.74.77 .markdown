@@ -9,7 +9,7 @@ Version 1.74.77 debuts a Wodify status update option, a new coupon ID search fea
 
 
 # What’s New
-- We put a handy dandy Wodify status change option for admins in cancelled memberships. 
+- We added a handy dandy Wodify status change option for admins in cancelled memberships. 
 - Admins can now search for which members have a particular coupon by the coupon ID for when you can remember Cv4uaK3tO, but not someone’s name. 
 
 
