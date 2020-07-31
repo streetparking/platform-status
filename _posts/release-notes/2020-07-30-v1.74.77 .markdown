@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Release Notes V 1.74.77 "
+date:   2020-7-30 14:24:13 -0600
+categories: release-note
+
+---
+Version 1.74.77 debuts a Wodify status update option, a new coupon ID search feature and a few fixed up bugs.
+
+
+# What’s New
+- We put a handy dandy Wodify status change option for admins in cancelled memberships. 
+- Admins can now search for which members have a particular coupon by the coupon ID for when you can remember Cv4uaK3tO, but not someone’s name. 
+
+
+
+# Bug Fixes
+- We removed wording that was over the banner image on the Cancel Membership page. The existing image is worth a thousand words, so we removed the text.
+
+- We removed an image from the membership hold pages. Pausing one’s membership isn’t really a photo opp. 
+
+- The State fields in Profile and the Sign Up process require a two letter abbreviation. When new users spelled out a State name, the error “Please enter a real State” popped up. We know that typed out State name is a real State, but need an abbreviation, so we replaced the error with another reminder to abbreviate in case the helper text that already exists isn’t enough. The irony of the length of this note about abbreviation has not escaped us.  
+ 
