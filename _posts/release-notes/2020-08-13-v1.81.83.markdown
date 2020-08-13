@@ -10,7 +10,6 @@ Version 1.81.83  debuts three new tools for admins and a handful of fixed bugs.
 
 # What’s New
 - Member profiles got a majorly helpful new button that allows admins to see when members have been added to Members Only.
-- The aforementioned majorly helpful new button leads to an updated Social Media table with the Member’s Only addition. The member's status can be updated from this table: easy button vibes for days.
 - We added a way for admins to pay open invoices or retry payment through the invoice table. It’s outrageously convenient.
 
 
