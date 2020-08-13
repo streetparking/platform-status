@@ -16,7 +16,7 @@ Version 1.81.83  debuts three new tools for admins and a handful of fixed bugs.
 
 
 # Bug Fixes
-- We removed some text from some images and then that text showed up again so we took care of it - like for reals this time. 
+- We removed some text from some images and then that text showed up again, so we took care of it - like for reals this time. 
 
 - There was a user profile that looked squished when viewed on the admin side. (Whatever you’re imagining is what it looked like.) It has since been un-squished. 
 
