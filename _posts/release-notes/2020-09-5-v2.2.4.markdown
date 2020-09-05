@@ -19,9 +19,9 @@ Version 2.2.4  debuts a much anticipated notifications table, a new report for t
 # Bug Fixes
 - Two of our cool new servers were so speedy that they got to the database at the same time. The database couldn’t choose between the two, called a tie and gave everyone participation trophies. As a result, new users were getting two goals emails. We fixed it. 
 
-- A dev test meant for checking email efficacy was left in place and ten users got random happy birthday emails. (Surprise! It’s your birthday now.) We turned the test off and order was restored.
+- A dev test meant for checking email efficacy was left in place and tegn users got random happy birthday emails. (Surprise! It’s your birthday now.) We turned the test off and order was restored.
 
-- Spelling errors there were. Fixed them we did. 
+- Spelling errors there were. Fix them we did. 
 
 - We fixed an erroneous line of text about membership changes and then, the original erroneous text showed up again. It was like a layered bad bug fix dream. Bug-ception, if you will. 
 
