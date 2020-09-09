@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Release Notes V 2.2.5 "
+title:  "V 2.2.5 "
 date:   2020-9-7 14:24:13 -0600
 categories: release-note
 

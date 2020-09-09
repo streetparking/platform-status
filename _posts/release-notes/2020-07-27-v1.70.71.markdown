@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Release Notes V 1.70.71 "
+title:  "V 1.70.71 "
 date:   2020-7-27 14:24:13 -0600
 categories: release-note
 
