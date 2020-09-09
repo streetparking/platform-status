@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "V 1.81.83 "
+date:   2020-8-13 14:24:13 -0600
+categories: release-note
+
+---
+Version 1.81.83  debuts two new tools for admins and a handful of fixed bugs. 
+
+
+# What’s New
+- Member profiles got a majorly helpful new button that allows admins to see when members have been added to Members Only.
+- We added a way for admins to pay open invoices or retry payment through the invoice table. It’s outrageously convenient.
+
+
+
+# Bug Fixes
+- We removed some text from some images and then that text showed up again, so we took care of it - like for reals this time. 
+
+- There was a user profile that looked squished when viewed on the admin side. (Whatever you’re imagining is what it looked like.) It has since been un-squished. 
+
+- It used to be that the cancel button on a member profile could be clicked multiple times and would subsequently send multiple cancellation requests for the same membership. We disabled the button after one click, because we know you want to cancel, but you only need to click it once, you silly goose.
+
+- If you were the one using Firefox, you may have gotten stuck on Step 2 of the sign up process. We fixed it in case someone else uses it in the future. 
+
+- We fixed an error in an error message wherein “succeed” was spelled “succed”. And you know what they say...If at first you don’t succed, try spelling it correctly. 
+ 

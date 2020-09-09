@@ -50,3 +50,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Search configuration
+algolia:
+  index_name: 'local_STATUSSITE'
+  application_id: 'G7MCQV6FPU'
+  search_only_api_key: '38d5d1ce3ad1dd90fdcaf33f180f9ff3'

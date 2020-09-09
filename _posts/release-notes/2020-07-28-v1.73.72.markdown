@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "V 1.73.72 "
+date:   2020-7-28 14:24:13 -0600
+categories: release-note
+
+---
+Version 1.73.72 debuts two new tools for admins and an email fix. Short and sweet. 
+
+
+# What’s New
+- Admins can now delete leads (for when you don’t need to remember the one that got away).
+- Admins can also change emails in Membership Management. Feel the power. 
+
+
+# Bug Fixes
+- Emails weren’t going out to members after cancellation and, since communication is everything, we fixed it.  
