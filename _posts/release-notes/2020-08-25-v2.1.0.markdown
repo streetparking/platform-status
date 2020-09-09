@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Release Notes V 2.1.0 "
+date:   2020-8-26 14:24:13 -0600
+categories: release-note
+
+---
+Version 2.1.0  debuts a redesigned back-end, some improvements to Shopify order management, and a couple of fixed bugs. 
+
+
+# What’s New
+- The back end server architecture basically got a brain transplant that makes it easier for the dev team to add new things and fix bugs with little to no downtime. It’s more complicated than season 3 Ross and Rachel, but it’s unrivaled in coolness. (And it so does.)
+- The Shopify Order ID numbers, on the Super Admin coupon page, now have links to the Shopify store order. #easybutton
+- When a Shopify order is cancelled, the corresponding coupon is now automatically cancelled. It’s handy and just makes sense. 
+- There’s a logger that tells dev teams what’s going on and we were low key in log jam territory due to so many things being logged. The logging levels have been lightened to ease the workload of the logger. It’s now just the right amount of loggyness.
+
+
+
+# Bug Fixes
+- There was a thing causing the wrong dates to show up on member invoices. It’s been fixed and the correct dates are back like Backstreet. Alright. 
+
+- When users cancelled, they were receiving a suspension email that was very confusing. We suspended the suspension email and it’s no longer a thing. 
+
+
+ 

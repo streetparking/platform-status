@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Release Notes V 2.2.4 "
+date:   2020-9-5 14:24:13 -0600
+categories: release-note
+
+---
+Version 2.2.4  debuts a much anticipated notifications table, a new report for the accounting app, some functionality enhancements and four tackled bugs.
+
+
+# What’s New
+- We added a tool for Admins in the form of a “notifications table”. Basically, Admins can now see if members have received emails and the status of them. The notifications table is the still-cool stock version that will continue to get fancy upgrades.  
+- There’s a new report in accounting that gives quick access to breakdowns of sales by US States in Pacific Time. It's wicked smaaht.
+- We added an open source key-value that functions as a data structure server to the Kubernetes cluster. Obviously, this means that backend things are running simple, neat and super fast. #explainittomelikeimfive 
+- Current promos now show up on the payment page with the promo code prefilled and a few helpful directives for users. Heel click.
+
+
+
+# Bug Fixes
+- Two of our cool new servers were so speedy that they got to the database at the same time. The database couldn’t choose between the two, called a tie and gave everyone participation trophies. As a result, new users were getting two goals emails. We fixed it. 
+
+- A dev test meant for checking email efficacy was left in place and ten users got random happy birthday emails. (Surprise! It’s your birthday now.) We turned the test off and order was restored.
+
+- Spelling errors there were. Fix them we did. 
+
+- We fixed an erroneous line of text about membership changes and then, the original erroneous text showed up again. It was like a layered bad bug fix dream. Bug-ception, if you will. 
+
+
+ 

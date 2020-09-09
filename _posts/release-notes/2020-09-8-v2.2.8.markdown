@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Release Notes V 2.2.8 "
+date:   2020-9-8 14:24:13 -0600
+categories: release-note
+
+---
+Version 2.2.8 debuts a backend upgrade. Things were already fast and are now even faster. 
+
+
+# What’s New
+- It’s a bird, it’s a plane, it's our further enhanced and lightning fast backend checking for users, and if not found, fetching them and storing for quick access. Basically we made things speedier. 
+
+
+
+
+# Bug Fixes
+- This is a bug-free zone.  
+
+
+ 
