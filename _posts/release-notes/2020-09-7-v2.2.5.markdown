@@ -9,7 +9,7 @@ Version 2.2.5 debuts enhancements to the backend - making already speedy things 
 
 
 # What’s New
-- Faster than a speeding bullet - it’s our backend server again casually cruising along at mach 20 as it checks logs for data sources and maximum efficiency using a thing called Redis which low key hangs onto info for the sake of speed so we don’t have to keep hauling over to the big file drawers in the server. 
+- Faster than a speeding bullet - it’s our backend server again casually cruising along at mach 20 as it checks logs for data sources and maximum efficiency, using a thing called Redis, which low key hangs onto info for the sake of speed so we don’t have to keep hauling over to the big file drawers in the server. 
 - Testing is so hot these days. We initiated some new server tests to keep things spicy and well-functioning.
 
 
