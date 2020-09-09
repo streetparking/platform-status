@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Release Notes V 2.2.9 "
+date:   2020-9-9 14:24:13 -0600
+categories: release-note
+
+---
+Version 2.2.9 debuts upgraded functionality for user payment methods and a coupon removal tool for admins and three fixed up bugs
+
+
+# What’s New
+- Users who added a payment method that failed were able to add a new payment method, but the new card just sat there and didn’t pay the outstanding invoice or pitch in for rent or anything. We added a way for the new card to pull its own weight and pay the outstanding invoice upon update. Still waiting on rent though...  
+-Admin can now remove a coupon from a membership should the need arise. You don’t have to go home, but you can’t stay here.
+
+
+
+
+# Bug Fixes
+- If you were trying to update your area code on your user profile and clicked save, you’d have seen your fresh new area code disappear only to be replaced by the crusty old one. We fixed it.  
+
+- On post checkout promotions, the pay button would incorrectly quote the price of $0.00. This isn’t a free-for-all, people. We fixed it and now, the already great promotional price displays accurately. 
+
+- There was also a typographical error in an alert that just made us sound silly, so we fixed that as well. 
+
+
+ 
