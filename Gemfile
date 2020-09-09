@@ -32,3 +32,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 #gh pages check dependancy https://pages.github.com/versions/
 gem "github-pages", group: :jekyll_plugins
+
