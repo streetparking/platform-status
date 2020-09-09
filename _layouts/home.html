@@ -6,9 +6,10 @@ layout: default
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%} {{ content }}
-  
-  <div id="search-searchbar"></div>
-  <div class="post-list" id="search-hits">
+  <!-- ---search START -->
+
+  <!-- <div id="search-searchbar"></div> -->
+  <!-- <div class="post-list" id="search-hits"> -->
     <!-- {% for post in site.posts %}
       <div class="post-item">
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
@@ -23,10 +24,10 @@ layout: default
         <div class="post-snippet">{{ post.excerpt }}</div>
       </div>
     {% endfor %} -->
-  </div>
+  <!-- </div> -->
 
-  {% include algolia.html %}
-
+  <!-- {% include algolia.html %} -->
+<!-- ---search END -->
   <!-- <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a></p> -->
   <!-- <h1 id="status">Status</h1>
   <dl class="border-bottom">
