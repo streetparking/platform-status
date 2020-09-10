@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "V 2.2.12 "
+title:  "V 2.2.14 "
 date:   2020-9-9 14:24:13 -0600
 categories: release-note
 
 ---
-Version 2.2.12 debuts upgraded functionality for user payment methods and a coupon removal tool for admins and three fixed up bugs
+Version 2.2.14 debuts upgraded functionality for user payment methods and a coupon removal tool for admins and three fixed up bugs
 
 
 # What’s New
@@ -23,6 +23,9 @@ Version 2.2.12 debuts upgraded functionality for user payment methods and a coup
 - On post checkout promotions, the pay button would incorrectly quote the price of $0.00. This isn’t a free-for-all, people. We fixed it and now, the already great promotional price displays accurately. 
 
 - There was also a typographical error in an alert that just made us sound silly, so we fixed that as well. 
+
+- There was also a typographical error in an alert that just made us sound silly, so we fixed that as well. 
+A strikethrough emphasizing the difference between original and promotional pricing disappeared and through some coding magic, it’s back. ~Bibbity bobbity boo.~
 
 
  
