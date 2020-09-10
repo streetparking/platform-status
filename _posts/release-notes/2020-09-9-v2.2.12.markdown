@@ -10,7 +10,9 @@ Version 2.2.12 debuts upgraded functionality for user payment methods and a coup
 
 # What’s New
 - Users who added a payment method that failed were able to add a new payment method, but the new card just sat there and didn’t pay the outstanding invoice or pitch in for rent or anything. We added a way for the new card to pull its own weight and pay the outstanding invoice upon update. Still waiting on rent though...  
--Admin can now remove a coupon from a membership should the need arise. You don’t have to go home, but you can’t stay here.
+- Admin can now remove a coupon from a membership should the need arise. You don’t have to go home, but you can’t stay here.
+- We created a helpy new feature that prevents duplicate users Stripe for users by checking for an existing user first. Look before you leap and before you add a user.  
+- We also removed some logging - because you know what they say about too many logs. 
 
 
 
