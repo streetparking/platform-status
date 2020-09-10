@@ -16,6 +16,8 @@ gem "minima", "~> 2.5"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
+  # search
+  gem 'jekyll-algolia', '~> 1.0'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -30,3 +32,4 @@ gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
 
 #gh pages check dependancy https://pages.github.com/versions/
 gem "github-pages", group: :jekyll_plugins
+

@@ -1,13 +1,10 @@
 ---
-layout: default
+layout: page
+title: Documentation
+permalink: /documentation/
 ---
 
-<div class="home">
-  {%- if page.title -%}
-  <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%} {{ content }}
-  <h1 class="margin-top-40" id="release-notes">Release Notes</h1>
-  {% for post in site.categories.release-note %} {% if post.url %}
+  {% for post in site.categories.documentation %} {% if post.url %}
   <dl class="margin-bottom-40">
     <dt>
       <h3>
@@ -23,9 +20,3 @@ layout: default
     </dd>
   </dl>
   {% endif %} {% endfor %}
-</div>
-<style>
-  .search-container{
-    border: solid 1px #c1c1c1;
-  }
-</style>
