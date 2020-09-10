@@ -25,7 +25,7 @@ Version 2.2.14 debuts upgraded functionality for user payment methods and a coup
 - There was also a typographical error in an alert that just made us sound silly, so we fixed that as well. 
 
 - There was also a typographical error in an alert that just made us sound silly, so we fixed that as well. 
-A strikethrough emphasizing the difference between original and promotional pricing disappeared and through some coding magic, it’s back. ~Bibbity bobbity boo.~
+A strikethrough emphasizing the difference between original and promotional pricing disappeared and through some coding magic, it’s back. ~~Bibbity bobbity boo.~~
 
 
  
