@@ -5,7 +5,7 @@ date:   2020-9-10 14:24:13 -0600
 categories: release-note
 
 ---
-Version 2.2.18 debuts upgraded functionality for user payment methods and a coupon removal tool for admins and three fixed up bugs
+Version 2.2.18 debuts upgraded functionality for user payment methods and a coupon removal tool for admins and four fixed up bugs
 
 
 # What’s New
