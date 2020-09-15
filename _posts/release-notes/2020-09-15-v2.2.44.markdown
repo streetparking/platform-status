@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "V 2.2.44?"
+date:   2020-9-15 14:24:13 -0600
+categories: release-note
+
+---
+Version 2.2.44? debuts some functional enhancements, improved scheduling abilities and nearly a handful of fixed bugs.
+
+# What’s New
+- We implemented the open source redis-cluster with kubernetes i.e. our servers still have functionality when something goes awry. And it can be handled without a bunch of lame downtime. 
+- We added some increased time zone functionality to our backend so we can tell our system what to do whenever we want.
+- We have a server (a “redis server” to be exact) that hangs onto key information for quick access. We did a thing that backs up even more data, and the whole situation can handle major workload like a boss. 
+- Our server now tells us, in a more informed way, what it’s problem is.  
+
+
+
+
+# Bug Fixes
+
+- The time zone scheduler was not triggering emails. (How dare it.) We fixed it and it’s now behaving itself.
+
+- If a military/first responder user signed up while a promotion was running, some wires got crossed and the pay button showed incorrect pricing. We uncrossed the wires and pricing is showing properly.
+
+- We had a bug that allowed the payment page to occasionally ignore the membership selected by the user. We had a sit down with the payment page and it’s now using better listening skills. 
+
+- We fixed a timezone package that killed the jobs. (Jobs = things we told the server to do). Woopsie. Because whatever you do, do not kill the jobs. 
+
+
+
+ 
