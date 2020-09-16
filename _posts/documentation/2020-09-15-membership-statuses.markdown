@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Membership statuses"
-date:   2020-05-11 14:24:13 -0600
+date:   2020-09-15 14:24:13 -0600
 categories: documentation
 
 ---
