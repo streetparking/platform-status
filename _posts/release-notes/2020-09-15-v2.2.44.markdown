@@ -5,7 +5,7 @@ date:   2020-9-15 14:24:13 -0600
 categories: release-note
 
 ---
-Version 2.2.44? debuts some functional enhancements, improved scheduling abilities and nearly a handful of fixed bugs.
+Version 2.2.44? debuts some functional enhancements, improved scheduling abilities and a handful of fixed bugs.
 
 # What’s New
 - We implemented the open source redis-cluster with kubernetes i.e. our servers still have functionality when something goes awry. And it can be handled without a bunch of lame downtime. 
@@ -26,7 +26,7 @@ Version 2.2.44? debuts some functional enhancements, improved scheduling abiliti
 
 - We added a timezone package that killed the jobs (jobs = things we told the server to do), so we fixed it. File that under whoopsie.  
 
-- Some users entered credit card information that declined and the error message returned by Stripe was equivalent to a sassy brush off. We did some research and added a more thoughtful message. 
+- Some users entered credit card information that declined and the error message returned by Stripe was equivalent to a sassy brush off. We changed to a more thoughtful message. 
 <br/><br/>
 <br/><br/>
 
