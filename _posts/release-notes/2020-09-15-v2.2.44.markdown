@@ -24,8 +24,12 @@ Version 2.2.44? debuts some functional enhancements, improved scheduling abiliti
 
 - We had a bug that allowed the payment page to occasionally ignore the membership selected by the user. We had a sit down with the payment page and it’s now using better listening skills. 
 
-- We fixed a timezone package that killed the jobs. (Jobs = things we told the server to do). Woopsie. Because whatever you do, do not kill the jobs. 
+- We added a timezone package that killed the jobs (jobs = things we told the server to do), so we fixed it. File that under whoopsie.  
+
+- Some users entered credit card information that declined and the error message returned by Stripe was equivalent to a sassy brush off. We did some research and added a more thoughtful message. 
+<br/><br/>
+<br/><br/>
 
 
-
+*[PR#50](https://github.com/streetparking/my-streetparking/pull/50#issue-485640938)* *[PR#51](https://github.com/streetparking/my-streetparking/pull/51#issue-486281547)* *[PR#52](https://github.com/streetparking/my-streetparking/pull/52#issue-486641645)* *[PR#53](https://github.com/streetparking/my-streetparking/pull/53#issue-486645593)* *[PR#55](https://github.com/streetparking/my-streetparking/pull/55#issue-487487420)* *[PR#56](https://github.com/streetparking/my-streetparking/pull/56#issue-487513927)* *[PR#57](https://github.com/streetparking/my-streetparking/pull/57#issue-487708063)* 
  
