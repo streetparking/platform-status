@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Links to pages staff cant see"
+title:  "Links to pages staff can't see"
 date:   2020-09-17 14:24:13 -0600
 categories: documentation
 
