@@ -7,6 +7,8 @@ categories: documentation
 ---
 With a staff membership a few features are shut off because with a active staff membership doesn't make sense why you need to change your membership or put it on hold etc. But if you're trying to help a user it's not easy to tell them where to go if you can't see it either. Good news you can see it if you know the links. Bellow are links per area that'd be helpful to help an everyday user.
 
+FYI Right now you should log in to the platform first, then visit these links, it won't remember what you're trying to get to if you're not logged in at the moment.
+
 **Manage Membership**
 
 Manage Payments 
