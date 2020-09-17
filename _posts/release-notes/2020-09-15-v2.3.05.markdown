@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  "V 2.2.44?"
-date:   2020-9-15 14:24:13 -0600
+title:  "V 2.3.05"
+date:   2020-9-17 14:24:13 -0600
 categories: release-note
 
 ---
-Version 2.2.44? debuts some functional enhancements, improved scheduling abilities and a handful of fixed bugs.
+Version 2.3.05 debuts some functional enhancements, improved scheduling abilities and a handful of fixed bugs.
 
 # What’s New
 - We implemented the open source redis-cluster with kubernetes i.e. our servers still have functionality when something goes awry. And it can be handled without a bunch of lame downtime. 
 - We added some increased time zone functionality to our backend so we can tell our system what to do whenever we want.
 - We have a server (a “redis server” to be exact) that hangs onto key information for quick access. We did a thing that backs up even more data, and the whole situation can handle major workload like a boss. 
 - Our server now tells us, in a more informed way, what it’s problem is.  
+- Coupons are no longer just for slowing down a line at the grocery store. Users can now apply a coupon during a membership change.  
+- Admins can now quickly and immediately cancel past due accounts. #likeabandaid
+
 
 
 
@@ -31,5 +34,5 @@ Version 2.2.44? debuts some functional enhancements, improved scheduling abiliti
 <br/><br/>
 
 
-*[PR#50](https://github.com/streetparking/my-streetparking/pull/50#issue-485640938)* *[PR#51](https://github.com/streetparking/my-streetparking/pull/51#issue-486281547)* *[PR#52](https://github.com/streetparking/my-streetparking/pull/52#issue-486641645)* *[PR#53](https://github.com/streetparking/my-streetparking/pull/53#issue-486645593)* *[PR#55](https://github.com/streetparking/my-streetparking/pull/55#issue-487487420)* *[PR#56](https://github.com/streetparking/my-streetparking/pull/56#issue-487513927)* *[PR#57](https://github.com/streetparking/my-streetparking/pull/57#issue-487708063)* 
+*[PR#50](https://github.com/streetparking/my-streetparking/pull/50#issue-485640938)* *[PR#51](https://github.com/streetparking/my-streetparking/pull/51#issue-486281547)* *[PR#52](https://github.com/streetparking/my-streetparking/pull/52#issue-486641645)* *[PR#53](https://github.com/streetparking/my-streetparking/pull/53#issue-486645593)* *[PR#55](https://github.com/streetparking/my-streetparking/pull/55#issue-487487420)* *[PR#56](https://github.com/streetparking/my-streetparking/pull/56#issue-487513927)* *[PR#58](https://github.com/streetparking/my-streetparking/pull/58#issue-487759546)* *[PR#59] (https://github.com/streetparking/my-streetparking/pull/59#issue-487810449)* *[PR#60](https://github.com/streetparking/my-streetparking/pull/60#issue-488287907)* *[PR#61](https://github.com/streetparking/my-streetparking/pull/61#issue-488317926)* *[PR#63](https://github.com/streetparking/my-streetparking/pull/63#issue-488727984)* 
  
