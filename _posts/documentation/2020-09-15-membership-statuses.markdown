@@ -29,3 +29,7 @@ The latest invoice hasn't been paid but the subscription remains in place. The l
 
 **Canceled**
 The subscription has been canceled. During cancellation, automatic collection for all unpaid invoices is disabled (auto_advance=false).
+
+Resources
+1. [https://stripe.com/docs/billing/subscriptions/overview](https://stripe.com/docs/billing/subscriptions/overview)
+2. [https://stripe.com/docs/api/subscriptions/object](https://stripe.com/docs/api/subscriptions/object)
