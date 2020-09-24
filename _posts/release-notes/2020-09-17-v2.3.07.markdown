@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "V 2.3.07"
+date:   2020-9-22 14:24:13 -0600
+categories: release-note
+
+---
+Version 2.3.07 debuts a improvements to hold and coupon features as well as a bug fix for Admins. 
+
+# What’s New
+- WWe did extensive work on all sides of membership holds and laid groundwork for future enhancements. ::sings Wilson Phillips: hollllllld on for one more dayyyy::
+- We updated Stripe packages and interfaces. When those aren’t up to date it’s not a cute look. And basically we had to do that thing in order to do another thing. 
+- The aforementioned “another thing” is a work in progress that keeps track of members and their coupon use history, which is used to prevent duplicate coupon use attempts. 
+
+
+
+
+
+
+# Bug Fixes
+
+- There was a bug causing the Support Dashboard to show an incorrect number of support tickets. It was a Type A nightmare and it has been remedied.  
+<br/><br/>
+<br/><br/>
+
+
+*[PR#57](https://github.com/streetparking/my-streetparking/pull/57#issue-487708063)* *[PR#62](https://github.com/streetparking/my-streetparking/pull/62#issue-488692409)* *[PR#65](https://github.com/streetparking/my-streetparking/pull/65#issue-489472697)* 
