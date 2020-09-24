@@ -8,9 +8,9 @@ categories: release-note
 Version 2.3.07 debuts a improvements to hold and coupon features as well as a bug fix for Admins. 
 
 # What’s New
-- WWe did extensive work on all sides of membership holds and laid groundwork for future enhancements. ::sings Wilson Phillips: hollllllld on for one more dayyyy::
+- We did extensive work on all sides of membership holds and laid groundwork for future enhancements. ::sings Wilson Phillips: hollllllld on for one more dayyyy::
 - We updated Stripe packages and interfaces. When those aren’t up to date it’s not a cute look. And basically we had to do that thing in order to do another thing. 
-- The aforementioned “another thing” is a work in progress that keeps track of members and their coupon use history, which is used to prevent duplicate coupon use attempts. 
+- The aforementioned “another thing” is a work in progress that keeps track of members and their coupon use history, which is used to prevent duplicate coupon use attempts. Super nifty. 
 
 
 
