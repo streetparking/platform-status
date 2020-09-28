@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Holds"
+date:   2020-09-28 14:24:13 -0600
+categories: documentation
+
+---
+Holds, how they work, what to expect and other helpful information.
+
+**What is a hold**
+A hold is timespan that a membership isn't being paid for but they also don't have access to members only, instagram or facebook.
+
+**How long are holds, how do you get one.**
+A user can put their accounts on hold in monthly increments. Choosing one, two or three month span. They are however limited to three months in a year. If they choose to break that up into monthly increments through out the year or three months consecutively is up to them. Admins can also apply holds for monthly increments but are not limited to three months.
+
+If a user has used three months of holds however they will not be allowed to add another hold.
+
+**Holds happen when, exactly?**
+A hold starts on the next billing date, and lasts for as many months as defined. For example
+I sign up sepetmber 28th, and pay my first $19 for a monthly membership.
+I then set myself on hold for one month.
+I have access to members only etc until october 28th
+from october28th to november 28th my account is set on hold, i'm not charged but i also don't have access.
+on november 28th i'm charged 19$ because my hold is up and membership continues. Same day my social statuses are changed so i'm added back to members only, facebook and instagram.
+
+**Hold Statuses**
+Pending - upcoming
+Active - cron server got hold and activated it
+Canceled - canceled
+Error - couldn't sync with stripe or cron server error
+Ended - reached last day
+
+**Membership Status and hold(s)?**
+This is complicated, I'll be back
+
+**User Can do**
+
+**User Sees**
+
+**Admin Can do**
+
+**Admin Sees**
