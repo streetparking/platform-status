@@ -27,13 +27,14 @@ On November 28th (Hold Ends) i'm charged $19 because my hold is up and membershi
 
 
 **Hold Statuses**
+- Only exists on hold table, not on hold object on user.
 Pending - upcoming
 Active - cron server got hold and activated it
 Canceled - canceled
 Error - couldn't sync with stripe or cron server error
 Ended - reached last day
 
-**Membership Status and hold(s)?**
+**How does Membership status work with a hold?**
 This is complicated, I'll be back
 
 **User Can do**
