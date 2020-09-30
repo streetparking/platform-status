@@ -1,16 +1,18 @@
 ---
 layout: post
-title:  "V 2.3.07"
-date:   2020-9-22 14:24:13 -0600
+title:  "V 3.0.0"
+date:   2020-9-30 14:24:13 -0600
 categories: release-note
 
 ---
-Version 2.3.07 debuts a improvements to hold and coupon features as well as a bug fix for Admins. 
+Version 3.0.0 debuts preparatory optimization, improved data management and a handful of bug fixes.
 
 # What’s New
-- We did extensive work on all sides of membership holds and laid groundwork for future enhancements. ::sings Wilson Phillips: hollllllld on for one more dayyyy::
-- We updated Stripe packages and interfaces. When those aren’t up to date it’s not a cute look. And basically we had to do that thing in order to do another thing. 
-- The aforementioned “another thing” is a work in progress that keeps track of members and their coupon use history, which is used to prevent duplicate coupon use attempts. Repeat coupon-appliers must. be. stopped.  
+- When users entered addresses into the Google search bar, we collected the latitude and longitude data. We added that feature to manually entered addresses as well. You are here.  
+- We changed up the nature of the user hold feature so it can do all the things. (It could only do some of the things before.)
+- We did some maneuvering of how we store membership data so that it’s easier to deal with on the backend. It’s that classic “array” meets “user object” story we all know and love. #feels
+- We did some high key optimization on user holds in preparation for dealing with a lot more data. It’s so fetch. 
+
 
 
 
@@ -19,9 +21,17 @@ Version 2.3.07 debuts a improvements to hold and coupon features as well as a bu
 
 # Bug Fixes
 
-- There was a bug causing the Support Dashboard to show an incorrect number of support tickets. It was a Type A nightmare and it has been remedied.  
-<br/><br/>
+- Admin now has a cancel button when in the manual address entry mode. It was there, then it was gone in a very on-again, off-again fashion, but now it’s back - for good this time. It promises. 
+
+- We fixed a bug that caused the page to have a little identity crisis and it would change shape if the APO address slider was clicked. 
+
+- A cancel button on safari wasn’t rendering correctly so we cancelled the cancel bug. Get it? Cancelled it? Anywho, it’s fixed now. 
+
+- We removed some confusing language about holds that was showing up where it shouldn’t have and now there’s so much more room for activities! 
+
+- We fixed a bug that allowed users to advance through the Sign Up Stepper without entering a zip code. Now users cannot pass Go or collect $200 without entering a zip code. 
+
 <br/><br/>
 
 
-*[PR#57](https://github.com/streetparking/my-streetparking/pull/57#issue-487708063)* *[PR#62](https://github.com/streetparking/my-streetparking/pull/62#issue-488692409)* *[PR#65](https://github.com/streetparking/my-streetparking/pull/65#issue-489472697)* 
+*[PR#57](https://github.com/streetparking/my-streetparking/pull/57#issue-487708063)* 
