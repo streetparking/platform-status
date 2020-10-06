@@ -9,7 +9,6 @@ Version 3.0.1 debuts preparatory optimization, improved data management and a ha
 
 # What’s New
 - When users entered addresses into the Google search bar, we collected the latitude and longitude data. We added that feature to manually entered addresses as well. You are here.  
-- We changed up the nature of the user hold feature so it can do all the things. (It could only do some of the things before.)
 - We did some maneuvering of how we store membership data so that it’s easier to deal with on the backend. It’s that classic “array” meets “user object” story we all know and love. #feels
 - We did some high key optimization on user holds in preparation for dealing with a lot more data. It’s so fetch. 
 - Users can now see who made changes to holds in the activity table of the user profile, but are no longer able to make membership changes while on hold. It's called balance. 
