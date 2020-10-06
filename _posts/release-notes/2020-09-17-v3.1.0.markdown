@@ -1,0 +1,47 @@
+---
+layout: post
+title:  "V 3.0.1"
+date:   2020-10-5 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.0.1 debuts preparatory optimization, improved data management and a handful of bug fixes.
+
+# What’s New
+- When users entered addresses into the Google search bar, we collected the latitude and longitude data. We added that feature to manually entered addresses as well. You are here.  
+- We did some maneuvering of how we store membership data so that it’s easier to deal with on the backend. It’s that classic “array” meets “user object” story we all know and love. #feels
+- We did some high key optimization on user holds in preparation for dealing with a lot more data. It’s so fetch. 
+- Users can now see who made changes to holds in the activity table of the user profile, but are no longer able to make membership changes while on hold. It's called balance. 
+- We upgraded the email verification language to help users navigate that important step with a little more panache.  
+
+
+
+
+
+
+
+# Bug Fixes
+
+- Admin now has a cancel button when in the manual address entry mode. It was there, then it was gone in a very on-again, off-again fashion, but now it’s back - for good this time. It promises. 
+
+- We fixed a bug that caused the page to have a little identity crisis and it would change shape if the APO address slider was clicked. We also fixed a similar bug that was busting up staff member’s user profiles. 
+
+- A cancel button on safari wasn’t rendering correctly so we cancelled the cancel bug. Get it? _Cancelled_ it? Anywho, it’s fixed now. 
+
+- We removed some confusing language about holds that was showing up where it shouldn’t have and now there’s so much more room for activities! 
+
+- We fixed a bug that allowed users to advance through the Sign Up Stepper without entering a zip code. Now users cannot pass Go or collect $200 without entering a zip code. 
+
+- There were some bugs causing user holds to display confusing/incorrect information. Users now see the appropriate dates. We fixed them and things are now more functional and less head scratch-y. 
+
+<br/><br/>
+
+
+*[PR#66](https://github.com/streetparking/my-streetparking/pull/66#issue-490733565)* *[PR#68](https://github.com/streetparking/my-streetparking/pull/68#issue-490987350)* *[PR#69](https://github.com/streetparking/my-streetparking/pull/69#issue-491549586)* *[PR#71](https://github.com/streetparking/my-streetparking/pull/71)* *[PR#72](https://github.com/streetparking/my-streetparking/pull/69#issue-491549586)* *[PR#73](https://github.com/streetparking/my-streetparking/pull/73#issue-493325100)* *[PR#74](https://github.com/streetparking/my-streetparking/pull/74#issue-493853857)* *[PR#75](https://github.com/streetparking/my-streetparking/pull/75#issue-494294436)* *[PR#76](https://github.com/streetparking/my-streetparking/pull/76)* *[PR#77](https://github.com/streetparking/my-streetparking/pull/77#issue-494915206)* *[PR#79](https://github.com/streetparking/my-streetparking/pull/79)* *[PR#80](https://github.com/streetparking/my-streetparking/pull/80)* *[PR#81](https://github.com/streetparking/my-streetparking/pull/81)* *[PR#83](https://github.com/streetparking/my-streetparking/pull/83)*
+
+<br/><br/>
+Backend: *[prod.v.3.0.1](https://github.com/streetparking/my-streetparking/compare/my-streetparking-backend@3.0.0-alpha.0...my-streetparking-backend@3.0.0-alpha.1)*
+Frontend: *[prod.v.3.0.1](https://github.com/streetparking/my-streetparking/compare/my-streetparking-backend@3.0.0-alpha.0...my-streetparking-backend@3.0.0-alpha.1)*
+Cron: prod.v.2.4.3
+Emailer: prod.v.2.4.3
+Slack: prod.v.2.5.1
