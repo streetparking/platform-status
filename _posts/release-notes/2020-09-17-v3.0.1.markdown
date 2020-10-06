@@ -34,6 +34,11 @@ Version 3.0.1 debuts preparatory optimization, improved data management and a ha
 <br/><br/>
 
 
-*[PR#66](https://github.com/streetparking/my-streetparking/pull/66#issue-490733565)* *[PR#68](https://github.com/streetparking/my-streetparking/pull/68#issue-490987350)* *[PR#69](https://github.com/streetparking/my-streetparking/pull/69#issue-491549586)* *[PR#71](https://github.com/streetparking/my-streetparking/pull/71)* *[PR#72](https://github.com/streetparking/my-streetparking/pull/69#issue-491549586)* *[PR#73](https://github.com/streetparking/my-streetparking/pull/73#issue-493325100)* *[PR#74](https://github.com/streetparking/my-streetparking/pull/74#issue-493853857)* *[PR#75](https://github.com/streetparking/my-streetparking/pull/75#issue-494294436)* *[PR#76](https://github.com/streetparking/my-streetparking/pull/76)* *[PR#77](https://github.com/streetparking/my-streetparking/pull/77#issue-494915206)* *[79](https://github.com/streetparking/my-streetparking/pull/79)* *[PR#80](https://github.com/streetparking/my-streetparking/pull/80)* *[PR#81](https://github.com/streetparking/my-streetparking/pull/81)* *[PR#83](https://github.com/streetparking/my-streetparking/pull/83)*
+*[PR#66](https://github.com/streetparking/my-streetparking/pull/66#issue-490733565)* *[PR#68](https://github.com/streetparking/my-streetparking/pull/68#issue-490987350)* *[PR#69](https://github.com/streetparking/my-streetparking/pull/69#issue-491549586)* *[PR#71](https://github.com/streetparking/my-streetparking/pull/71)* *[PR#72](https://github.com/streetparking/my-streetparking/pull/69#issue-491549586)* *[PR#73](https://github.com/streetparking/my-streetparking/pull/73#issue-493325100)* *[PR#74](https://github.com/streetparking/my-streetparking/pull/74#issue-493853857)* *[PR#75](https://github.com/streetparking/my-streetparking/pull/75#issue-494294436)* *[PR#76](https://github.com/streetparking/my-streetparking/pull/76)* *[PR#77](https://github.com/streetparking/my-streetparking/pull/77#issue-494915206)* *[PR#79](https://github.com/streetparking/my-streetparking/pull/79)* *[PR#80](https://github.com/streetparking/my-streetparking/pull/80)* *[PR#81](https://github.com/streetparking/my-streetparking/pull/81)* *[PR#83](https://github.com/streetparking/my-streetparking/pull/83)*
 
-
+<br/><br/>
+Backend: *[prod.v.3.0.1](https://github.com/streetparking/my-streetparking/compare/my-streetparking-backend@3.0.0-alpha.0...my-streetparking-backend@3.0.0-alpha.1)*
+Frontend: *[prod.v.3.0.1](https://github.com/streetparking/my-streetparking/compare/my-streetparking-backend@3.0.0-alpha.0...my-streetparking-backend@3.0.0-alpha.1)*
+Cron: prod.v.2.4.3
+Emailer: prod.v.2.4.3
+Slack: prod.v.2.5.1
