@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "V 3.0.0"
-date:   2020-9-30 14:24:13 -0600
+title:  "V 3.0.1"
+date:   2020-10-5 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.0.0 debuts preparatory optimization, improved data management and a handful of bug fixes.
+Version 3.0.1 debuts preparatory optimization, improved data management and a handful of bug fixes.
 
 # What’s New
 - When users entered addresses into the Google search bar, we collected the latitude and longitude data. We added that feature to manually entered addresses as well. You are here.  
@@ -34,4 +34,6 @@ Version 3.0.0 debuts preparatory optimization, improved data management and a ha
 <br/><br/>
 
 
-*[PR#66](https://github.com/streetparking/my-streetparking/pull/66#issue-490733565)* *[PR#68] (https://github.com/streetparking/my-streetparking/pull/68#issue-490987350)* *[PR#69] (https://github.com/streetparking/my-streetparking/pull/69#issue-491549586)* *[PR#72] (https://github.com/streetparking/my-streetparking/pull/69#issue-491549586)* *[PR#73] (https://github.com/streetparking/my-streetparking/pull/73#issue-493325100)* *[PR#74] (https://github.com/streetparking/my-streetparking/pull/74#issue-493853857)* *[PR#75] (https://github.com/streetparking/my-streetparking/pull/75#issue-494294436)* *[PR#77] (https://github.com/streetparking/my-streetparking/pull/77#issue-494915206)* *[] 
+*[PR#66](https://github.com/streetparking/my-streetparking/pull/66#issue-490733565)* *[PR#68](https://github.com/streetparking/my-streetparking/pull/68#issue-490987350)* *[PR#69](https://github.com/streetparking/my-streetparking/pull/69#issue-491549586)* *[PR#71](https://github.com/streetparking/my-streetparking/pull/71)* *[PR#72](https://github.com/streetparking/my-streetparking/pull/69#issue-491549586)* *[PR#73](https://github.com/streetparking/my-streetparking/pull/73#issue-493325100)* *[PR#74](https://github.com/streetparking/my-streetparking/pull/74#issue-493853857)* *[PR#75](https://github.com/streetparking/my-streetparking/pull/75#issue-494294436)* *[PR#76](https://github.com/streetparking/my-streetparking/pull/76)* *[PR#77](https://github.com/streetparking/my-streetparking/pull/77#issue-494915206)* *[79](https://github.com/streetparking/my-streetparking/pull/79)* *[PR#80](https://github.com/streetparking/my-streetparking/pull/80)* *[PR#81](https://github.com/streetparking/my-streetparking/pull/81)* *[PR#83](https://github.com/streetparking/my-streetparking/pull/83)*
+
+
