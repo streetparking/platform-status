@@ -23,10 +23,11 @@ Version 3.3.0 debuts an few new features and a bug fix.
 
 
 *[PR#85](https://github.com/streetparking/my-streetparking/pull/85)* *[PR#86](https://github.com/streetparking/my-streetparking/pull/86)* *[PR#87](https://github.com/streetparking/my-streetparking/pull/87)* 
+*[PR#91](https://github.com/streetparking/my-streetparking/pull/91#issue-500409529)*
 
 <br/><br/>
 Backend: prod.v.3.0.3
-Frontend: prod.v.3.1.0
+Frontend: prod.v.3.3.0
 Cron: prod.v.2.4.5
 Emailer: prod.v.2.4.5
 Slack: prod.v.2.5.3
