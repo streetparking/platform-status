@@ -30,5 +30,12 @@ categories: release-note
 # Performance Improvements
 - redis: moved redis to the root src for easier distribution *[(d514661)](https://github.com/streetparking/my-streetparking/commit/d514661bab530827f9b6c909664936fd9042938b)*
 - redis: updated redis service with more included packages and types *[(f9bbcca)](https://github.com/streetparking/my-streetparking/commit/f9bbcca50a7959bb128679e5ac7e21f09bb2543c)*
-
 <br/><br/>
+
+# Versions
+ - my-streetparking-backend-emailer@2.5.1
+ - my-streetparking-backend-fitness@2.1.1
+ - my-streetparking-backend@3.1.1
+ - my-streetparking-cron@2.6.1
+ - my-streetparking-slack@2.5.1
+ - taskmaster@0.1.1
