@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "V 3.1.0"
-date:   2020-10-6 14:24:13 -0600
+title:  "V 3.3.0"
+date:   2020-10-9 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.1.0 debuts an email improvement and a bug fix.
+Version 3.3.0 debuts an few new features and a bug fix.
 
 # What’s New
 - We changed the nature of the membership object and subsequently, the email query needed to get up to speed so it knew to look for the right things in order to send emails. Get the net.
+- Promotional memberships now populate in the dropdown on the payment page with a star and the discounted price. The dropdown also allows for multiple promotional prices to show at once. The default membership will be the lowest priced option. What's not to love?!
+- We added a smart little membership selection priority protocol that helps users see the most applicable membership by the time they reach checkout. 
 
 
 
