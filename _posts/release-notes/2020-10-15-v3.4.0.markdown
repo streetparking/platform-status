@@ -8,23 +8,20 @@ categories: release-note
 Version 3.4.0 debuts a user notification update, text and formatting changes as well as some performance boosters. 
 
 # What’s New
-- When bulk emails are sent out, the Notification table for each individual user is updated to show that email was sent. So it’s not just one bulk “hey this was sent” kinda vibe and more of a “You’ve got mail!” kinda vibe. 
-- We added a performance enhancement that essentially cuts out the middleman between users and servers and makes things...you guessed it! Speedier. (And super important for handling loads of members.) 
+- When bulk emails are sent out, the notification table for each individual user is updated. So it’s not just one bulk “hey this was sent” kinda vibe and more of a “You’ve got mail!” kinda vibe. 
+- We added a performance enhancement that essentially cuts out the middleman between users and servers and makes things totes fast. (And super important for handling loads of members.) 
 - We removed the bold formatting on the email verification page, because calm down, it’s just a verification page - no need for any bold sass-text. 
 - We added the shopify-coupon-id to the link sent in the SP Mama’s email. It’s now a simple click and go situation. Easy peasy - just like parenthood. 
 - We updated some language on the payment page so it’s a little smoother and made some helper text even helpier.  
-- We added a cute little 🌙 “sleep”  button on the social media table. It’s less about beauty rest and more about allowing Admins to set a "sleep" timer on a member pending an ADD or REMOVE from social media platforms. 
+- We added a cute little 🌙  “sleep”  button on the social media table. It’s less about beauty rest and more about allowing Admins to set a "sleep" timer on a member pending an ADD or REMOVE from social media platforms. 
 
 
 <br/><br/>
 
 
-*[PR#85](https://github.com/streetparking/my-streetparking/pull/85)* *[PR#86](https://github.com/streetparking/my-streetparking/pull/86)* *[PR#87](https://github.com/streetparking/my-streetparking/pull/87)* 
-*[PR#91](https://github.com/streetparking/my-streetparking/pull/91#issue-500409529)*
+*[PR#88](https://github.com/streetparking/my-streetparking/pull/88#issue-498953161)* *[PR#89](https://github.com/streetparking/my-streetparking/pull/89#issue-499445444)* *[PR#90](https://github.com/streetparking/my-streetparking/pull/90)* *[PR#92](https://github.com/streetparking/my-streetparking/pull/92#issue-500755424)* *[PR#93](https://github.com/streetparking/my-streetparking/pull/93)* *[PR#95](https://github.com/streetparking/my-streetparking/pull/95)* *[PR#96](https://github.com/streetparking/my-streetparking/pull/96)* *[PR#97](https://github.com/streetparking/my-streetparking/pull/97)* *[PR#98](https://github.com/streetparking/my-streetparking/pull/98#issue-503729068)*
 
 <br/><br/>
-Backend: prod.v.3.0.3
-Frontend: prod.v.3.3.0
-Cron: prod.v.2.4.5
-Emailer: prod.v.2.4.5
-Slack: prod.v.2.5.3
+my-streetparking-backend-emailer@2.5.3 \| my-streetparking-backend-fitness@2.1.2 \| <br/> my-streetparking-backend@3.3.0 \| my-streetparking-cron@2.6.3 \|
+ *[my-streetparking-frontend@3.4.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| my-streetparking-slack@2.5.2 \| taskmaster@0.1.3
+
