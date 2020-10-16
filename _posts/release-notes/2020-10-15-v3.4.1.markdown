@@ -16,13 +16,12 @@ Version 3.4.1 debuts a user notification update, text and formatting changes as 
 - There was a bug that was erroneously sending suspensions to Wodify if a membership was trialing in the new application. We fixed it and now the suspensions are suspended...expelled really. 
 
 
-
-<br/><br/>
+<br/>
 
 
 *[PR#100](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* 
 
-<br/><br/>
-my-streetparking-backend-emailer@2.5.3 \| my-streetparking-backend-fitness@2.1.2 \| <br/> my-streetparking-backend@3.3.0 \| my-streetparking-cron@2.6.3 \|
- *[my-streetparking-frontend@3.4.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| my-streetparking-slack@2.5.2 \| taskmaster@0.1.3
+<br/>
 
+my-streetparking-backend-emailer@2.6.0 \| my-streetparking-backend-fitness@2.2.0 \| <br/> my-streetparking-backend@3.4.0 \| my-streetparking-cron@2.7.0 \| *[my-streetparking-frontend@3.4.1](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \|
+ my-streetparking-slack@2.6.0 \| taskmaster@0.2.0
