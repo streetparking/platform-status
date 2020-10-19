@@ -5,7 +5,7 @@ date:   2020-10-15 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.4.1 debuts a user notification update, text and formatting changes as well as some performance boosters. 
+Version 3.4.1 debuts a new email trigger, an email updat, and a couple of fixed bugs. 
 
 # What’s New
 - We created a new feature for emails that uses a pattern to trigger emails. It’s simple and efficient and super duper needed. And if you buy two right now, you get a third one for only the cost of shipping. 
