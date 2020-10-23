@@ -5,7 +5,7 @@ date:   2020-10-23 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.5.1 debuts a cornucopia of updates to promotions, new processes for returning users and a couple of fixed bugs. 
+Version 3.5.1 debuts a cornucopia of updates to promotions, new processes for returning users and a few fixed bugs. 
 
 # What’s New
 - We did some serious (and majorly necessary) upgrading to the promotional processes of the payment page. It’s kind of a facelift + Marie Kondo vibe for promos.
@@ -36,7 +36,8 @@ Version 3.5.1 debuts a cornucopia of updates to promotions, new processes for re
 - We fixed a couple lil typos and spacing thangs.
 <br/><br/>
 - Everyone knows there’s nothing worse than a hampered coupon. So we fixed a bug that was messing up coupon usage. Users can now use coupons as intended. Unhampered. 
-
+<br/><br/>
+- There was a thing where the "Back" and "Save and Exit" buttons weren't working, so we were basically trapping users. We fixed it because you can't just trap people. 
 
 
 <br/>
