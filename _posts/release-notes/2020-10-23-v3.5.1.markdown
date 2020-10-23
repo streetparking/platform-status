@@ -1,15 +1,34 @@
 ---
 layout: post
-title:  "V 3.4.1"
-date:   2020-10-15 14:24:13 -0600
+title:  "V 3.5.1"
+date:   2020-10-23 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.4.1 debuts a new email trigger, an email update, and a couple of fixed bugs. 
+Version 3.5.1 debuts a cornucopia of updates to the promo feature, updates and fixes for returning users and a couple of fixed bugs. 
 
 # What’s New
-- We created a new feature for emails that uses a pattern to trigger emails. It’s simple and efficient and super duper needed. And if you buy two right now, you get a third one for only the cost of shipping. 
-- We updated user notifications to take message queues from other services. Basically it’s a techy thing where two different server apps can talk to each other and it’s important in email land. 
+- We did some serious (and majorly necessary) upgrading to the promotional processes of the payment page. It’s kind of a facelift + Marie Kondo vibe for promos.
+    - We made it so that if there are multiple promotions running at one time, users can see the promotions gorgeously grouped for selection. 
+    - If more than one promotion has the same name (twinsies), the promotion created first will show up to avoid conflicts. 
+    - If a promotion is not applicable due to a discount code, the promotion will be removed from the dropdown list. 
+    - For a while, promotions had stars next to them and now they don’t.
+<br/>
+
+- The ‘Change Membership’ option on Manage Membership got a facelift (well, actually a pretty solid rebuild, but tell your friends whatever you want). We changed the language and architecture to better suit the needs of incomplete_expired and cancelled users.
+    - Returning users now see “Activate Membership” and it’s much more chic.
+    - Incomplete_expired status users can no longer make membership changes in the form of Holds and Cancellations. 
+    - Users with an incomple_expired or cancelled status can now complete their membership, update payment and return to active status without a major shenanigan.  
+    - If a user is on hold, they can hop on onto their membership, stop their membership from being held and immediately achieve an active membership status. Wam Bam. 
+    - If a user has initiated a cancellation, the cancellation can be cancelled from Manage Membership and can immediately return to an active membership status. ::sings: Reunited and it feels so goooood!::
+    - Returning users can also enter a code that will connect a user with a special membership situation that’ll disable other membership options so it’s nice and clear. 
+<br/>
+- We improved language on the About You page to direct users to complete the Social Media fields instead of skipping them, only to turn around and say to themselves “OMG I have made a huge mistake, now I need to email support.”
+- Failed invoices will now be cancelled rather than hanging out waiting to cause problems like disreputable invoices often do. 
+- Admins can now create a Staff member from a lead. It’s like getting knighted almost.  
+
+
+ 
 
 # Bug Fixes
 - We fixed a confusion in membership activity that displayed pending holds rather than just current holds. Let’s just be present and not mix things up with upcoming holds, mmmkay?
