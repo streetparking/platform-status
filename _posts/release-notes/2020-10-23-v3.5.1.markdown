@@ -5,7 +5,7 @@ date:   2020-10-23 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.5.1 debuts a cornucopia of updates to the promo feature, updates and fixes for returning users and a couple of fixed bugs. 
+Version 3.5.1 debuts a cornucopia of updates to promotions, new processes for returning users and a couple of fixed bugs. 
 
 # What’s New
 - We did some serious (and majorly necessary) upgrading to the promotional processes of the payment page. It’s kind of a facelift + Marie Kondo vibe for promos.
