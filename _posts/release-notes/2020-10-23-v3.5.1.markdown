@@ -46,5 +46,10 @@ Version 3.5.1 debuts a cornucopia of updates to the promo feature, updates and f
 
 <br/>
 
-my-streetparking-backend-emailer@2.6.0 \| my-streetparking-backend-fitness@2.2.0 \| <br/> my-streetparking-backend@3.4.0 \| my-streetparking-cron@2.7.0 \| *[my-streetparking-frontend@3.4.1](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \|
- my-streetparking-slack@2.6.0 \| taskmaster@0.2.0
+my-streetparking-backend-emailer@2.6.2 \| my-streetparking-backend-fitness@2.2.1 \| <br/> [my-streetparking-backend@3.5.1](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md) \| my-streetparking-cron@2.7.1 \| *[my-streetparking-frontend@3.5.1](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+
+
+
+ 
+ 
+ 
