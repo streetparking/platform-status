@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "V 3.4.1"
+date:   2020-10-15 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.4.1 debuts a new email trigger, an email update, and a couple of fixed bugs. 
+
+# What’s New
+- We created a new feature for emails that uses a pattern to trigger emails. It’s simple and efficient and super duper needed. And if you buy two right now, you get a third one for only the cost of shipping. 
+- We updated user notifications to take message queues from other services. Basically it’s a techy thing where two different server apps can talk to each other and it’s important in email land. 
+
+# Bug Fixes
+- We fixed a confusion in membership activity that displayed pending holds rather than just current holds. Let’s just be present and not mix things up with upcoming holds, mmmkay?
+- There was a bug that was erroneously sending suspensions to Wodify if a membership was trialing in the new application. We fixed it and now the suspensions are suspended...expelled really. 
+
+
+<br/>
+
+
+*[PR#100](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* 
+
+<br/>
+
+my-streetparking-backend-emailer@2.6.0 \| my-streetparking-backend-fitness@2.2.0 \| <br/> my-streetparking-backend@3.4.0 \| my-streetparking-cron@2.7.0 \| *[my-streetparking-frontend@3.4.1](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \|
+ my-streetparking-slack@2.6.0 \| taskmaster@0.2.0
