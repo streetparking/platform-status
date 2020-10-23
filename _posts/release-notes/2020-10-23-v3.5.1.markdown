@@ -13,7 +13,7 @@ Version 3.5.1 debuts a cornucopia of updates to the promo feature, updates and f
     - If more than one promotion has the same name (twinsies), the promotion created first will show up to avoid conflicts. 
     - If a promotion is not applicable due to a discount code, the promotion will be removed from the dropdown list. 
     - For a while, promotions had stars next to them and now they don’t.
-<br/>
+<br/><br/>
 
 - The ‘Change Membership’ option on Manage Membership got a facelift (well, actually a pretty solid rebuild, but tell your friends whatever you want). We changed the language and architecture to better suit the needs of incomplete_expired and cancelled users.
     - Returning users now see “Activate Membership” and it’s much more chic.
@@ -22,9 +22,11 @@ Version 3.5.1 debuts a cornucopia of updates to the promo feature, updates and f
     - If a user is on hold, they can hop on onto their membership, stop their membership from being held and immediately achieve an active membership status. Wam Bam. 
     - If a user has initiated a cancellation, the cancellation can be cancelled from Manage Membership and can immediately return to an active membership status. ::sings: Reunited and it feels so goooood!::
     - Returning users can also enter a code that will connect a user with a special membership situation that’ll disable other membership options so it’s nice and clear. 
-<br/>
+<br/><br/>
 - We improved language on the About You page to direct users to complete the Social Media fields instead of skipping them, only to turn around and say to themselves “OMG I have made a huge mistake, now I need to email support.”
+<br/><br/>
 - Failed invoices will now be cancelled rather than hanging out waiting to cause problems like disreputable invoices often do. 
+<br/><br/>
 - Admins can now create a Staff member from a lead. It’s like getting knighted almost.  
 
 
@@ -32,6 +34,7 @@ Version 3.5.1 debuts a cornucopia of updates to the promo feature, updates and f
 
 # Bug Fixes
 - We fixed a couple lil typos and spacing thangs.
+<br/><br/>
 - Everyone knows there’s nothing worse than a hampered coupon. So we fixed a bug that was messing up coupon usage. Users can now use coupons as intended. Unhampered. 
 
 
@@ -39,7 +42,7 @@ Version 3.5.1 debuts a cornucopia of updates to the promo feature, updates and f
 <br/>
 
 
-*[PR#101](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* 
+*[PR#101](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* *[PR#102](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* *[PR#103](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* *[PR#104](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* *[PR#105](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* *[PR#106](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* 
 
 <br/>
 
