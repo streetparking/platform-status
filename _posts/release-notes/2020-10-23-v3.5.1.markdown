@@ -31,14 +31,15 @@ Version 3.5.1 debuts a cornucopia of updates to the promo feature, updates and f
  
 
 # Bug Fixes
-- We fixed a confusion in membership activity that displayed pending holds rather than just current holds. Let’s just be present and not mix things up with upcoming holds, mmmkay?
-- There was a bug that was erroneously sending suspensions to Wodify if a membership was trialing in the new application. We fixed it and now the suspensions are suspended...expelled really. 
+- We fixed a couple lil typos and spacing thangs.
+- Everyone knows there’s nothing worse than a hampered coupon. So we fixed a bug that was messing up coupon usage. Users can now use coupons as intended. Unhampered. 
+
 
 
 <br/>
 
 
-*[PR#100](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* 
+*[PR#101](https://github.com/streetparking/my-streetparking/pull/100#issue-504413496)* 
 
 <br/>
 
