@@ -17,35 +17,22 @@ Version 3.6.0  debuts some important data management optimization, a major chang
 
 <br/><br/>
 
-- There was an annoying bug that kept Admins from seeing Lead profiles. We fixed it because who do you think you are? And...what gives you the right? 
-- Some users weren’t able to see the newest options on Manage Membership pages - instead they were stuck with the crusty old version. We fixed it and now they see the gorgeously way more helpful version. 
-
-<br/><br/>
-- We improved language on the About You page to direct users to complete the Social Media fields instead of skipping them, only to turn around and say to themselves “OMG I have made a huge mistake, now I must email support.”
-<br/><br/>
-- Failed invoices will now be cancelled rather than hanging out waiting to cause problems like disreputable invoices often do. 
-<br/><br/>
-- Admins can now create a Staff member from a lead. It’s like getting knighted almost.  
-
-
- 
-
 # Bug Fixes
-- We fixed a couple lil typos and spacing thangs.
-<br/><br/>
-- Everyone knows there’s nothing worse than a hampered coupon. So we fixed a bug that was messing up coupon usage. Users can now use coupons as intended. Unhampered. 
-<br/><br/>
-- There was a thing where the "Back" and "Save and Exit" buttons weren't working, so we were basically trapping users. We fixed it because you can't just trap people. 
+- There was an annoying bug that kept Admins from seeing Lead profiles. We fixed it because who do you think you are? And...what gives you the right? 
+<br/>
+
+- Some users weren’t able to see the newest options on Manage Membership pages - instead they were stuck with the crusty old version. We fixed it and now they see the gorgeously way more helpful version. 
+  
 
 
 <br/>
 
 
-*[PR#101](https://github.com/streetparking/my-streetparking/pull/101)* *[PR#102](https://github.com/streetparking/my-streetparking/pull/102)* *[PR#103](https://github.com/streetparking/my-streetparking/pull/103)* *[PR#104](https://github.com/streetparking/my-streetparking/pull/104)* *[PR#105](https://github.com/streetparking/my-streetparking/pull/105)* *[PR#106](https://github.com/streetparking/my-streetparking/pull/106)* 
+*[PR#107](https://github.com/streetparking/my-streetparking/pull/107)* *[PR#108](https://github.com/streetparking/my-streetparking/pull/108)* *[PR#109](https://github.com/streetparking/my-streetparking/pull/109)* *[PR#110](https://github.com/streetparking/my-streetparking/pull/110)* *[PR#12](https://github.com/streetparking/my-streetparking/pull/112)* 
 
 <br/>
 
-my-streetparking-backend-emailer@2.6.2 \| my-streetparking-backend-fitness@2.2.1 \| <br/> [my-streetparking-backend@3.5.1](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md) \| my-streetparking-cron@2.7.1 \| *[my-streetparking-frontend@3.5.1](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+my-streetparking-backend-emailer@2.7.0 \| my-streetparking-backend-fitness@2.3.0 \| <br/> my-streetparking-backend@3.6.0 \| my-streetparking-cron@2.8.0 \| *[my-streetparking-frontend@3.6.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| my-streetparking-slack@2.7.0 \| -taskmaster@0.3.0
 
 
 
