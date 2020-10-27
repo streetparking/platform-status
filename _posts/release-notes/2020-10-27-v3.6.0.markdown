@@ -17,13 +17,9 @@ Version 3.6.0  debuts some important data management optimization, a major chang
 
 <br/><br/>
 
-- The ‘Change Membership’ option on Manage Membership got a facelift (well, actually a pretty solid rebuild, but tell your friends whatever you want). 
-    - Returning users now see 'Activate Membership' rather than 'Change Membership' and it’s much more chic.
-    - Incomplete_expired status users can no longer make membership changes in the form of Holds and Cancellations. 
-    - Users with an incomple_expired or cancelled status can now complete their membership, update payment and return to active status without a major shenanigan.  
-    - If a user is on hold, they can hop on onto their membership, stop their membership from being held and immediately achieve an active membership status. Wam Bam. 
-    - If a user has initiated a cancellation, the cancellation can be cancelled and the user will immediately return to an active membership status. Reunited and it feels so goood!!
-    - Returning users can also enter a code that will connect a user with a special membership situation that’ll disable other membership options so it’s nice and clear. 
+- There was an annoying bug that kept Admins from seeing Lead profiles. We fixed it because who do you think you are? And...what gives you the right? 
+- Some users weren’t able to see the newest options on Manage Membership pages - instead they were stuck with the crusty old version. We fixed it and now they see the gorgeously way more helpful version. 
+
 <br/><br/>
 - We improved language on the About You page to direct users to complete the Social Media fields instead of skipping them, only to turn around and say to themselves “OMG I have made a huge mistake, now I must email support.”
 <br/><br/>
