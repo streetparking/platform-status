@@ -5,7 +5,7 @@ date:   2020-11-11 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.7.0  debuts 
+Version 3.7.0  debuts admin tools, payment page upgrades, two new emails and three fixed bugs. 
 
 
 # What’s New
