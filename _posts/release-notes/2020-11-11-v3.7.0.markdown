@@ -19,21 +19,25 @@ Version 3.7.0  debuts
 <br/><br/>
 
 # Bug Fixes
-- There was an annoying bug that kept Admins from seeing Lead profiles. We fixed it because who do you think you are? And...what gives you the right? 
+- We fixed a bug stopping admins from being able to delete leads. Admins can now delete all the leads, but don’t do that, just the delete-y ones.
 <br/>
 
-- S
+- We fixed a bug that was showing a $0.00 amount when a user tried to activate a membership. It was buggy and confusing, like i’m trying to come back; let me pay please.
+<br/>
+
+- The Reset Password button didn’t reset passwords, so that wasn’t great. But we fixed it and it’s now great (as far as resetting passwords goes). 
+ 
   
 
 
 <br/>
 
 
-*[PR#107](https://github.com/streetparking/my-streetparking/pull/107)* *[PR#108](https://github.com/streetparking/my-streetparking/pull/108)* *[PR#109](https://github.com/streetparking/my-streetparking/pull/109)* *[PR#110](https://github.com/streetparking/my-streetparking/pull/110)* *[PR#112](https://github.com/streetparking/my-streetparking/pull/112)* 
+*[PR#114](https://github.com/streetparking/my-streetparking/pull/114)* *[PR#115](https://github.com/streetparking/my-streetparking/pull/115)* *[PR#116](https://github.com/streetparking/my-streetparking/pull/116)* *[PR#117]https://github.com/streetparking/my-streetparking/pull/117)* *[PR#118](https://github.com/streetparking/my-streetparking/pull/118)* *[PR#119](https://github.com/streetparking/my-streetparking/pull/119)* *[PR#120](https://github.com/streetparking/my-streetparking/pull/120)* 
 
 <br/>
 
-my-streetparking-backend-emailer@2.7.0 \| my-streetparking-backend-fitness@2.3.0 \| <br/> my-streetparking-backend@3.6.0 \| my-streetparking-cron@2.8.0 \| *[my-streetparking-frontend@3.6.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| my-streetparking-slack@2.7.0 \| -taskmaster@0.3.0
+my-streetparking-backend-emailer@2.8.0 \| my-streetparking-backend-fitness@2.4.0 \| <br/> [my-streetparking-backend@3.7.0] *(https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| my-streetparking-cron@2.9.0 \| *[my-streetparking-frontend@3.7.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* \| my-streetparking-slack@2.8.0 \| -taskmaster@0.4.0
 
 
 
