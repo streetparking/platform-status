@@ -8,26 +8,15 @@ categories: release-note
 Version 3.7.2  debuts the ability to apply coupons to specific member groups.
 
 # What’s New
-- We made it so the lowest priced membership pre-selects when multiple promos are running. You’re welcome, thrifty people. 
-- If a user doesn’t qualify for a membership, it shows as disabled in the dropdown. So tidy. 
-- We added payment summaries to the payment page when a coupon or promo has been applied. Show them the money.
-- We hooked up two new emails for when users request to cancel and request non-renewal. Miss you already.  
-- We gave the user profile a little facelift so users can change names and update social media information. It’s now fresh and slightly younger looking.
-- Admins can now cancel a membership immediately or in the next cycle: both neatly packaged in a ‘danger zone’ so admins don’t just go cancelling users willy nilly.
+- Member groups are now part of coupon codes so admins can specify if a particular group or groups (new users, returning users, current users) can apply coupons to specific memberships (or in general). It’s kind of like when Glen Coco got 4 candy canes, Cady Heron got 1 and none for Gretchen Weiners, bye. 
+
 
 <br/><br/>
 
 # Bug Fixes
-- We fixed a bug stopping admins from being able to delete leads. Admins can now delete all the leads, but don’t do that, just the delete-y ones.
+- Nothing to see here.
 <br/>
-
-- We fixed a bug that was showing a $0.00 amount when a user tried to activate a membership. It was buggy and confusing, like i’m trying to come back; let me pay please.
-<br/>
-
-- The Reset Password button didn’t reset passwords, so that wasn’t great. But we fixed it and it’s now great (as far as resetting passwords goes). 
- 
   
-
 
 <br/>
 
