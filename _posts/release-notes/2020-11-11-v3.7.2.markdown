@@ -5,8 +5,7 @@ date:   2020-11-11 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.7.2  debuts admin tools, payment page upgrades, two new emails and three fixed bugs. 
-
+Version 3.7.2  debuts the ability to apply coupons to specific member groups.
 
 # What’s New
 - We made it so the lowest priced membership pre-selects when multiple promos are running. You’re welcome, thrifty people. 
