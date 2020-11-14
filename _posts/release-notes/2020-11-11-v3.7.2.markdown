@@ -6,12 +6,12 @@ categories: release-note
 
 ---
 Version 3.7.2  debuts the ability to apply coupons to specific member groups.
+<br/><br/>
+
 
 # What’s New
 - Member groups are now part of coupon codes so admins can specify if a particular group or groups (new users, returning users, current users) can apply coupons to specific memberships (or in general). It’s kind of like when Glen Coco got 4 candy canes, Cady Heron got 1 and none for Gretchen Weiners, bye. 
 
-
-<br/><br/>
 
 # Bug Fixes
 - Nothing to see here.
@@ -21,11 +21,11 @@ Version 3.7.2  debuts the ability to apply coupons to specific member groups.
 <br/>
 
 
-*[PR#114](https://github.com/streetparking/my-streetparking/pull/114)* *[PR#115](https://github.com/streetparking/my-streetparking/pull/115)* *[PR#116](https://github.com/streetparking/my-streetparking/pull/116)* *[PR#117](https://github.com/streetparking/my-streetparking/pull/117)* *[PR#118](https://github.com/streetparking/my-streetparking/pull/118)* *[PR#119](https://github.com/streetparking/my-streetparking/pull/119)* *[PR#120](https://github.com/streetparking/my-streetparking/pull/120)* 
+*[PR#124](https://github.com/streetparking/my-streetparking/pull/124#issue-518798063)*
 
 <br/>
 
-my-streetparking-backend-emailer@2.8.0 \| my-streetparking-backend-fitness@2.4.0 \| <br/> *[my-streetparking-backend@3.7.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| my-streetparking-cron@2.9.0 \| *[my-streetparking-frontend@3.7.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* \| my-streetparking-slack@2.8.0 \| taskmaster@0.4.0
+my-streetparking-backend-emailer@2.8.2 \| *[my-streetparking-backend@3.7.2](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| <br> *[my-streetparking-frontend@3.7.2](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
 
 
 
