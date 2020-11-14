@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "V 3.7.2"
-date:   2020-11-11 14:24:13 -0600
+date:   2020-11-13 14:24:13 -0600
 categories: release-note
 
 ---
@@ -10,7 +10,7 @@ Version 3.7.2  debuts the ability to apply coupons to specific member groups.
 
 
 # What’s New
-- Member groups are now part of coupon codes so admins can specify if a particular group or groups (new, returning and/or current users) can apply coupons to specific memberships (or in general). It’s kind of like when Glen Coco got 4 candy canes, Cady Heron got 1 and none for Gretchen Weiners, bye. 
+- Admins can now specify which member group(s) (new, returning, or current users) can apply coupons to specific memberships (or in general). It’s kind of like when Glen Coco got 4 candy canes, Cady Heron got 1 and none for Gretchen Weiners, bye. 
 
 
 # Bug Fixes
