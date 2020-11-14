@@ -1,0 +1,46 @@
+---
+layout: post
+title:  "V 3.7.2"
+date:   2020-11-11 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.7.2  debuts admin tools, payment page upgrades, two new emails and three fixed bugs. 
+
+
+# What’s New
+- We made it so the lowest priced membership pre-selects when multiple promos are running. You’re welcome, thrifty people. 
+- If a user doesn’t qualify for a membership, it shows as disabled in the dropdown. So tidy. 
+- We added payment summaries to the payment page when a coupon or promo has been applied. Show them the money.
+- We hooked up two new emails for when users request to cancel and request non-renewal. Miss you already.  
+- We gave the user profile a little facelift so users can change names and update social media information. It’s now fresh and slightly younger looking.
+- Admins can now cancel a membership immediately or in the next cycle: both neatly packaged in a ‘danger zone’ so admins don’t just go cancelling users willy nilly.
+
+<br/><br/>
+
+# Bug Fixes
+- We fixed a bug stopping admins from being able to delete leads. Admins can now delete all the leads, but don’t do that, just the delete-y ones.
+<br/>
+
+- We fixed a bug that was showing a $0.00 amount when a user tried to activate a membership. It was buggy and confusing, like i’m trying to come back; let me pay please.
+<br/>
+
+- The Reset Password button didn’t reset passwords, so that wasn’t great. But we fixed it and it’s now great (as far as resetting passwords goes). 
+ 
+  
+
+
+<br/>
+
+
+*[PR#114](https://github.com/streetparking/my-streetparking/pull/114)* *[PR#115](https://github.com/streetparking/my-streetparking/pull/115)* *[PR#116](https://github.com/streetparking/my-streetparking/pull/116)* *[PR#117](https://github.com/streetparking/my-streetparking/pull/117)* *[PR#118](https://github.com/streetparking/my-streetparking/pull/118)* *[PR#119](https://github.com/streetparking/my-streetparking/pull/119)* *[PR#120](https://github.com/streetparking/my-streetparking/pull/120)* 
+
+<br/>
+
+my-streetparking-backend-emailer@2.8.0 \| my-streetparking-backend-fitness@2.4.0 \| <br/> *[my-streetparking-backend@3.7.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| my-streetparking-cron@2.9.0 \| *[my-streetparking-frontend@3.7.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* \| my-streetparking-slack@2.8.0 \| taskmaster@0.4.0
+
+
+
+ 
+ 
+ 
