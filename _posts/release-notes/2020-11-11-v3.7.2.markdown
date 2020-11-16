@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "V 3.7.2"
+title:  V 3.7.2
 date:   2020-11-13 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.7.2  debuts the ability to apply coupons to specific member groups.
+Version 3.7.2  has been rolled back to 3.7.0 due to a bug.  
 <br/><br/>
+Dev Team: Do not roll back to 3.7.2.
 
 
 # What’s New
