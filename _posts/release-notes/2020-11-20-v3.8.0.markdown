@@ -5,7 +5,7 @@ date:   2020-11-20 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.0  has been rolled back to 3.7.0 due to a bug.  
+Version 3.8.0  debuts the ability to apply coupons to specific member groups, update emails including a help for new SP Mamas and a handful of demolished bugs. 
 <br/><br/>
 
 
