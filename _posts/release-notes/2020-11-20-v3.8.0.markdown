@@ -1,0 +1,34 @@
+---
+layout: post
+title:  V 3.8.0
+date:   2020-11-20 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.8.0  has been rolled back to 3.7.0 due to a bug.  
+<br/><br/>
+
+
+# What’s New
+- Admins can now specify which member group(s) (new, returning, or current users) can apply coupons to specific memberships (or in general). It’s kind of like when Glen Coco got 4 candy canes, Cady Heron got 1 and none for Gretchen Weiners, bye. 
+
+
+# Bug Fixes
+- Nothing to see here.
+<br/>
+  
+
+<br/>
+
+
+*[PR#124](https://github.com/streetparking/my-streetparking/pull/124#issue-518798063)*
+
+<br/>
+
+my-streetparking-backend-emailer@2.8.2 \| *[my-streetparking-backend@3.7.2](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| <br> *[my-streetparking-frontend@3.7.2](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+
+
+
+ 
+ 
+ 
