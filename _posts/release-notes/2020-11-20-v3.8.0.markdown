@@ -37,7 +37,8 @@ Version 3.8.0  debuts the ability to apply coupons to specific member groups, up
 <br/>
 
 
-*[PR#124](https://github.com/streetparking/my-streetparking/pull/124#issue-518798063)*
+*[PR#129](https://github.com/streetparking/my-streetparking/pull/129)*, *[PR#130](https://github.com/streetparking/my-streetparking/pull/130)*, *[PR#131](https://github.com/streetparking/my-streetparking/pull/131)*, *[PR#132](https://github.com/streetparking/my-streetparking/pull/132)*, *[PR#133](https://github.com/streetparking/my-streetparking/pull/133)*, *[PR#134](https://github.com/streetparking/my-streetparking/pull/134)*, *[PR#135](https://github.com/streetparking/my-streetparking/pull/135)*   
+  
 
 <br/>
 
