@@ -21,7 +21,16 @@ Version 3.8.0  debuts the ability to apply coupons to specific member groups, up
 <br/>
 
 # Bug Fixes
-- Nothing to see here.
+- If you were a new user trying to sign up without a coupon, our system was like, “Nah man, I don’t know you.” But, we fixed it and now it’s like “OMG, HI! I love you so much!” 
+
+- Similarly, our system threw sass if an active user tried to change a membership level without a coupon. But it’s fine now and sass is where it belongs in passive-aggressive text messages everywhere. 
+
+- Turns out if a user has a slow connection AND gets super clicky with the mouse button, the result can be multiple memberships (with multiple charges) created in one shot. We put some blockers in place for the speedy clickers with the slow connections. 
+
+- Step 2 of the Sign Up stepper got sticky and, gone unchecked could have produced some user stuck-ness. But it has been checked and Step 2 is now unstuck. 
+
+- A summary paragraph in Membership Management would change incorrectly and tell the user that the membership they wanted was actually the membership they had. Philosophically, it wasn’t so bad, but technically it was a problem, so we fixed it. 
+
 <br/>
   
 
