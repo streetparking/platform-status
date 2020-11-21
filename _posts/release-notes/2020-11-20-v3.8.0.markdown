@@ -10,8 +10,15 @@ Version 3.8.0  debuts the ability to apply coupons to specific member groups, up
 
 
 # What’s New
-- Admins can now specify which member group(s) (new, returning, or current users) can apply coupons to specific memberships (or in general). It’s kind of like when Glen Coco got 4 candy canes, Cady Heron got 1 and none for Gretchen Weiners, bye. 
+- Member groups are now part of coupon codes so admins can specify if a particular group or groups (new users, returning users, current users) can apply coupons to specific memberships (or in general). It’s kind of like when Glen Coco got 4 candy canes, Cady Heron got 1 and none for Gretchen Weiners, bye. 
 
+- New moms have enough going without having to worry about messing with a case-wild-alpha-numeric coupon code, so we made it so the code automatically fills in the coupon field when a new SP Mama completes the Sign Up process. 
+
+- We added the Membership Incomplete_Expired email and migrated the Welcome Email to the new queue process (which is a much cleaner, more efficient email service and it’s high key nerdily exciting). 
+
+- Our backend engineer worked some voodoo (gnar gnar smart, efficient, system awesomeness) and prepped the system for migrating thousands of users. 
+
+<br/>
 
 # Bug Fixes
 - Nothing to see here.
