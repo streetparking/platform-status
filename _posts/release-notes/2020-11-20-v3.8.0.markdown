@@ -42,7 +42,7 @@ Version 3.8.0  debuts the ability to apply coupons to specific member groups, up
 
 <br/>
 
-my-streetparking-backend-emailer@2.8.2 \| *[my-streetparking-backend@3.7.2](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| <br> *[my-streetparking-frontend@3.7.2](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+*[my-streetparking-backend-emailer@2.9.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend-emailer/CHANGELOG.md)* \| *[my-streetparking-backend@3.8.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| <br> *[my-streetparking-frontend@3.8.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
 
 
 
