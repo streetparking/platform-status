@@ -1,0 +1,51 @@
+---
+layout: post
+title:  V 3.8.2
+date:   2020-11-24 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.8.2  debuts the ability to apply coupons to specific member groups, update emails including a help for new SP Mamas and a handful of demolished bugs. 
+<br/><br/>
+
+
+# What’s New
+- Member groups are now part of coupon codes so admins can specify if a particular group or groups (new users, returning users, current users) can apply coupons to specific memberships (or in general). It’s kind of like when Glen Coco got 4 candy canes, Cady Heron got 1 and none for Gretchen Weiners, bye. 
+
+- New moms have enough going without having to worry about messing with a case-wild-alpha-numeric coupon code, so we made it so the code automatically fills in the coupon field when a new SP Mama completes the Sign Up process. 
+
+- We added the Membership Incomplete_Expired email and migrated the Welcome Email to the new queue process (which is a much cleaner, more efficient email service and it’s high key nerdily exciting). 
+
+- Our backend engineer worked some voodoo (gnar gnar smart, efficient, system awesomeness) and prepped the system for migrating thousands of users. 
+
+<br/>
+
+# Bug Fixes
+- If you were a new user trying to sign up without a coupon, our system was like, “Nah man, I don’t know you.” But, we fixed it and now it’s like “OMG, HI! I love you so much!” 
+
+- Similarly, our system threw sass if an active user tried to change a membership level without a coupon. But it’s fine now and sass is where it belongs in passive-aggressive text messages everywhere. 
+
+- Turns out if a user has a slow connection AND gets super clicky with the mouse button, the result can be multiple memberships (with multiple charges) created in one shot. We put some blockers in place for the speedy clickers with the slow connections. 
+
+- Step 2 of the Sign Up stepper got sticky and, gone unchecked could have produced some user stuck-ness. But it has been checked and Step 2 is now unstuck. 
+
+- A summary paragraph in Membership Management would change incorrectly and tell the user that the membership they wanted was actually the membership they had. Philosophically, it wasn’t so bad, but technically it was a problem, so we fixed it. 
+
+<br/>
+  
+
+<br/>
+
+
+*[PR#129](https://github.com/streetparking/my-streetparking/pull/129)*, *[PR#130](https://github.com/streetparking/my-streetparking/pull/130)*, *[PR#131](https://github.com/streetparking/my-streetparking/pull/131)*, *[PR#132](https://github.com/streetparking/my-streetparking/pull/132)*, *[PR#133](https://github.com/streetparking/my-streetparking/pull/133)*, *[PR#134](https://github.com/streetparking/my-streetparking/pull/134)*, *[PR#135](https://github.com/streetparking/my-streetparking/pull/135)*   
+  
+
+<br/>
+
+*[my-streetparking-backend-emailer@2.9.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend-emailer/CHANGELOG.md)* \| *[my-streetparking-backend@3.8.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| <br> *[my-streetparking-frontend@3.8.0](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+
+
+
+ 
+ 
+ 
