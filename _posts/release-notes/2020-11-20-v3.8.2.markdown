@@ -18,15 +18,12 @@ Version 3.8.2 debuts dollar amount gift cards, pre-loaded promotions for user gr
 <br/>
 
 # Bug Fixes
-- If you were a new user trying to sign up without a coupon, our system was like, “Nah man, I don’t know you.” But, we fixed it and now it’s like “OMG, HI! I love you so much!” 
+- Once in a while users, a bug allowed multiple invoices to be created for one subscription. We fixed it because one subscription for the price of two isn’t a cute look. 
 
-- Similarly, our system threw sass if an active user tried to change a membership level without a coupon. But it’s fine now and sass is where it belongs in passive-aggressive text messages everywhere. 
+- A bug was showing users all promos instead of the ones specifically applicable to their user group. Promos now display accurately and order has been restored to the force. 
 
-- Turns out if a user has a slow connection AND gets super clicky with the mouse button, the result can be multiple memberships (with multiple charges) created in one shot. We put some blockers in place for the speedy clickers with the slow connections. 
+- We did a thing to help SP Mamas not have to type in a coupon code for the 4th Trimester Bundle and accidentally ended up removing the code all together. Mamas bring life into the world, the least we can do is make sure the code works, so it’s back. 
 
-- Step 2 of the Sign Up stepper got sticky and, gone unchecked could have produced some user stuck-ness. But it has been checked and Step 2 is now unstuck. 
-
-- A summary paragraph in Membership Management would change incorrectly and tell the user that the membership they wanted was actually the membership they had. Philosophically, it wasn’t so bad, but technically it was a problem, so we fixed it. 
 
 <br/>
   
