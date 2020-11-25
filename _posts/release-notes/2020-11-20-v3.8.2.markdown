@@ -5,18 +5,15 @@ date:   2020-11-24 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.2  debuts the ability to apply coupons to specific member groups, update emails including a help for new SP Mamas and a handful of demolished bugs. 
+Version 3.8.2 debuts dollar amount gift cards, pre-loaded promotions for user groups and three bug fixes. 
+
 <br/><br/>
 
 
 # What’s New
-- Member groups are now part of coupon codes so admins can specify if a particular group or groups (new users, returning users, current users) can apply coupons to specific memberships (or in general). It’s kind of like when Glen Coco got 4 candy canes, Cady Heron got 1 and none for Gretchen Weiners, bye. 
+- We made it so that promotions now pre-load as applicable for current and re-activating users. Straight up luxury.
 
-- New moms have enough going without having to worry about messing with a case-wild-alpha-numeric coupon code, so we made it so the code automatically fills in the coupon field when a new SP Mama completes the Sign Up process. 
-
-- We added the Membership Incomplete_Expired email and migrated the Welcome Email to the new queue process (which is a much cleaner, more efficient email service and it’s high key nerdily exciting). 
-
-- Our backend engineer worked some voodoo (gnar gnar smart, efficient, system awesomeness) and prepped the system for migrating thousands of users. 
+- Gift cards made the big jump from memberships to dollar amounts and we are very proud of them. Our little cards are growing up. 
 
 <br/>
 
