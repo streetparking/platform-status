@@ -1,0 +1,36 @@
+---
+layout: post
+title:  V 3.8.3
+date:   2020-11-30 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.8.3 debuts two bug fixes allowing members to switch promotional memberships and use the entirety of their gift cards. 
+
+<br/>
+
+# Bug Fixes
+- A silly bug tried to stop active users from changing from one promotional membership to another and we didn’t think it was funny, so we fixed it.
+
+- An API shenanigan caused gift card surpluses to completely disappear and be lost forever, not like disappearing ink that reappears when you breathe on it or something- it was actually gone and unusable by the user. We un-disappeared them and now gift card surpluses behave as expected. 
+
+
+
+<br/>
+  
+
+<br/>
+
+
+*[PR#136](https://github.com/streetparking/my-streetparking/pull/136)*, *[PR#137](https://github.com/streetparking/my-streetparking/pull/137)*, *[PR#138](https://github.com/streetparking/my-streetparking/pull/138)*, *[PR#139](https://github.com/streetparking/my-streetparking/pull/139)*, *[PR#140](https://github.com/streetparking/my-streetparking/pull/140)*
+  
+
+<br/>
+
+ *[my-streetparking-backend@3.8.3](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.3](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+
+
+
+ 
+ 
+ 
