@@ -36,7 +36,7 @@ Version 3.8.2 debuts dollar amount gift cards, pre-loaded promotions for user gr
 
 <br/>
 
- *[my-streetparking-backend@3.8.3](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.3](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+ *[my-streetparking-backend@3.8.3](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.2](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
 
 
 

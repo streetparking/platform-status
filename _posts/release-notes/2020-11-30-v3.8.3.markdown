@@ -22,12 +22,12 @@ Version 3.8.3 debuts two bug fixes allowing members to switch promotional member
 <br/>
 
 
-*[PR#136](https://github.com/streetparking/my-streetparking/pull/136)*, *[PR#137](https://github.com/streetparking/my-streetparking/pull/137)*, *[PR#138](https://github.com/streetparking/my-streetparking/pull/138)*, *[PR#139](https://github.com/streetparking/my-streetparking/pull/139)*, *[PR#140](https://github.com/streetparking/my-streetparking/pull/140)*
+*[PR#140](https://github.com/streetparking/my-streetparking/pull/140)*, *[PR#141](https://github.com/streetparking/my-streetparking/pull/141)*
   
 
 <br/>
 
- *[my-streetparking-backend@3.8.3](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.3](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+ *[my-streetparking-backend@3.8.6](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.3](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
 
 
 
