@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  V 3.8.6
-date:   2020-12-2 14:24:13 -0600
+title:  V 3.8.5
+date:   2020-12-02 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.6 debuts a couple of helpy admin additions and two fixed bugs. 
+Version 3.8.5 debuts a couple of helpy admin additions and a single fixed bug. 
  
 
 # What’s New
 - We added invoice numbers to the invoice table. Because obviously. 
 
-- Spoiler Alert: the members and athletes table now shows membership end dates  
+- Spoiler Alert: the members and athletes tables now show membership end dates.  
 
 <br/>
 
@@ -19,8 +19,6 @@ Version 3.8.6 debuts a couple of helpy admin additions and two fixed bugs.
 # Bug Fixes
 - When a gift card is applied and a remaining balance exists, the balance is transferred for the user to apply on an upcoming invoice. Coupons tried to pull the ol’ switcheroo and also get balance transfers for remaining discounts, which is frankly just nonsense, so we fixed that business. 
 
-- Gift card max redemptions were accidentally changed from 1 to 2 upon creation, but we fixed it.
-  ~~Gift card max redemptions were accidentally changed from 1 to 2 upon creation, but we fixed it.~~
 
 
 
