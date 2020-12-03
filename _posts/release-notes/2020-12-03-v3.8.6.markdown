@@ -5,7 +5,8 @@ date:   2020-12-2 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.6 debuts two bug fixes allowing members to switch promotional memberships and use the entirety of their gift cards. 
+Version 3.8.6 debuts a couple of helpy admin additions and two fixed bugs. 
+ 
 
 # What’s New
 - We added invoice numbers to the invoice table. Because obviously. 
