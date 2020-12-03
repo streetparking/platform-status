@@ -1,0 +1,45 @@
+---
+layout: post
+title:  V 3.8.6
+date:   2020-12-3 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.8.6 debuts two bug fixes allowing members to switch promotional memberships and use the entirety of their gift cards. 
+
+# What’s New
+- We added invoice numbers to the invoice table. Because obviously. 
+
+- Spoiler Alert: the members and athletes table now shows membership end dates  
+
+<br/>
+
+<br/>
+
+# Bug Fixes
+- When a gift card is applied and a remaining balance exists, the balance is transferred for the user to apply on an upcoming invoice. Coupons tried to pull the ol’ switcheroo and also get balance transfers for remaining discounts, which is frankly just nonsense, so we fixed that business. 
+- When gift cards were created, the max redemptions were accidentally changed 
+- Gift card max redemptions were accidentally changed from 1 to 2 upon creation, but we fixed it.
+  ~Gift card max redemptions were accidentally changed from 1 to 2 upon creation, but we fixed it.~
+
+
+
+
+<br/>
+  
+
+<br/>
+
+
+*[PR#140](https://github.com/streetparking/my-streetparking/pull/140)*, *[PR#141](https://github.com/streetparking/my-streetparking/pull/141)*
+  
+
+<br/>
+
+ *[my-streetparking-backend@3.8.6](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.3](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+
+
+
+ 
+ 
+ 
