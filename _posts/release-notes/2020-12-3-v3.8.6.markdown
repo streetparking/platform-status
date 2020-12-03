@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  V 3.8.6
-date:   2020-12-3 14:24:13 -0600
+date:   2020-12-2 14:24:13 -0600
 categories: release-note
 
 ---
