@@ -17,7 +17,7 @@ Version 3.8.6 debuts two bug fixes allowing members to switch promotional member
 
 # Bug Fixes
 - When a gift card is applied and a remaining balance exists, the balance is transferred for the user to apply on an upcoming invoice. Coupons tried to pull the ol’ switcheroo and also get balance transfers for remaining discounts, which is frankly just nonsense, so we fixed that business. 
-- When gift cards were created, the max redemptions were accidentally changed 
+
 - Gift card max redemptions were accidentally changed from 1 to 2 upon creation, but we fixed it.
   ~~Gift card max redemptions were accidentally changed from 1 to 2 upon creation, but we fixed it.~~
 
