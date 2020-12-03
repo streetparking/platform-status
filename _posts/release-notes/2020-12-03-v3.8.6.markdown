@@ -14,7 +14,6 @@ Version 3.8.6 debuts two bug fixes allowing members to switch promotional member
 
 <br/>
 
-<br/>
 
 # Bug Fixes
 - When a gift card is applied and a remaining balance exists, the balance is transferred for the user to apply on an upcoming invoice. Coupons tried to pull the ol’ switcheroo and also get balance transfers for remaining discounts, which is frankly just nonsense, so we fixed that business. 
