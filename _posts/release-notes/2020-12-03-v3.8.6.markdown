@@ -31,7 +31,7 @@ Version 3.8.6 debuts two bug fixes allowing members to switch promotional member
 <br/>
 
 
-*[PR#140](https://github.com/streetparking/my-streetparking/pull/140)*, *[PR#141](https://github.com/streetparking/my-streetparking/pull/141)*
+*[PR#143](https://github.com/streetparking/my-streetparking/pull/143)*, *[PR#144](https://github.com/streetparking/my-streetparking/pull/144)*, *[PR#145](https://github.com/streetparking/my-streetparking/pull/145)*
   
 
 <br/>
