@@ -5,8 +5,7 @@ date:   2020-12-02 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.5 debuts a couple of helpy admin additions and a single fixed bug. 
- 
+Version 3.8.5 debuts a couple of helpy admin additions and a single fixed bug.
 
 # What’s New
 - We added invoice numbers to the invoice table. Because obviously. 
@@ -15,27 +14,20 @@ Version 3.8.5 debuts a couple of helpy admin additions and a single fixed bug.
 
 <br/>
 
-
 # Bug Fixes
 - When a gift card is applied and a remaining balance exists, the balance is transferred for the user to apply on an upcoming invoice. Coupons tried to pull the ol’ switcheroo and also get balance transfers for remaining discounts, which is frankly just nonsense, so we fixed that business. 
 
-
-
-
-
-  
-
 <br/>
-
 
 *[PR#143](https://github.com/streetparking/my-streetparking/pull/143)*, *[PR#144](https://github.com/streetparking/my-streetparking/pull/144)*
-
 <br/>
 
+
  *[my-streetparking-backend@3.8.9](https://github.com/streetparking/my-streetparking/pull/143)* \| *[my-streetparking-frontend@3.8.5](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+<br/>
+<br/>
 
-
-
+_RN Ninja: [RO](https://github.com/robyanna)_
  
  
  
