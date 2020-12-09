@@ -5,7 +5,7 @@ date:   2020-12-08 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.9 debuts behind the scenes updates, migration preparations and a couple of new email implementations. 
+Version 3.8.9 debuts behind the scenes updates, migration preparations and a couple new email implementations. 
 
 
 # What’s New
@@ -27,7 +27,7 @@ Version 3.8.9 debuts behind the scenes updates, migration preparations and a cou
 
 *[PR#149](https://github.com/streetparking/my-streetparking/pull/149)*, *[PR#150](https://github.com/streetparking/my-streetparking/pull/150)*, *[PR#151](https://github.com/streetparking/my-streetparking/pull/151)*, *[PR#152](https://github.com/streetparking/my-streetparking/pull/152)*, *[PR#154](https://github.com/streetparking/my-streetparking/pull/154)*
 <br/>
-
+<br/>
 
  *[my-streetparking-backend@3.8.14](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.8](http://my-streetparking-frontend@3.8.0.3/)* \| my-streetparking-backend-emailer@2.9.2 \| my-streetparking-cron@2.9.2 \| my-streetparking-backend-fitness@2.4.1, my-streetparking-slack@2/8/2 \| taskmaster@0.4.1
 <br/>
