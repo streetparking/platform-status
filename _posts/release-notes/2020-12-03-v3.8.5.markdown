@@ -23,7 +23,7 @@ Version 3.8.5 debuts a couple of helpy admin additions and a single fixed bug.
 <br/>
 
 
- *[my-streetparking-backend@3.8.9](https://github.com/streetparking/my-streetparking/pull/143)* \| *[my-streetparking-frontend@3.8.5](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+ *[my-streetparking-backend@3.8.9](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.5](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
 <br/>
 <br/>
 

@@ -29,7 +29,7 @@ Version 3.8.9 debuts behind the scenes updates, migration preparations and a cou
 <br/>
 
 
- *[my-streetparking-backend@3.8.9](https://github.com/streetparking/my-streetparking/pull/143)* \| *[my-streetparking-frontend@3.8.5](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* 
+ *[my-streetparking-backend@3.8.14](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.5](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-frontend/CHANGELOG.md)* \| my-streetparking-backend-emailer@2.9.2 \| my-streetparking-backend-fitness@2.4.1, 
 <br/>
 <br/>
 
