@@ -9,18 +9,23 @@ Version 3.8.9 debuts behind the scenes updates, migration preparations and a cou
 
 
 # What’s New
-- We added invoice numbers to the invoice table. Because obviously. 
+- We made some redis queue updates, which is a way of organizing things that need to happen in a super smarty way. 
 
-- Spoiler Alert: the members and athletes tables now show membership end dates.  
+- We also added some layers of testing that will help ensure all the gears and cogs that run things are moving smoothly...because that’s how computers work. #technology. 
+
+- We added a membership init card which is a thing to help with post migration processing. 
+
+- We implemented emails on the admin side that will encourage the incomplete expired and incomplete homies that didn’t quite finish signing up to come back, sign up and make all the gains. 
+  
 
 <br/>
 
 # Bug Fixes
-- When a gift card is applied and a remaining balance exists, the balance is transferred for the user to apply on an upcoming invoice. Coupons tried to pull the ol’ switcheroo and also get balance transfers for remaining discounts, which is frankly just nonsense, so we fixed that business. 
+- Nothing to see here. 
 
 <br/>
 
-*[PR#143](https://github.com/streetparking/my-streetparking/pull/143)*, *[PR#144](https://github.com/streetparking/my-streetparking/pull/144)*
+*[PR#149](https://github.com/streetparking/my-streetparking/pull/149)*, *[PR#150](https://github.com/streetparking/my-streetparking/pull/150)*, *[PR#151](https://github.com/streetparking/my-streetparking/pull/151)*, *[PR#152](https://github.com/streetparking/my-streetparking/pull/152)*, *[PR#154](https://github.com/streetparking/my-streetparking/pull/154)*
 <br/>
 
 
