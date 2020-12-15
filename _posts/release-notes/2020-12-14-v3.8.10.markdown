@@ -5,7 +5,7 @@ date:   2020-12-14 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.10 debuts backend adjustments (like we all need sometimes). 
+Version 3.8.10 debuts backend adjustments (like we all need sometimes) and an email implementation. 
 
 
 # What’s New
@@ -28,7 +28,7 @@ Version 3.8.10 debuts backend adjustments (like we all need sometimes).
 <br/>
 <br/>
 
- *[my-streetparking-backend@3.8.19](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.10](http://my-streetparking-frontend@3.8.0.3/)* \| my-streetparking-slack@2/8/3 
+ *[my-streetparking-backend@3.8.19](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *my-streetparking-frontend@3.8.10* <br/> my-streetparking-slack@2/8/3 
 <br/>
 <br/>
 
