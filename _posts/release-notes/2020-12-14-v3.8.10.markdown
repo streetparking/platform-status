@@ -13,14 +13,9 @@ Version 3.8.10 debuts backend adjustments (like we all need sometimes) and an em
 
 - We implemented an email that will let a user know if their payment failed and provides convenient links to remedy it.
 
-- We did a CRUD update for a new lead feature in Admin. (CRUD is a cute acronym for create, read, update and delete, that helps with user data storage.) There’s a lot more CRUD manag
+- We did a CRUD update for a new lead feature in Admin. (CRUD is a cute acronym for create, read, update and delete, that helps with user data storage.) There’s a lot more CRUD management going on than you usually hear about, but who doesn’t love a little CRUD now and then. Am I right? 
 
   
-
-<br/>
-
-# Bug Fixes
-- Nothing to see here. Carry on.
 
 <br/>
 
