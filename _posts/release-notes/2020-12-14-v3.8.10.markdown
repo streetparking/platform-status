@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  V 3.8.8
-date:   2020-12-08 14:24:13 -0600
+title:  V 3.8.10
+date:   2020-12-14 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.8 debuts behind the scenes updates, migration preparations and a couple new email implementations. 
+Version 3.8.10 debuts behind the scenes updates, migration preparations and a couple new email implementations. 
 
 
 # What’s New
