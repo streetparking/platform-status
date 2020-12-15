@@ -5,31 +5,30 @@ date:   2020-12-14 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.10 debuts behind the scenes updates, migration preparations and a couple new email implementations. 
+Version 3.8.10 debuts backend adjustments (like we all need sometimes). 
 
 
 # What’s New
-- We made some redis queue updates, which is a way of organizing things that need to happen in a super smarty way. 
+- We removed backend tests that were no longer needed. (Testing is so hot these days.) 
 
-- We also added some layers of testing that will help ensure all the gears and cogs that run things are moving smoothly...because that’s how computers work. #technology. 
+- We implemented an email that will let a user know if their payment failed and provides convenient links to remedy it.
 
-- We added a membership init card which is a thing to help with post migration processing. 
+- We did a CRUD update for a new lead feature in Admin. (CRUD is a cute acronym for create, read, update and delete, that helps with user data storage.) There’s a lot more CRUD manag
 
-- We implemented emails on the admin side that will encourage the incomplete expired and incomplete homies that didn’t quite finish signing up to come back, sign up and make all the gains. 
   
 
 <br/>
 
 # Bug Fixes
-- Nothing to see here. 
+- Nothing to see here. Carry on.
 
 <br/>
 
-*[PR#149](https://github.com/streetparking/my-streetparking/pull/149)*, *[PR#150](https://github.com/streetparking/my-streetparking/pull/150)*, *[PR#151](https://github.com/streetparking/my-streetparking/pull/151)*, *[PR#152](https://github.com/streetparking/my-streetparking/pull/152)*, *[PR#154](https://github.com/streetparking/my-streetparking/pull/154)*
+*[PR#161](https://github.com/streetparking/my-streetparking/pull/161)*, *[PR#163](https://github.com/streetparking/my-streetparking/pull/163)*, *[PR#165](https://github.com/streetparking/my-streetparking/pull/165)*
 <br/>
 <br/>
 
- *[my-streetparking-backend@3.8.14](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.8](http://my-streetparking-frontend@3.8.0.3/)* \| my-streetparking-backend-emailer@2.9.2 \| my-streetparking-cron@2.9.2 \| my-streetparking-backend-fitness@2.4.1, my-streetparking-slack@2/8/2 \| taskmaster@0.4.1
+ *[my-streetparking-backend@3.8.19](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.10](http://my-streetparking-frontend@3.8.0.3/)* \| my-streetparking-slack@2/8/3 
 <br/>
 <br/>
 
