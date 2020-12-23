@@ -1,0 +1,33 @@
+---
+layout: post
+title:  V 3.8.13
+date:   2020-12-17 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.8.13 debuts a handful of hot fixes and the M-I-G-R-A-T-I-O-N!
+
+
+# What’s New
+- We removed backend tests that were no longer needed. (Testing is so hot these days.) 
+
+- We implemented an email that will let a user know if their payment failed and provides convenient links to remedy it.
+
+- We did a CRUD update for a new lead feature in Admin. (CRUD is a cute acronym for create, read, update and delete, that helps with user data storage.) There’s a lot more CRUD management going on than you usually hear about, but who doesn’t love a little CRUD now and then. Am I right? 
+
+  
+
+<br/>
+
+*[PR#161](https://github.com/streetparking/my-streetparking/pull/161)*, *[PR#163](https://github.com/streetparking/my-streetparking/pull/163)*, *[PR#165](https://github.com/streetparking/my-streetparking/pull/165)*
+<br/>
+<br/>
+
+ *[my-streetparking-backend@3.8.19](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *my-streetparking-frontend@3.8.10* <br/> my-streetparking-slack@2/8/3 
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
