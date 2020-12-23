@@ -29,11 +29,11 @@ Version 3.8.13 debuts a handful of hot fixes and the M-I-G-R-A-T-I-O-N!
 
 <br/>
 
-*[PR#161](https://github.com/streetparking/my-streetparking/pull/161)*, *[PR#163](https://github.com/streetparking/my-streetparking/pull/163)*, *[PR#165](https://github.com/streetparking/my-streetparking/pull/165)*
+*[PR#167](https://github.com/streetparking/my-streetparking/pull/167)*, *[PR#168](https://github.com/streetparking/my-streetparking/pull/168)*, *[PR#169](https://github.com/streetparking/my-streetparking/pull/169)*
 <br/>
 <br/>
 
- *[my-streetparking-backend@3.8.19](https://github.com/streetparking/my-streetparking/blob/development/packages/my-streetparking-backend/CHANGELOG.md)* \| *my-streetparking-frontend@3.8.10* <br/> my-streetparking-slack@2/8/3 
+ *[my-streetparking-backend@3.8.23](https://github.com/streetparking/my-streetparking/blob/bc2553bbacf9f2a6f9523ec20ac1cabc6ce91268/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.13](https://github.com/streetparking/my-streetparking/blob/bc2553bbacf9f2a6f9523ec20ac1cabc6ce91268/packages/my-streetparking-frontend/CHANGELOG.md)* 
 <br/>
 <br/>
 
