@@ -1,0 +1,44 @@
+---
+layout: post
+title:  V 3.8.15
+date:   2020-12-15 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.8.15 debuts some hot fixes and a temporary adjustment to the user profile. 
+
+
+
+# What’s New
+- We migrated 22,000-ish users from Wodify to the new Street Parking Platform. Booyah.
+
+# Bugs
+
+- There was a thing messing up directives we had in place for migrated users - we unmessed it and users are now properly directed to add a payment if necessary. 
+
+- Admins are supposed to see a “No Payment” error if a user doesn’t have a payment (go figure). A bug inhibited said error, but we squashed it. 
+
+- You know that feeling when you migrate thousands of users from one platform to another and accidentally send Welcome emails to active members? We do. So we made sure that only new users get Welcome emails.
+
+- A couple bugs stopped returning users from selecting a membership they had prior to cancellation and current users from switching from a regular subscription to a promotional one. We couldn’t sit around and wait for them to mix it up, so we fixed it. 
+
+- We used the word “null” to help migrate addresses and it turned out that users thought “null” was trying to snuggle in and be part of their real addresses, which is apparently disconcerting. We removed it to silence the uproar. 
+
+
+
+  
+
+<br/>
+
+*[PR#167](https://github.com/streetparking/my-streetparking/pull/167)*, *[PR#168](https://github.com/streetparking/my-streetparking/pull/168)*, *[PR#169](https://github.com/streetparking/my-streetparking/pull/169)*
+<br/>
+<br/>
+
+ *[my-streetparking-backend@3.8.23](https://github.com/streetparking/my-streetparking/blob/bc2553bbacf9f2a6f9523ec20ac1cabc6ce91268/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.13](https://github.com/streetparking/my-streetparking/blob/bc2553bbacf9f2a6f9523ec20ac1cabc6ce91268/packages/my-streetparking-frontend/CHANGELOG.md)* 
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
