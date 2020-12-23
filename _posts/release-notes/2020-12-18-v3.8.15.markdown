@@ -10,7 +10,7 @@ Version 3.8.15 debuts some hot fixes and a temporary adjustment to the user prof
 
 
 # What’s New
-- We migrated 22,000-ish users from Wodify to the new Street Parking Platform. Booyah.
+- We temporarily removed the ability for users to change memberships while migration completes. No change for you!!
 
 # Bugs
 
