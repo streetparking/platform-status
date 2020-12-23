@@ -13,9 +13,17 @@ Version 3.8.13 debuts a handful of hot fixes and the M-I-G-R-A-T-I-O-N!
 
 # Bugs
 
-- We implemented an email that will let a user know if their payment failed and provides convenient links to remedy it.
+- There was a thing messing up directives we had in place for migrated users - we unmessed it and users are now properly directed to add a payment if necessary. 
 
-- We did a CRUD update for a new lead feature in Admin. (CRUD is a cute acronym for create, read, update and delete, that helps with user data storage.) There’s a lot more CRUD management going on than you usually hear about, but who doesn’t love a little CRUD now and then. Am I right? 
+- Admins are supposed to see a “No Payment” error if a user doesn’t have a payment (go figure). A bug inhibited said error, but we squashed it. 
+
+- You know that feeling when you migrate thousands of users from one platform to another and accidentally send Welcome emails to active members? We do. So we made sure that only new users get Welcome emails.
+
+- A couple bugs stopped returning users from selecting a membership they had prior to cancellation and current users from switching from a regular subscription to a promotional one. We couldn’t sit around and wait for them to mix it up, so we fixed it. 
+
+- We used the word “null” to help migrate addresses and it turned out that users thought “null” was trying to snuggle in and be part of their real addresses, which is apparently disconcerting. We removed it to silence the uproar. 
+
+
 
   
 
