@@ -9,7 +9,9 @@ Version 3.8.13 debuts a handful of hot fixes and the M-I-G-R-A-T-I-O-N!
 
 
 # What’s New
-- We removed backend tests that were no longer needed. (Testing is so hot these days.) 
+- We migrated 22,000-ish users from Wodify to the new Street Parking Platform. Booyah.
+
+# Bugs
 
 - We implemented an email that will let a user know if their payment failed and provides convenient links to remedy it.
 
