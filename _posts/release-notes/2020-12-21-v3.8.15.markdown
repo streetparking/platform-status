@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  V 3.8.17
-date:   2020-12-21 14:24:13 -0600
+title:  V 3.8.15
+date:   2020-12-18 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.17 debuts a fix to address data and a couple of fixed bugs. 
+Version 3.8.15 debuts a couple of hot fixes and a temporary adjustment to the user profile.  
 
 
 # What’s New
