@@ -1,31 +1,32 @@
 ---
 layout: post
-title:  V 3.8.15
+title:  V 3.8.17
 date:   2020-12-18 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.15 debuts a couple hot fixes and a temporary adjustment to the user profile. 
+Version 3.8.17 debuts a couple hot fixes and a temporary adjustment to the user profile. 
 
 
 
 # What’s New
-- We temporarily removed the ability for users to change memberships while migration completes. No change for you!!
+- We added some helper language to the address the address situational difficulties experienced by some users. 
 
 # Bugs
 
-- There was an issue where some emails were being triggered so fast that the system couldn’t see they were created so it decided to send another one. It’s your basic overachieving system situation and we fixed it. 
+- We fixed what may have seemed to be an everlasting typo in the admin app wherein Management was spelled Managment. So that was special.
 
-- Some users experienced a bit of a head scratcher making changes to their migrated addresses so we transferred the state and country fields so they hit in a bit more of an expected way.  
+
+- There was an issue causing Members Only fields to be left off of some new user’s social media profiles in admin. Now admins can see all the fields for all the members. ::channels Oprah:: YOU get a field! And YOU get a field! FIELDS FOR EVERYONEEEEEEEE! 
 
 
 <br/>
 
-*[PR#171](https://github.com/streetparking/my-streetparking/pull/171)*, *[PR#173](https://github.com/streetparking/my-streetparking/pull/168)*, *[PR#174](https://github.com/streetparking/my-streetparking/pull/174)*, *[PR#175](https://github.com/streetparking/my-streetparking/pull/175)*, *[PR#176](https://github.com/streetparking/my-streetparking/pull/176)*
+*[PR#178](https://github.com/streetparking/my-streetparking/pull/178)*
 <br/>
 <br/>
 
- *[my-streetparking-backend@3.8.25](https://github.com/streetparking/my-streetparking/blob/bc2553bbacf9f2a6f9523ec20ac1cabc6ce91268/packages/my-streetparking-backend/CHANGELOG.md)* \| *[my-streetparking-frontend@3.8.15](https://github.com/streetparking/my-streetparking/blob/bc2553bbacf9f2a6f9523ec20ac1cabc6ce91268/packages/my-streetparking-frontend/CHANGELOG.md)* 
+ *[my-streetparking-backend@3.8.28](https://github.com/streetparking/my-streetparking/compare/my-streetparking-backend@3.8.27...my-streetparking-backend@3.8.28)* \| *[my-streetparking-frontend@3.8.17](https://github.com/streetparking/my-streetparking/compare/my-streetparking-backend@3.8.27...my-streetparking-backend@3.8.28)* 
 <br/>
 <br/>
 

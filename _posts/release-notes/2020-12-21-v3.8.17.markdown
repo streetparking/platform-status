@@ -5,8 +5,7 @@ date:   2020-12-21 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.17 debuts a couple hot fixes and a temporary adjustment to the user profile. 
-
+Version 3.8.17 debuts a fix to address data and a couple of fixed bugs. 
 
 
 # What’s New
