@@ -1,20 +1,20 @@
 ---
 layout: post
 title:  V 3.8.17
-date:   2020-12-18 14:24:13 -0600
+date:   2020-12-21 14:24:13 -0600
 categories: release-note
 
 ---
-Version 3.8.17 debuts a couple hot fixes and a temporary adjustment to the user profile. 
+Version 3.8.17 debuts a fix to address data and a couple of fixed bugs. 
 
 
 
 # What’s New
-- We added some helper language to the address the address situational difficulties experienced by some users. 
+- We added some helper language to the address the address migration difficulties experienced by some users. 
 
 # Bugs
 
-- We fixed what may have seemed to be an everlasting typo in the admin app wherein Management was spelled Managment. So that was special.
+- We fixed what may have seemed to be an everlasting typo in the admin app wherein "Management" was spelled "Managment". So that was special.
 
 
 - There was an issue causing Members Only fields to be left off of some new user’s social media profiles in admin. Now admins can see all the fields for all the members. ::channels Oprah:: YOU get a field! And YOU get a field! FIELDS FOR EVERYONEEEEEEEE! 
