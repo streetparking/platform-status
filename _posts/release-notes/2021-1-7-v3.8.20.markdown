@@ -1,0 +1,40 @@
+---
+layout: post
+title:  V 3.8.20
+date:   2021-1-7 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.8.20 debuts a couple of adjustments and fixes for migrated users and an update to the membership table in admin.
+
+
+# What’s New
+- We made it so admins can add a membership to a migrated user even if they don’t have a saved payment method. It’s a whole thing with migrating and Wodify and how data does things and basically, it’s super helpy to admin to be able to do this and now it’s possible. 
+<br/>
+- We added some thoughtful and helpy (technical term) organization to the start and end dates on the memberships table so admins can track adminy things (also technical). 
+
+
+# Bugs
+
+- The way the country field behaved on the address forms turned out to be surprisingly puzzling to some migrated users. We simplified the way the field works so it’s more of a “Yay, I can quickly get through this form!” and less of a “Hey, this isn’t working?!” situation.
+ 
+- For some migrated users, the “Success” alert at the top of the screen was too far away from the “Save” button to notice it and they were left feeling like their info didn’t save, which is the opposite of how the Save button is meant to make you feel, so we added a “Success” message directly above the “Save” button.
+
+- When migrated users entered their social media handles, our system saved the data, but the handles did not appear as expected on the user profile in both user and admin views. We got a handle on it (if you will) and now social media handles should appear as expected. 
+
+
+
+<br/>
+
+*[PR#182](https://github.com/streetparking/my-streetparking/pull/182)*, *[PR#190](https://github.com/streetparking/my-streetparking/pull/190)*, *[PR#196](https://github.com/streetparking/my-streetparking/pull/196)*, 
+<br/>
+<br/>
+
+ * *[my-streetparking-frontend@3.8.20](https://github.com/streetparking/my-streetparking/compare/my-streetparking-frontend@3.8.16...my-streetparking-frontend@3.8.17)* 
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
