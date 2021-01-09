@@ -9,7 +9,7 @@ Version 3.8.20 debuts a couple of adjustments and fixes for migrated users and a
 
 
 # What’s New
-- We made it so admins can add a membership to a migrated user even if they don’t have a saved payment method. It’s a whole thing with migrating and Wodify and how data does things and basically, it’s super helpy to admin to be able to do this and now it’s possible. 
+- We made it so admins can add a membership to a migrated user even if they don’t have a saved payment method. It’s a whole thing with migrating and Wodify and how data does things and basically, it’s low key major for admins to be able to do this. 
 <br/>
 - We added some thoughtful and helpy (technical term) organization to the start and end dates on the memberships table so admins can track adminy things (also technical). 
 
