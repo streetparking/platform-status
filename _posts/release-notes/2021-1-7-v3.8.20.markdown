@@ -16,9 +16,9 @@ Version 3.8.20 debuts a couple of adjustments and fixes for migrated users and a
 
 # Bugs
 
-- The way the country field behaved on the address forms turned out to be surprisingly puzzling to some migrated users. We simplified the way the field works so it’s more of a “Yay, I can quickly get through this form!” and less of a “Hey, this isn’t working?!” situation.
+- The way the country field behaved on the address forms turned out to be surprisingly puzzling to some migrated users. We simplified the way the field works so it’s more of a “Yay, I can quickly get through this form!” and less of a “Hey, wait wut?!” situation.
  
-- For some migrated users, the “Success” alert at the top of the screen was too far away from the “Save” button to notice it and they were left feeling like their info didn’t save, which is the opposite of how the Save button is meant to make you feel, so we added a “Success” message directly above the “Save” button.
+- For some migrated users, the “Success” alert at the top of the screen was too far away from the “Save” button to notice it and they were left feeling like their info didn’t save, which is the opposite of how the Save button is meant to make you feel, so we added a “Success” message directly above the “Save” button. Voila. 
 
 - When migrated users entered their social media handles, our system saved the data, but the handles did not appear as expected on the user profile in both user and admin views. We got a handle on it (if you will) and now social media handles should appear as expected. 
 
