@@ -9,14 +9,14 @@ Version 3.8.21 debuts a payment update upgrade.
 
 
 # What’s New
-- We connected the dots between my.streetparking.com and Stripe’s new feature wherein a default payment method can be set. Users won’t experience this directly, but their billing situation will be much more sensical.  
+- We connected the dots between my.streetparking.com and Stripe’s new feature wherein a default payment method can be set when multiple payment methods are present. Users won’t experience this directly, but their billing situation will be much more sensical.  
  
 <br/>
 
 
 # Bugs
 
-- These are not the bugs you’re looking for. :waves hand:
+- These are not the bugs you’re looking for.  :waves hand:
 
 
 
