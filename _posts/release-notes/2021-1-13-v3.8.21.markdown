@@ -1,0 +1,37 @@
+---
+layout: post
+title:  V 3.8.21
+date:   2021-1-13 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.8.21 debuts a payment update upgrade. 
+
+
+# What’s New
+- We connected the dots between my.streetparking.com and Stripe’s new feature wherein a default payment method can be set. Users won’t experience this directly, but their billing situation will be much more sensical.  
+ 
+<br/>
+
+
+# Bugs
+
+- These are not the bugs you’re looking for. :waves hand:
+
+
+
+
+<br/>
+
+*[PR#202](https://github.com/streetparking/my-streetparking/pull/202)* 
+<br/>
+<br/>
+
+ * *[my-streetparking-frontend@3.8.21](https://github.com/streetparking/my-streetparking/pull/202)* 
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
