@@ -1,0 +1,30 @@
+---
+layout: post
+title:  V 3.8.22
+date:   2021-1-20 14:24:13 -0600
+categories: release-note
+
+---
+Version 3.8.22 debuts a fix to the admin coupon stepper. 
+
+
+# Bugs
+
+- There was a bug mucking up the coupon stepper and if you stepped on it you’d get an error and a whole bunch of no coupons at all. We removed the issue and now the stepper takes you smoothly through coupon creation.
+
+
+
+<br/>
+
+*[PR#217](https://github.com/streetparking/my-streetparking/pull/217)* 
+<br/>
+<br/>
+
+ * *[my-streetparking-frontend@3.8.22](https://github.com/streetparking/my-streetparking/pull/217)* 
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
