@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  V 4.2.0.
+title:  V 4.2.0
 date:   2021-2-15 14:24:13 -0600
 categories: release-note
 
 ---
-Version 4.2.00 debuts Payment Page and Gift Card feature upgrades, as well as an array of bug fixes.
+Version 4.2.0 debuts Payment Page and Gift Card feature upgrades, as well as an array of bug fixes.
 
 # What’s New
 - The payment page needed a facelift, so we peeled things back and rearranged. Now, it’s looking younger, less tired and has a bit of a glow to it.
@@ -18,11 +18,31 @@ Version 4.2.00 debuts Payment Page and Gift Card feature upgrades, as well as an
 - We popped the hood and tinkered around (and by tinkered, we mean were super intentional) preparing for an upcoming version wherein users can add multiple cards, assign a default and delete payment methods from the user profile. 
 - 
 <br/>
-- bla
 
 # Bugs
 
-- bla
+- Previously, when an admin tried to create a coupon the modal (little pop up window) had an identity crisis and acted all shifty. It no longer does that. 
+
+- The coupon/gift card field is now activated by a button. There was a whole bug thing with copy + paste and this is just way better. 
+
+- We removed some potentially confusing mathematical symbols from the user activity history. 
+
+- On change membership, there was a little bug where no default membership was selected. It felt a little incomplete, so we made a helpy default selection for the user. 
+
+- Some users faced an error that stopped them from adding payments. We stopped the stoppage.
+
+- We fixed a bug that could allow some users to use the same discount code multiple times, which should not be a thing, so it no longer is.
+
+- Sometimes when a gift card was added, it created a super funky nonsensical/unsolvable math problem which is an issue because sensical math is confusing enough. It no longer does that. 
+
+- Some returning users had shenanigans reactivating memberships. That’s over now like socks with sandals. 
+
+- We fixed an internal server error by adding a more specific error that tells a user what the issue is and how to deal with it. Because if you’re gonna get an error, it’s better if it’s a little bossy instead of a lot ambiguous. 
+
+- We fixed an issue that seemed to hold up users when trying to add a credit card. The card actually was added, but the user couldn’t see that and like...it’s not a puzzle, so we made things work properly. 
+
+- We fixed a sticky button that, when changing a membership, would continuously select the lowest priced membership. It was like ‘I know what’s good for you’ and now it’s minding its business.
+
 
 
 
