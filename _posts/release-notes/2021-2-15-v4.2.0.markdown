@@ -16,7 +16,7 @@ Version 4.2.0 debuts Payment Page and Gift Card feature upgrades, as well as an 
 - We returned the new user reminder that it takes 24 hours to gain access to Members Only. If you know, you know. 
 - We changed the ‘find something buggy” link to a ‘contact support’ email link on Sign Up, so SP Support no longer has to run all over computer land to access support tickets so they can save the running for workouts. 
 - We popped the hood and tinkered around (and by tinkered, we mean were super intentional) preparing for an upcoming version wherein users can add multiple cards, assign a default and delete payment methods from the user profile. 
-- 
+
 <br/>
 
 # Bugs
