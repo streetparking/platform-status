@@ -21,25 +21,23 @@ Version 4.2.0 debuts Payment Page and Gift Card feature upgrades, as well as an 
 
 # Bugs
 
-- Previously, when an admin tried to create a coupon the modal (little pop up window) had an identity crisis and acted all shifty. It no longer does that. 
+- Previously, when an admin tried to create a coupon the modal (little pop up window) had an identity crisis and acted all shifty. Yes, shifty. What did you think it said? (Also, it no longer does that.) 
 
 - The coupon/gift card field is now activated by a button. There was a whole bug thing with copy + paste and this is just way better. 
 
-- We removed some potentially confusing mathematical symbols from the user activity history. 
-
 - On change membership, there was a little bug where no default membership was selected. It felt a little incomplete, so we made a helpy default selection for the user. 
-
-- Some users faced an error that stopped them from adding payments. We stopped the stoppage.
 
 - We fixed a bug that could allow some users to use the same discount code multiple times, which should not be a thing, so it no longer is.
 
-- Sometimes when a gift card was added, it created a super funky nonsensical/unsolvable math problem which is an issue because sensical math is confusing enough. It no longer does that. 
+- Sometimes when a gift card was added, our payment system turned it into a super funky nonsensical/unsolvable math problem which is an issue because sensical math is confusing enough. It no longer does that. 
 
 - Some returning users had shenanigans reactivating memberships. That’s over now like socks with sandals. 
 
-- We fixed an internal server error by adding a more specific error that tells a user what the issue is and how to deal with it. Because if you’re gonna get an error, it’s better if it’s a little bossy instead of a lot ambiguous. 
+- We fixed an internal server error by adding a more specific error that tells a user what the issue is and how to deal with it. Users are less likely to come across aforementioned error, but if you’re gonna get an error, it’s better if it’s a little bossy instead of a lot ambiguous. 
 
-- We fixed an issue that seemed to hold up users when trying to add a credit card. The card actually was added, but the user couldn’t see that and like...it’s not a puzzle, so we made things work properly. 
+- We removed some potentially confusing mathematical symbols from the user activity history. 
+
+- There was an issue that seemed to hold up users when trying to add a credit card. The card actually was added, but the user couldn’t see that and like...it’s not a puzzle, so we made things work properly. 
 
 - We fixed a sticky button that, when changing a membership, would continuously select the lowest priced membership. It was like ‘I know what’s good for you’ and now it’s minding its business.
 
