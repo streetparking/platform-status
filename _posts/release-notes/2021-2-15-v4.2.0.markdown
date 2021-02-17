@@ -5,7 +5,7 @@ date:   2021-2-15 14:24:13 -0600
 categories: release-note
 
 ---
-Version 4.2.00 debuts ...
+Version 4.2.00 debuts Payment Page and Gift Card feature upgrades, as well as an array of bug fixes.
 
 # What’s New
 - bla 
