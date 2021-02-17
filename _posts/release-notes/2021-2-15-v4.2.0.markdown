@@ -9,12 +9,12 @@ Version 4.2.0 debuts Payment Page and Gift Card feature upgrades, as well as an 
 
 # What’s New
 - The payment page needed a facelift, so we peeled things back and rearranged. Now, it’s looking younger, less tired and has a bit of a glow to it.
-- Gift cards weren’t acting like gift cards at all, but now they’re doing that voodoo gift cards do so well (and apply as balance transactions rather than being weird).
+- Gift cards weren’t acting like gift cards at all, but now they’re doing that voodoo gift cards do so well (and apply as balance transactions).
 - Speaking of gift cards, they’re now applicable to any kind of transaction (including promotions) and will no longer rudely boot off other discounts applied to the transaction.
 - In the next iteration of Admin, users will be able to apply a coupon for a member: for those discount-y moments. 
 - We updated Terms of Service to reflect a clearer cancellation policy. Even though TOS aren’t often actually read, they’re still important...kinda like release notes?
 - We returned the new user reminder that it takes 24 hours to gain access to Members Only. If you know, you know. 
-- We changed the ‘find something buggy” link to a ‘contact support’ email link on Sign Up, so SP Support no longer has to run all over computer land to access support tickets so they can save the running for workouts. 
+- We changed the ‘find something buggy” link to a ‘contact support’ email link on Sign Up so SP Support no longer has to run all over computer land to access support tickets (and so they can save the running for workouts). 
 - We popped the hood and tinkered around (and by tinkered, we mean were super intentional) preparing for an upcoming version wherein users can add multiple cards, assign a default and delete payment methods from the user profile. 
 
 <br/>
