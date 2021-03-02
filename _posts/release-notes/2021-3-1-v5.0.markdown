@@ -5,11 +5,11 @@ date:   2021-3-1 14:24:13 -0600
 categories: release-note
 
 ---
-Version 5.0 debuts a couple of new features, a couple little bug fixes and a major amount of under the hood work. 
+Version 5.0 debuts a couple of new features, two bug fixes and a major amount of under the hood work. 
 
 # What’s New
 - We pulled the ol’ switcheroo and removed the ability for Admins to create percentage based gift cards.  
-- Gift cards can now be created with parameters that limit which memberships they can be applied to. It’s like when your mom gives you money for shoes, but you try to buy video games and they’re like “sorry, this money is only good for shoes”. 
+- Also, gift cards can now be created with parameters that limit which memberships they can be applied to. It’s like when your mom gives you money for shoes, but you try to buy video games and they’re like “sorry, this money is only good for shoes”...but in a good way. 
 
 <br/>
 
