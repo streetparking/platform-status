@@ -1,0 +1,37 @@
+---
+layout: post
+title:  V 5.0
+date:   2021-3-1 14:24:13 -0600
+categories: release-note
+
+---
+Version 5.0 debuts a couple of new features, a couple little bug fixes and a major amount of under the hood work. 
+
+# What’s New
+- We pulled the ol’ switcheroo and removed the ability for Admins to create percentage based gift cards.  
+- Gift cards can now be created with parameters that limit which memberships they can be applied to. It’s like when your mom gives you money for shoes, but you try to buy video games and they’re like “sorry, this money is only good for shoes”. 
+
+<br/>
+
+# Bugs
+
+- The 4th trimester bundle was trying to cause issues as a percentage based gift card and instead of playing around, we hardcoded the price. So there. 
+
+- A bug caused service members and first responders to have a hard time seeing the ID.me verification on signup. What they do is already hard enough, so we fixed it.
+
+
+
+<br/>
+
+*[PR#287](https://github.com/streetparking/my-streetparking/pull/287)*, *[PR#297](https://github.com/streetparking/my-streetparking/pull/297)*, *[PR#303](https://github.com/streetparking/my-streetparking/pull/303)*, *[PR#305](https://github.com/streetparking/my-streetparking/pull/305)*, *[PR#322](https://github.com/streetparking/my-streetparking/pull/322)*, 
+<br/>
+<br/>
+
+ * *[5.0](https://github.com/streetparking/my-streetparking/releases/tag/v5.0.0)* 
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 

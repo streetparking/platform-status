@@ -5,7 +5,7 @@ date:   2021-2-15 14:24:13 -0600
 categories: release-note
 
 ---
-Version 4.2.1 debuts Payment Page and Gift Card feature upgrades, as well as an array of bug fixes.
+Version 4.2.15 debuts Payment Page and Gift Card feature upgrades, as well as an array of bug fixes.
 
 # What’s New
 - The payment page needed a facelift, so we peeled things back and rearranged. Now, it’s looking younger, less tired and has a bit of a glow to it.
