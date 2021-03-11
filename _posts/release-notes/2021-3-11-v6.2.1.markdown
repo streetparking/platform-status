@@ -1,0 +1,29 @@
+---
+layout: post
+title:  V 6.2.1
+date:   2021-3-11 14:24:13 -0600
+categories: release-note
+
+---
+Version 6.2.1 debuts one fixed bug.
+
+
+# Bug
+
+- An update to the goals portion of the sign up in our upcoming version, caused a communication issue in the current version. Making goals is hard enough without having to deal with buggy roadblocks, so we de-bugged and all is well. 
+
+
+<br/>
+
+*[PR377](https://github.com/streetparking/my-streetparking/pull/377)*
+<br/>
+<br/>
+
+ * *[6.2.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.2.1)* 
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
