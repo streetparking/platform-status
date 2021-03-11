@@ -10,7 +10,7 @@ Version 6.2.1 debuts one fixed bug.
 
 # Bug
 
-- An update to the goals portion of the sign up in our upcoming version, caused a communication issue in the current version. Making goals is hard enough without having to deal with buggy roadblocks, so we de-bugged and all is well. 
+- A bug thought it would be fun to stop some new users from selecting goals in the sign up process. (Selfish.) So, we handled it and goals are once again being selected without issue. 
 
 
 <br/>
