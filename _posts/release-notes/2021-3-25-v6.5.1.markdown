@@ -1,0 +1,31 @@
+---
+layout: post
+title:  V 6.5.1
+date:   2021-3-25 14:24:13 -0600
+categories: release-note
+
+---
+Version 6.5.1 debuts debuts a platform overhaul for Sign Up, Profile and Admin users including a streamlined sign up process, upgraded profile navigation, and admin tools that makes frequently used tools and profile views more accessible. 
+
+
+# New Features
+
+- We tidied up and streamilned the Sign Up steps and now it's more of a jaunt than a stroll (as far as Sign Ups go).
+- We no longer require a phone number in sign up, which means if we want to communicate with someone we have to do it as nature intended, through email. (Or you can bust out the ol' rolodex. Do you.)
+- The user profile has also been spruced up with some fresh paint, cleaner layouts and more thoughtful organization.  
+- Speaking of spruced, users can now add multiple payment methods and set a default card. Fancy. We know.
+- We couldn't leave Admin out of the upgrade bonanza, so now admin users have a revamped platform with multiple requested feature filters, a search field that actually searches really well (revolutionary), and supremely wired up connections to Stripe.
+- We also did some highly nerdy things that are too boring to list here, but include organization, optimizations and priming aforementioned pages for continued robustification (which is actually a word if you can believe it). 
+
+
+<br/>
+
+*[PR377](https://github.com/streetparking/my-streetparking/pull/377)*
+<br/>
+<br/>
+
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
