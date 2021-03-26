@@ -20,7 +20,7 @@ Version 6.5.1 debuts a platform overhauls for Sign Up, Profile and Admin users.Â
 
 <br/>
 
-*[PR377](https://github.com/streetparking/my-streetparking/pull/377)*
+*[6.5.1](https://github.com/streetparking/my-streetparking/pull/377)*
 <br/>
 <br/>
 
