@@ -5,7 +5,7 @@ date:   2021-3-30 14:24:13 -0600
 categories: release-note
 
 ---
-Version 6.7.0 debuts…three bug fixes and three new-ish features. So...double Jeopardy. We are fine. 
+Version 6.7.0 debuts three bug fixes and three new-ish features. So...double Jeopardy. We are fine. 
 
 
 # New Features
