@@ -20,7 +20,7 @@ Version 6.10.0 debuts some newly rewired emails, a bug fix or two and a helpful 
 
 - If you had a name with fewer than three letters, you’d have to toss in a few extras for good measure in order to enter your Facebook handle and since entering your name shouldn’t be like trying to get rid of those last pesky scrabble tiles, we fixed it. 
 
--There was a bug interfering with the way Shopify fulfillments were handled that involved erroneous auto-fulfilling and wouldn’t you know some things are best left unfulfilled, so we fixed it. We also cleaned up the process surrounding all of this so it’s now bugless and squeaky clean. 
+- There was a bug interfering with the way Shopify fulfillments were handled that involved erroneous auto-fulfilling and wouldn’t you know some things are best left unfulfilled, so we fixed it. We also cleaned up the process surrounding all of this so it’s now bugless and squeaky clean. 
  
 
 
