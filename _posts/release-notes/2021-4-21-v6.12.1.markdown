@@ -10,7 +10,7 @@ Version 6.12.1 debuts a 3:4 ratio of new features to smashed bugs.
 
 # New Features
 
-- When an admin searches for a coupon, and there’s only one possible matching result, that matched result automatically applies and it just feels right -  like Rachael and Joey, felt right. 
+- When an admin searches for a coupon and there’s only one possible matching result, that matched result automatically applies and it just feels right -  like Rachael and Joey felt right. 
  
 - A user’s activity history now accurately shows when a billing date has been changed on an invoice. It’s like Christmas almost. 
  
@@ -25,15 +25,15 @@ Version 6.12.1 debuts a 3:4 ratio of new features to smashed bugs.
  
 - Admins can now change and save settings on a coupon just like you thought you were able to, but actually weren’t, but now can actually, so yeah. 
  
-- When it comes to the Milestone Gift Card, nothing says “Welp, that’s not working well.” like mixing up the fulfillment of the 75 workout hoodie situation. So we fixed it. 
+- When it comes to the Milestone Gift Card, nothing says “Welp, that’s not working.” like mixing up the fulfillment of the 75 workout hoodie situation. So we fixed it. 
  
-- If a user tried to enter an instagram handle without entering a facebook handle, the fields would do a sort of gymnastic maneuver and flop round in a way that made about as much sense as the ending of Lost. It’s fixed now and no one was dead the whole time or anything. 
+- If a user tried to enter an Instagram handle without entering a Facebook handle, the fields would do a sort of gymnastic maneuver and flop round in a way that made about as much sense as the ending of Lost. It’s fixed now and no one was dead the whole time or anything. 
 
 
 
 <br/>
 
-*[6.12.1] (https://github.com/streetparking/my-streetparking/releases/tag/v6.12.0)*
+*[6.12.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.12.0)*
 <br/>
 <br/>
 
