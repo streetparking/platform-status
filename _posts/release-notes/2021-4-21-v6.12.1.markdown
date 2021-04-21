@@ -10,23 +10,30 @@ Version 6.12.1 debuts a 3:4 ratio of new features to smashed bugs.
 
 # New Features
 
-- When we updated the platform, it became apparent that some emails needed a little facelift as well, so we did our thing and now the emails are refreshed and going out as expected. 
+- When an admin searches for a coupon, and there’s only one possible matching result, that matched result automatically applies and it just feels right -  like Rachael and Joey, felt right. 
  
-- We added membership level and statuses on support tickets so Admins have more info at a glance. Helpy. 
+- A user’s activity history now accurately shows when a billing date has been changed on an invoice. It’s like Christmas almost. 
+ 
+- The power to set or delete a default payment method has been extended to Support Admins. So you could say things are getting pretty serious.
+
 
 <br/>
 
 # Bugs
 
-- If you had a name with fewer than three letters, you’d have to toss in a few extras for good measure in order to enter your Facebook handle and since entering your name shouldn’t be like trying to get rid of those last pesky scrabble tiles, we fixed it. 
-
-- There was a bug interfering with the way Shopify fulfillments were handled that involved erroneous auto-fulfilling and wouldn’t you know some things are best left unfulfilled, so we fixed it. We also cleaned up the process surrounding all of this so it’s now bugless and squeaky clean. 
+- It used to be if you tried to delete a social media user name as a member or an Admin, you couldn’t...which is the opposite of how we wanted that ‘delete’ button to work, so...it now works as expected. 
  
+- Admins can now change and save settings on a coupon just like you thought you were able to, but actually weren’t, but now can actually, so yeah. 
+ 
+- When it comes to the Milestone Gift Card, nothing says “Welp, that’s not working well.” like mixing up the fulfillment of the 75 workout hoodie situation. So we fixed it. 
+ 
+- If a user tried to enter an instagram handle without entering a facebook handle, the fields would do a sort of gymnastic maneuver and flop round in a way that made about as much sense as the ending of Lost. It’s fixed now and no one was dead the whole time or anything. 
+
 
 
 <br/>
 
-*[6.10.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.10.0)*
+*[6.12.1] (https://github.com/streetparking/my-streetparking/releases/tag/v6.12.0)*
 <br/>
 <br/>
 
