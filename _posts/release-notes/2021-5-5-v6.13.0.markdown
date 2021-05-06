@@ -11,15 +11,22 @@ Version 6.13.0 debuts darn near 10 new featuers and a few fixed bugs.
 # New Features
 
 - We all know it’s important to stay relevant. In related news, users and Admins can now update user goals. 
+
 - We firmed up our password security and now users can’t create a password that includes only spaces. Sorry to everyone with those ghosty passwords, you gotta use more than the ol’ spacebar to lock it up. 
+
 - We tidied up some code so it’s cleaner and prettier and easier to update. 
-- We wired up the Coach Checkin and Welcome Back emails so new and returning users feel even more loved. #devteamlikesthis
-- We spruced up a few little copy moments a user gets when they sign in. 
-- Not to brag or anything, but now Admins can see a user’s membership status on any page. 
-- We added “coming soon” to pages that are coming soon. Revolutionary. 
+
+- We wired up the Coach Check In and Welcome Back emails so new and returning users feel even more loved. #devteamlikesthis
+
+- We spruced up a few little copy moments a user gets when they sign in.  
+
+- We added “coming soon” to Admin pages that are coming soon. Revolutionary. 
+
 - We created the community tab on Admin with some extra capabilities that turned out to be unnecessary so we 86’d that ish.
+
 - Admins can now search by any part of a name when searching for a user. If you want to find John Smith, you don’t have to search by his embarrassing email address johnfartsforfun@gmail.com You can just search for John, Smith or farts and find who you’re looking for. 
 
+- Not to brag or anything, but now Admins can see a user’s membership status on any page.
 
 <br/>
 
@@ -35,7 +42,7 @@ Version 6.13.0 debuts darn near 10 new featuers and a few fixed bugs.
 
 <br/>
 
-*[6.12.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.12.0)*
+*[6.13.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.13.1)*
 <br/>
 <br/>
 
