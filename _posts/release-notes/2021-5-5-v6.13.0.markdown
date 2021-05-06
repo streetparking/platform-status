@@ -5,7 +5,7 @@ date:   2021-5-5 14:24:13 -0600
 categories: release-note
 
 ---
-Version 6.13.0 debuts darn near 10 new featuers and a few fixed bugs. 
+Version 6.13.0 debuts darn near ten new featuers and a few fixed bugs. 
 
 
 # New Features
