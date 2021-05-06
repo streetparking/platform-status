@@ -5,7 +5,7 @@ date:   2021-5-5 14:24:13 -0600
 categories: release-note
 
 ---
-Version 6.13.0 debuts 
+Version 6.13.0 debuts darn near 10 new featuers and a few fixed bugs. 
 
 
 # New Features
@@ -25,13 +25,11 @@ Version 6.13.0 debuts
 
 # Bugs
 
-- It used to be if you tried to delete a social media user name as a member or an Admin, you couldn’t...which is the opposite of how we wanted that ‘delete’ button to work, so...it now works as expected. 
- 
-- Admins can now change and save settings on a coupon just like you thought you were able to, but actually weren’t, but now can actually, so yeah. 
- 
-- When it comes to the Milestone Gift Card, nothing says “Welp, that’s not working.” like mixing up the fulfillment of the 75 workout hoodie situation. So we fixed it. 
- 
-- If a user tried to enter an Instagram handle without entering a Facebook handle, the fields would do a sort of gymnastic maneuver and flop round in a way that made about as much sense as the ending of Lost. It’s fixed now and no one was dead the whole time or anything. 
+- There was a bug inhibiting a gift card from applying properly to pending cancelations. The bug is squashed and now gift cards apply uninhibited and free.
+
+- Sometimes when a user tried to change their password they got the wrong error. And let’s be real, it’s hard enough to remember what you just changed your password to without getting derailed by an ironically incorrect error. It’s fixed now though. 
+
+- If you know anything about emails, you probably know that sometimes they send at all the wrong times. It turns out we had such an email (the nerve) and now it sends at the right time.
 
 
 
