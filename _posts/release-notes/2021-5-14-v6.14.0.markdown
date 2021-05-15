@@ -10,14 +10,13 @@ Version 6.14.0 debuts a couple of bug fixes and a new admin tool.
 
 # New Features
 
-- Admins needed to be able to do all the things and the latest thing Admins can do is add a balance transaction to users (including leads and cancelled users - so great, right?!). 
-
+- Admins need to be able to do all the things and the latest thing Admins can do is add a balance transaction to users (including leads and cancelled users - so great, right?!). 
 
 <br/>
 
 # Bugs
 
-- We fixed a bug that allowed an admin, changing a user’s email to enter two different emails and get a success message. This allows for some confusion that one might call "bajigitty" (wihch is not acceptable). 
+- We fixed a bug that allowed an admin, when changing a user’s email, to enter two different emails and get a success message. This allows for some confusion that one might call "bajigitty" (which is unacceptable). 
 
 - You know the little eye button that reveals the password dots so you can make sure you didn’t spell your password wrong? Well, that little eye button wasn’t working, and like...you have one job, buddy. Fixed it. ;) 
 
