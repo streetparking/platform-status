@@ -1,0 +1,31 @@
+---
+layout: post
+title:  V 6.15.0
+date:   2021-5-18 14:24:13 -0600
+categories: release-note
+
+---
+Version 6.15.0 debuts two new features. 
+
+
+# New Features
+
+- Sometimes Admins need to delete a lead and occasionally it’s simple and you can just delete a lead, but then sometimes things get a little mixed up and that lead is connected to another person and that other person’s payment information belongs to the first person and the second person may have signed up once before, but that was like two years ago, and they tried to sign up again the other day, but forgot to use the same email they used to use, but they didn’t remember until after they signed up, but their account is connected to that first person’s account and the payment information changed, but they don’t want to have to add a new credit card and they’re still together, but it’s complicated, so one needs to be deleted, but if the wrong person is deleted, the universe will open up a black hole that will cause the end of the world (and dealing with it is a hot mess). So to avoid getting tangled up in lead-land, we added a button for admins that checks some important things to help clear all that up and leads are only deleted if it won’t kick off an apocalypse.
+
+- Support Admins can now sort support tickets by priority and really flex on those urgent tickets or bask in a list of lows. Choose your adventure, ya know? 
+
+
+<br/>
+
+
+<br/>
+
+*[6.15.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.15.0)*
+<br/>
+<br/>
+
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
