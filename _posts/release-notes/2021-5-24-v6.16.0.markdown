@@ -5,12 +5,12 @@ date:   2021-5-24 14:24:13 -0600
 categories: release-note
 
 ---
-Version 6.16.0 Version 6.16.0 debuts one bug fix. 
+Version 6.16.0 debuts one bug fix. 
 
 
 # Bug
 
-- A bug inhibited Support Admins from being able to filter support tickets by priority.The bug has been squashed and support tickets are now prioritizable.
+- A bug inhibited Support Admins from being able to filter support tickets by priority. The bug has been squashed and support tickets are now prioritizable.
 
 
 
