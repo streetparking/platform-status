@@ -1,0 +1,30 @@
+---
+layout: post
+title:  V 6.16.0
+date:   2021-5-24 14:24:13 -0600
+categories: release-note
+
+---
+Version 6.16.0 Version 6.16.0 debuts one bug fix. 
+
+
+# Bug
+
+- A bug inhibited Support Admins from being able to filter support tickets by priority.The bug has been squashed and support tickets are now prioritizable.
+
+
+
+<br/>
+
+
+<br/>
+
+*[6.16.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.16.0)*
+<br/>
+<br/>
+
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
