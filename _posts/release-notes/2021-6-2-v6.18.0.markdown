@@ -33,7 +33,7 @@ Incomplete Expired users had a bug in their menu that didn’t show all of the o
 
 <br/>
 
-*[6.17.0](https://github.com/streetparking/my-streetparking/compare/v6.16.0...v6.17.0)*
+*[6.18.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.18.0)*
 <br/>
 <br/>
 
