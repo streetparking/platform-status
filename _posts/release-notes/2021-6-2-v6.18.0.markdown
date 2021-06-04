@@ -24,7 +24,7 @@ Version 6.18.0 debuts a one to one ratio of features to bugs.
 
 - At first, Admins could search by an athlete’s full name, and then they couldn’t, but that made some searches real annoying, so we re-wired that capability and it and now Admins can search for full names such as Princess Consuela Banana Hammock and see all applicable results. 
 
-- Incomplete Expired users had a bug in their menu that didn’t show all of the options they needed, but we fixed it and now they can see because what’s worse than a bug in your menu, amiright?
+- Incomplete Expired users had a bug in their menu that didn’t show all of the options they needed, but we fixed it and now they can see all applicable options because what’s worse than a bug in your menu, amiright?
 
 
 
