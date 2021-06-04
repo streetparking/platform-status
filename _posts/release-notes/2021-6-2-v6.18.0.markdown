@@ -5,7 +5,7 @@ date:   2021-6-2 14:24:13 -0600
 categories: release-note
 
 ---
-Version 6.18.0 debuts a one to one ration of features to bugs.
+Version 6.18.0 debuts a one to one ratio of features to bugs.
 
 
 # Feature
