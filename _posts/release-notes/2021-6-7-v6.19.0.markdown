@@ -9,12 +9,13 @@ Version 6.19.0 debuts a one to one ratio of features to bugs.
 
 # Feature
 
-- A larger world wide web related occurrence caused an issue with site security certificates and some users ended up trying to use the site without the proper security (unbeknownst to them). Being insecure like that intentionally shuts down features that need all the security...wow...that’s relatable...ANYWAY, we added a re-direct so users don’t end up without the proper security situation and will be stuck no more. 
+- 
+We beefed up the Admin power, yet again, with the ability to add trial days when restarting a canceled user. #gainz
 
 
 # Bug
 
-- We beefed up the Admin power, yet again, with the ability to add trial days when restarting a canceled user. #gainz
+- A larger world wide web related occurrence caused an issue with site security certificates and some users ended up trying to use the site without the proper security (unbeknownst to them). Being insecure like that intentionally shuts down features that need all the security...wow...that’s relatable...ANYWAY, we added a re-direct so users don’t end up without the proper security situation and will be stuck no more. 
 
 
 
