@@ -14,9 +14,13 @@ Version 6.21.0 debuts a little UI upgrade and some bug smashing.
 # Bug
 
 - We had a bug in a rebellious phase that ignored promotional membership parameters and made things real frustrating. That bug has matured into a non-issue and now, when a promo is applied, the correct memberships are available and the incorrect ones are not...as expected.
+
 - We added the ability for promotions to be scheduled in advance and then upon scheduling a promotion in advance, it became active immediately...so that wasn't the best. We fixed it and now we get that gorgeous delayed promo gratification everyone loves so much. 
-- We clarified the copy on a screen that caused the ol' head tilt and scratch when a user changed their email address - which definitely wasn't the desired response.
+
+- We clarified the copy on a screen that caused the ol' head tilt and scratch when a user changed their email address - because that definitely wasn't the desired response.
+
 - Some migrated users were being funneled through sign up even though they already had active accounts. And no one likes to be funneled improperly, so we re-wired and now migrated users are properly funneled.
+
 - We had a pagination issue that was a being big liar. (Pagination = that thing in the bottom right of a screen that tells you how many things are on a page and how many pages of those things there are.) The pagination situation is now being honest with everyone and displays accurately. 
 
 
@@ -25,7 +29,7 @@ Version 6.21.0 debuts a little UI upgrade and some bug smashing.
 
 <br/>
 
-*[6.19.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.19.0)*
+*[6.21.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.21.0)*
 <br/>
 <br/>
 
