@@ -10,7 +10,7 @@ Version 6.22.0 debuts two fixed bugs.
 
 # Bugs
 
-- What's in a name that a template by any other name would send as expected? Well, unlike roses, templates by another name do not send (or smell) like they're supposed to and a misnomer stopped the gift card email from sending, but it's fixed now.
+- What's in a name that a template by any other name would send as expected? A misnomer stopped the gift card emails from sending upon generation and unlike roses, templates by another name do not send (or smell) like they're supposed to. But it's fixed now.
 
 - Cinderella story...outta nowhere...incomplete_expired users can now start a new membership (a bug created a snag in the ability to do that previously). So they got that going for 'em...which is nice. 
 
