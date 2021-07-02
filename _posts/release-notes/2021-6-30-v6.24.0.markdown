@@ -5,14 +5,21 @@ date:   2021-6-30 14:24:13 -0600
 categories: release-note
 
 ---
-Version 6.24.0 debuts ...
+Version 6.24.0 debuts a a handful of new features (if the hand happened to belong to a six-fingered person). 
+
+# Feature
+
+- We zhuzhed (What?! How would you spell it?) up tables in admin to show balance transactions and user charges and account renewal dates. 
+- We removed the gender demographic selection from sign up and user profile and it just felt so empty without it, so we returned it with some updated options including Other and Prefer Not to Say.
+- We made it so pagination works as expected AND is limited to only seeing five line items at a time on Admin views of user charges and balance transactions...no one wants to see all the things at one time...not with line items anyway. (To review: pagination is the little number and arrow situation that tells you how many of a thing are on a page.)
+- The user overview was underwhelming, but we now show the user which card is being charged right on the membership overview. So now the overview is just the right amount of whelming.  
+- We added a little timing context for when a user changes their membership, they now see a note informing them that the change will take place immediately. Like now. 
+- You know how they say "It's important to have goals...and if possible, list them in a convenient table next to the names of the associated coaches"?! Well, Coach Admins now have such a table. #commonphrases
 
 
 # Bugs
 
-- What's in a name that a template by any other name would send as expected? A misnomer stopped the gift card emails from sending upon generation and unlike roses, templates by another name do not send (or smell) like they're supposed to. But it's fixed now.
-
-- Cinderella story...outta nowhere...incomplete_expired users can now start a new membership (a bug created a snag in the ability to do that previously). So they got that going for 'em...which is nice. 
+- These are not the bugs you're looing for. ::waves hand:: 
 
 
 
