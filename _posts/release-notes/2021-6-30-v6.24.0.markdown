@@ -5,7 +5,7 @@ date:   2021-6-30 14:24:13 -0600
 categories: release-note
 
 ---
-Version 6.24.0 debuts a a handful of new features (if the hand happened to belong to a six-fingered person). 
+Version 6.24.0 debuts a handful of new features (if the hand happened to belong to a six-fingered person). 
 
 # Feature
 
