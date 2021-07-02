@@ -10,11 +10,11 @@ Version 6.23.0 debuts one new feature and one bug. Even Steven.
 
 # Feature
 
-- We added a tags table for Admins so they can now can search tags that are currently in system - think hashtags - it's an identifier and can help sort and group things together. Just like you can search #beyonce and see all things Queen B - well on this table you can search for 'kettlebells' and see all things...well, kettlebells. 
+- We added a tags table for Admins so they can now can search tags that are currently in system - think hashtags - tags are an identifier and can help sort and group things together. Just like you can search #beyonce and see all things Queen B - well on this table you can search for 'kettlebells' and see all things...well, kettlebells. 
 
 # Bug
 
-- FACT. When a change is made, the user activity history should auto-refresh. But it didn't (FALSE) and that's why we fixed it. 
+- FACT. When a change is made, the user activity history/page should auto-refresh. But it didn't (FALSE) and that's why we fixed it. 
 
 <br/>
 
