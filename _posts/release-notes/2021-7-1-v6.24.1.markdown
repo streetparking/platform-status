@@ -5,15 +5,12 @@ date:   2021-7-1 14:24:13 -0600
 categories: release-note
 
 ---
-Version 6.24.1 debuts two fixed bugs.
+Version 6.24.1 debuts one bug fix. 
 
 
 # Bugs
 
-- What's in a name that a template by any other name would send as expected? A misnomer stopped the gift card emails from sending upon generation and unlike roses, templates by another name do not send (or smell) like they're supposed to. But it's fixed now.
-
-- Cinderella story...outta nowhere...incomplete_expired users can now start a new membership (a bug created a snag in the ability to do that previously). So they got that going for 'em...which is nice. 
-
+- When we re-added gender demographics and added two additional options, it threw off a previously functioning connection to Wodify. We wired it up so that it's no longer an issue. That is all. You're excused. 
 
 
 <br/>
@@ -21,7 +18,7 @@ Version 6.24.1 debuts two fixed bugs.
 
 <br/>
 
-*[6.22.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.22.0)*
+*[6.24.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.24.1)*
 <br/>
 <br/>
 
