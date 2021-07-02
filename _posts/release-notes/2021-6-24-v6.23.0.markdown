@@ -1,0 +1,32 @@
+---
+layout: post
+title:  V 6.23.0
+date:   2021-6-24 14:24:13 -0600
+categories: release-note
+
+---
+Version 6.23.0 debuts...
+
+
+# Bugs
+
+- What's in a name that a template by any other name would send as expected? A misnomer stopped the gift card emails from sending upon generation and unlike roses, templates by another name do not send (or smell) like they're supposed to. But it's fixed now.
+
+- Cinderella story...outta nowhere...incomplete_expired users can now start a new membership (a bug created a snag in the ability to do that previously). So they got that going for 'em...which is nice. 
+
+
+
+<br/>
+
+
+<br/>
+
+*[6.22.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.22.0)*
+<br/>
+<br/>
+
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
