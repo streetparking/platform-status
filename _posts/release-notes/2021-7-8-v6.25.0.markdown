@@ -8,17 +8,21 @@ categories: release-note
 Version 6.25.0 debuts a fix and a couple little features. 
 
 
+# Features
+
+- We spruced up some styling on the About Me page of User Profile 
+- We improved error messaging to better direct users who try to create a new account, but already have an account associated with that email. You totally go here already - just login, buddy!   
+
+
 # Bugs
 
-- When we re-added gender demographics and added two additional options, it threw off a previously functioning connection to Wodify. We wired it up so that it's no longer an issue. That is all. You're excused. 
-
-
+- When Stripe's APIs fail, our users can get stuck and it's like...smoke if ya got 'em...and that's not what we're going for, so we improved our error handling and made it easier to deal with. 
 <br/>
 
 
 <br/>
 
-*[6.24.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.24.1)*
+*[6.25.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.25.0)*
 <br/>
 <br/>
 
