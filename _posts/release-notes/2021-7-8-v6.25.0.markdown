@@ -1,0 +1,29 @@
+---
+layout: post
+title:  V 6.25.0
+date:   2021-7-8 14:24:13 -0600
+categories: release-note
+
+---
+Version 6.25.0 debuts a fix and a couple little features. 
+
+
+# Bugs
+
+- When we re-added gender demographics and added two additional options, it threw off a previously functioning connection to Wodify. We wired it up so that it's no longer an issue. That is all. You're excused. 
+
+
+<br/>
+
+
+<br/>
+
+*[6.24.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.24.1)*
+<br/>
+<br/>
+
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
