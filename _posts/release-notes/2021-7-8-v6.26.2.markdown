@@ -1,0 +1,41 @@
+---
+layout: post
+title:  V 6.26.2
+date:   2021-7-28 14:24:13 -0600
+categories: release-note
+
+---
+Version 6.26.2 debuts 
+
+# Features
+
+- Our search bars are what we call in the industry, "search aheads"- go figure. When you type into the search bar, it begins to populate search results as you type, which is convenient. We also made it so that you can use the 'enter' key to select and apply a search result instead of having to lift up your whole hand to use your mouse to do it. 
+ 
+- On Admin views of a user profile, we moved 'change password' to the security tab where it is slowly unpacking and settling in well.
+
+- The Workout Builder has been released! I repeat, the Workout Builder has been released. This is not a drill! And while it is not totally set free, it is in preliminary beta testing. Coaches can:
+    - view a calendar displaying days with and without programming with action buttons for creating new workouts or using an existing workout (which can also be edited)
+    - enter workout movements, rest, workout notes, reorder the workout, delete, save and set scoring metrics
+    - see movements populate with directives, customizations and media that have been entered into the movement table
+    - see a preview of what the user will see as the workout is entered 
+- Gird your loins. User Fitness views are live, people (but hidden so no one sees it before it's ready ready)! Workouts entered in the Workout Builder (and thousands of migrated workouts) are in production! Currently, only those with access can view them. 
+- Speaking of access, we rolled out role-based security. This means that if you don't have the Waynes World VIP badges, you aren't getting back stage. (And in case that reference is lost on you, this means that Super Admins can assign access permissions to Admins so everyone sees all the things they need to and none of which they don't.) #werenotworthy 
+    
+
+# Bug
+
+- The user's invoice used to show info in a way that left a user feeling like there was conflicting information between when they expected to be charged and when they actually got charged. We like to avoid conflict, so we now show the invoice data show in a way that makes sense to everyone.
+<br/>
+
+
+<br/>
+
+*[6.26.2](https://github.com/streetparking/my-streetparking/releases/tag/v6.26.2)*
+<br/>
+<br/>
+
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
