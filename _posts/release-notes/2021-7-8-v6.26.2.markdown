@@ -9,7 +9,7 @@ Version 6.26.2 debuts the Workout Builder and user Fitness views (and some other
 
 # Features
 
-- Our search bars are what we call in the industry, "search aheads"- go figure. When you type into the search bar, it begins to populate search results as you type, which is convenient. We also made it so that you can use the 'enter' key to select and apply a search result instead of having to lift up your whole hand to use your mouse to do it. 
+- Our search bars are what we call in the industry, "search aheads"- go figure. When you type into the search bar, it begins to populate search results as you type, which is convenient. We also made it so that you can use the 'enter' key to select and apply a search result instead of having to lift up your whole hand and use your mouse to do it. 
  
 - On Admin views of a user profile, we moved 'change password' to the security tab where it is slowly unpacking and settling in well.
 
@@ -30,7 +30,7 @@ Version 6.26.2 debuts the Workout Builder and user Fitness views (and some other
 
 <br/>
 
-*[6.26.2](https://github.com/streetparking/my-streetparking/releases/tag/v6.26.2)*
+*[6.26.2](https://github.com/streetparking/my-streetparking/releases/tag/v6.26.0)*
 <br/>
 <br/>
 
