@@ -18,7 +18,7 @@ Version 6.26.2 debuts the Workout Builder and user Fitness views (and some other
     - enter workout movements, rest, workout notes, reorder the workout, delete, save and set scoring metrics
     - see movements populate with directives, customizations and media that have been entered into the movement table
     - see a preview of what the user will see as the workout is entered<br/>
-    <br/>
+<br/>
 
 - Gird your loins. User Fitness views are live, people (but hidden so no one sees it before it's ready ready)! Workouts entered in the Workout Builder (and thousands of migrated workouts) are in production! Currently, only those with access can view them. 
 
