@@ -5,7 +5,7 @@ date:   2021-7-28 14:24:13 -0600
 categories: release-note
 
 ---
-Version 6.26.2 debuts 
+Version 6.26.2 debuts the Workout Builder and user Fitness views (and some other cool stuff) along with one bug fix to rule them all and one to find them. 
 
 # Features
 
