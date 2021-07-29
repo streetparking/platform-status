@@ -19,7 +19,7 @@ Version 6.26.2 debuts the Workout Builder and user Fitness views (and some other
     - see movements populate with directives, customizations and media that have been entered into the movement table
     - see a preview of what the user will see as the workout is entered 
 <br/>
-
+<br/>
 - Gird your loins. User Fitness views are live, people (but hidden so no one sees it before it's ready ready)! Workouts entered in the Workout Builder (and thousands of migrated workouts) are in production! Currently, only those with access can view them. 
 
 - Speaking of access, we rolled out role-based security. This means that if you don't have the Waynes World VIP badges, you aren't getting back stage. (And in case that reference is lost on you, this means that Super Admins can assign access permissions to Admins so everyone sees all the things they need to and none of which they don't.) #werenotworthy 
