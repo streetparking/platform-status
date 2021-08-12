@@ -1,0 +1,25 @@
+---
+layout: post
+title:  V 6.29.0
+date:   2021-8-10 14:24:13 -0600
+categories: release-note
+
+---
+Version 6.29.0 debuts the Workout Builder and user Fitness views (and some other cool stuff) along with one bug fix.
+
+# Features
+
+- Once upon a time (recently), a user could login and see their membership info (ma deets) without having a payment method (dolla dolla bills y'all) on file. This was previously by design (for reasons), but needed to change. So, we (nerds) made it so users are now prompted (forced) to add payment info before they can access membership info (show me the money).
+    
+
+<br/>
+
+*[6.29.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.29.0)*
+<br/>
+<br/>
+
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
