@@ -1,0 +1,25 @@
+---
+layout: post
+title:  V 6.26.3
+date:   2021-7-29 14:24:13 -0600
+categories: release-note
+
+---
+Version 6.26.3 debuts a fixed bug. 
+
+# Bug
+
+- When a postpartum gift card was purchased, the system gave it a gift card code (expected), but also gave it a coupon code (supes wrong) and if the coupon code was redeemed, it didn't do the gift card things (applying remaining balance for a user). As discussed, this was supes wrong, so we fixed it. 
+    
+
+<br/>
+
+*[6.26.3](https://github.com/streetparking/my-streetparking/releases/tag/v6.26.3)*
+<br/>
+<br/>
+
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
