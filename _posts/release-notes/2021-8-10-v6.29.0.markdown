@@ -9,7 +9,7 @@ Version 6.29.0 debuts a change that isn't really a feature or a bug. #specific
 
 # Features
 
-- Once upon a time (recently), a user could login and see their membership info (ma deets) without having a payment method (dolla dolla bills y'all) on file. This was previously by design (for reasons), but needed to change. So, we (nerds) made it so users are now prompted (forced) to add payment info before they can access membership info (show me the money).
+- Once upon a time (recently), a user could login and see their membership info (ma deets) without having a payment method (dolla dolla bills y'all) on file. This was previously by design (for reasons), but needed to change. So, we (nerds) made it so users are now prompted (forced) to add payment info before they can access membership info (show me the money). Go Gallos!!
     
 
 <br/>
