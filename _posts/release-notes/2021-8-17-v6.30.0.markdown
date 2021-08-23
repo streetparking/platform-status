@@ -5,7 +5,7 @@ date:   2021-8-17 16:24:13 -0600
 categories: release-note
 
 ---
-Version 6.30.0 debuts intermingled features and fixes of the Workout Builer, scoring...and we made it really fast. Speed. ¡Go Gallos! 
+Version 6.30.0 debuts intermingled features and fixes of the Workout Builer, scoring - and we made it really fast (not like we created it really fast, just that it works really fast, but it was also created at a pretty solid pace too. Anyway... Speed). 
 
 # Features & Fixes
 
