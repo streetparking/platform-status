@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  V 6.29.0
+title:  V 6.30.0
 date:   2021-8-19 14:24:13 -0600
 categories: release-note
 
@@ -16,8 +16,7 @@ Version 6.30.2 debuts
 
 *[6.30.2](https://github.com/streetparking/my-streetparking/releases/tag/v6.30.2)*
 <br/>
-<br/>
-
+<br/>2
 
 _RN Ninja: [RO](https://github.com/robyanna)_
  

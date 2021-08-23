@@ -5,19 +5,22 @@ date:   2021-8-17 16:24:13 -0600
 categories: release-note
 
 ---
-Version 6.30.0 debuts intermingled features and fixes of the Workout Builer, scoring - and we made it really fast (not like we created it really fast, just that it works really fast, but it was also created at a pretty solid pace too. Anyway... Speed). 
+Version 6.30.0 debuts intermingled features and fixes of the Workout Builer, scoring - and we made it really fast (not like we created it really fast, just that it works really fast, but it was also created at a pretty solid pace too. Anyway...Speed). 
 
 # Features & Fixes
 
 - You know how navigating Wo...ahem...the "other" platform was slow? Like...pick up a new hobby and become a 10,000 hour expert while you're waiting for shi...stuff to load, kinda slow? Well, navigating the Workout Builder is WAY faster. It has to do with a super smarty way we use caching to manage things, but mostly you just need to know it's speedy!
+<br/>
 - OMG Guess what?! Users can now score a workout. Yep, for realsies. (But they also kind of can't because no one has permission to see it yet.) K, byeeeeeee. 
-- If a feature is released, but it's hidden from users, did it even make a sound? Well, we think it did because users can now score a workout and even select an emoji that...(if they have access that is)! 
-- THERE'S SO MUCH!! In case you missed it, Daily Workouts can be seen by a user (they're hidden like scoring though, so don't try), but we've added, updated, and improved stuff. For example: 
+- If a feature is released, but it's hidden from users, did it even make a sound? Well, we think it did because users can now score a workout (if they have access that is)! 
+<br/>
+- THERE'S SO MUCH!! In case you missed it: Daily Workouts can be seen by a user (they're hidden like scoring though, so don't try), but we've added, updated, and improved stuff. For example: 
     - Members can now choose to score their workouts using the standard OR metric system so you can stop lugging around your calculator and double sided rulers - we'll do it for you. 
     - When a user tries to look really far ahead at a workout, they see a countdown timer giving them a nifty numerical announcement telling them when the workout will be viewable down to the second. 
-    - We added emojis to scoring. So, whether you feel like a mega smiley or a frownie face or a few different options in between, you can record your mood.
-- The Workout Builder is growing up so fast! ::sniff:: Seems like it was only yesterday when we kept saying "oh! It'll be here any day" and now it's here and we can't remember what life was like without it:
-    - Success messages are now in a handy little place in the bottom right of the screen instead of stuck at the top where they used to live. It's called a "snack bar" in case you wanted to know. (Devs use a lot of food lingo.)
+    - We added emojis to scoring. So, whether you feel like a mega smiley or a frownie face after your workout or a somewhere in between, you can record your #mood.
+    <br/>
+- The Workout Builder is growing up so fast! ::sniff:: Seems like it was only yesterday when we kept saying "Oh! It'll be here any day!" and now it's here and we can't remember what life was like without it:
+    - Success messages are now handily located in the bottom right of the screen instead of stuck at the top where they used to live. It's called a "snack bar" in case you wanted to know. (Devs use a lot of food lingo.)
     - Scrolling is so passé. Users can now minimize workout components instead of having all that content stack up into a problematically long list.
     - We changed the names of some buttons to make more sense. Sorry for the nonsense buttons.
     - When users create a movement, it now automatically defaults to active, which feels more apropos than the former default of inactive. 
