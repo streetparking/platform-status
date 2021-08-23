@@ -18,7 +18,7 @@ Version 6.30.0 debuts intermingled features and fixes of the Workout Builer, sco
     - Members can now choose to score their workouts using the standard OR metric system so you can stop lugging around your calculator and double sided rulers - we'll do it for you. 
     - When a user tries to look really far ahead at a workout, they see a countdown timer giving them a nifty numerical announcement telling them when the workout will be viewable down to the second. 
     - We added emojis to scoring. So, whether you feel like a mega smiley or a frownie face after your workout or a somewhere in between, you can record your #mood.
-    <br/>
+    <br>
     <br/>
 - The Workout Builder is growing up so fast! ::sniff:: Seems like it was only yesterday when we kept saying "Oh! It'll be here any day!" and now it's here and we can't remember what life was like without it:
     - Success messages are now handily located in the bottom right of the screen instead of stuck at the top where they used to live. It's called a "snack bar" in case you wanted to know. (Devs use a lot of food lingo.)
