@@ -19,7 +19,7 @@ Version 6.30.0 debuts intermingled features and fixes of the Workout Builer, sco
 <br>
 <br/>
 - THERE'S SO MUCH!! In case you missed it: Daily Workouts can be seen by a user (they're hidden like scoring though, so don't try), but we've added, updated, and improved stuff. For example: 
-    - Members can now choose to score their workouts using the standard OR metric system so you can stop lugging around your calculator and double sided rulers - we'll do it for you. 
+    - Members can now choose to score their workouts using the standard OR metric system so you can stop lugging around your calculator and double sided rulers.
     - When a user tries to look really far ahead at a workout, they see a countdown timer giving them a nifty numerical announcement telling them when the workout will be viewable down to the second. 
     - We added emojis to scoring. So, whether you feel like a mega smiley or a frownie face after your workout or a somewhere in between, you can record your #mood.
     <br>
@@ -31,7 +31,7 @@ Version 6.30.0 debuts intermingled features and fixes of the Workout Builer, sco
     - When users create a movement, it now automatically defaults to active, which feels more apropos than the former default of inactive. 
     - Now a user can click on the title of a warm up and the text/description will display below title (instead of nothing...which is what was happening before.)
     - Notes with only text or title can be added so users can get super flexy with labeling workout components. You do you, boo. 
-    - If a date is part of the workout title, it will now display a more orderly DD/MM/YYYY -instead of the year first format (for techy reasons). How could anyone possibly understand the date with the year listed first?! It's just too much to ask of a human mind. I kid, I kid!! Everyone likes it better this way.
+    - If a date is part of the workout title, it will now display a more orderly DD/MM/YYYY -instead of the year first format (for techy reasons). How could anyone possibly understand the date with the year listed first?! It's just too much to ask of a human mind. I kid, I kid!! Everyone likes it better this way. Please don't be mad at me. 
     - We added some helpy prefill text for workout directives for men and women so coaches can spend less time typing and more time doing other coachy things. 
 <br>
 <br/>

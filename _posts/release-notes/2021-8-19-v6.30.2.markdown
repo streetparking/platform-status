@@ -1,16 +1,25 @@
 ---
 layout: post
-title:  V 6.30.0
+title:  V 6.30.2
 date:   2021-8-19 14:24:13 -0600
 categories: release-note
 
 ---
-Version 6.30.2 debuts 
+Version 6.30.2 debuts a couple fixes and a few bugs. ¡Go Gallos!  
 
 # Features
 
-- 
-    
+- We added lots of logging to things that needed to be more loggy so that when things happen, the logs tell us what's up.
+- Not to brag, but Coaches can now see the countdown timer that users see on future workouts. 
+
+<br>
+<br/>
+
+# Bugs
+
+- We fixed some wonky header sizing on mobile. 
+- We fixed an image sizing issue on the email verification page...............Big Gulps huh? Well, see ya later!
+- If the Workout Builder calendar was Survivor and the Workout Builder was voting the last day of the month off the island, but the last day of the month is actually Jeff Probst and not even eligible for being voted off, so...well, this simile really got out of control. Anyway, all the days are on the calendar as they should be. 
 
 <br/>
 
