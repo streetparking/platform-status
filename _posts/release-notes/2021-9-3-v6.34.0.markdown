@@ -1,0 +1,35 @@
+---
+layout: post
+title:  V 6.34.0
+date:   2021-9-3 14:27:13 -0600
+categories: release-note
+
+---
+Version 6.34.0 debuts four bugs and four features. #balance
+
+# Features
+
+- When a movement is created in the movement library, we did some codey things that make searching easier by automatically creating a related tag. 
+- We added some analytics to our media player so we can analyze how the media player is being using analytical analysis. I know, so pleonastic, right? 
+- We set up a system that keeps users from creating scores willy nilly (in a way that wouldn't be legit...in case you didn't know what willy nilly meant). 
+- We also optimized some querying so that when users are searching for their scores in their Logbooks, it's real speedy.
+
+
+# Bugs
+
+- We fixed some styling issues that you probably didn't notice, but we did and it def needed some sprucing, so we spruced. 
+- You know how when you search for stuff, you want to see the most relevant results first? Our media search ahead wasn't doing that very well and now it is. Fancy.
+- We fixed a bug that flashed some text for just a sec instead of the intended loading wheel and no one likes flashing, so we handled it. Or maybe you do, I'm not one to judge, but it's not gonna be a thing on this page mmkay. 
+- The Workout Builder did a thing where it duplicated movement titles in notes. The Workout Builder did a thing where it duplicated movement titles in notes, so we fixed it.
+
+
+<br/>
+
+*[6.34.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.34.0)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
