@@ -1,0 +1,25 @@
+---
+layout: post
+title:  V 6.37.2
+date:   2021-9-8 14:30:13 -0600
+categories: release-note
+
+---
+Version 6.37.2 debuts a bug fix.   
+
+
+# Bug
+
+- If a Daily Workout had media that applied to all programs, and a user changed views between programs, the media would get stuck on the first program viewed (like when you wear too much clothing on a waterslide, for example). We fixed it though and now things are moving as they should be (like when you go down a waterslide with two other people and don't hit your head even once).
+
+
+<br/>
+
+*[6.37.2](https://github.com/streetparking/my-streetparking/releases/tag/v6.37.2)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
