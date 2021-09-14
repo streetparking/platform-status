@@ -5,13 +5,13 @@ date:   2021-9-7 14:30:13 -0600
 categories: release-note
 
 ---
-Version 6.37.0 debuts a feature and a bug.   
+Version 6.37.0 debuts a feature and a bug fix.   
 
-# Features
+# Feature
 
 - We wired up the anniversary emails to auto send emails through 10 years of member anniversaries! ::sets reminder for 5 years from now::
 
-# Bugs
+# Bug
 
 - We gave Admins the ability to update the titles of Challenges, and it worked, but the user couldn't see it so it was like "hey, I'm low key changing this for my health" and that wasn't the best, really. It's fixed now though and users can see titles as Admins intend. 
 

@@ -5,7 +5,7 @@ date:   2021-9-3 14:27:13 -0600
 categories: release-note
 
 ---
-Version 6.34.0 debuts four bugs and four features. #balance
+Version 6.34.0 debuts four bug fixes and four features. #balance
 
 # Features
 

@@ -7,7 +7,7 @@ categories: release-note
 ---
 Version 6.36.0 debuts a styling update and a re-addition to the Workout Builder.  
 
-# Features
+# Feature
 
 - We created a place for videos that applied to all workouts. And then we removed it. And now it's back like the third installment of a movie trilogy that is actually great instead of garbage like most are. I'm looking at you Home Alone 3. 
 

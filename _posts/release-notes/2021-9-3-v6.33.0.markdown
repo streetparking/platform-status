@@ -7,7 +7,7 @@ categories: release-note
 ---
 Version 6.33.0 debuts debuts a cosmetic procedure and a couple of emails. 
 
-# Features
+# Feature
 
 - We wired up birthday and anniversary emails so that members hear from us on special days. For example, when it's someone's birthday...you know what, I feel like this one requires no explanation.
 
