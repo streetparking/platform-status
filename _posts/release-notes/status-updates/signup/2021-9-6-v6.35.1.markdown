@@ -1,0 +1,29 @@
+---
+layout: post
+title:  V 6.35.1
+date:   2021-9-6 14:27:13 -0600
+categories: release-note
+
+---
+Version 6.35.1 debuts score deletion capabilities and a fix to Challenges.
+
+# Features
+
+- Users can now delete a score if they want to! For those workouts we'd just rather forget (and also if there was an entry error or something). 
+
+
+# Bugs
+
+- We fixed a bug in Challenges that occurred when were getting reset when a user added scores, deleted all of their scores, and added them again - the Challenges infrastructure was like WUT!? and just kind of gave up. We gave it a pep talk and it shows accurate counts now. 
+
+
+<br/>
+
+*[6.35.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.35.1)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
