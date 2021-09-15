@@ -14,7 +14,7 @@ Version 6.35.1 debuts score deletion capabilities and a fix to Challenges.
 
 # Bug
 
-- We fixed a bug in Challenges that occurred when were getting reset when a user added scores, deleted all of their scores, and added them again - the Challenges infrastructure was like WUT!? and just kind of gave up. We gave it a pep talk and it shows accurate counts now. 
+- We fixed a bug in Challenges that occurred when a user added scores, deleted all of their scores, and added them again - the Challenges infrastructure was like WUT!? and just kind of gave up. We gave it a pep talk and it shows accurate counts now. 
 
 
 <br/>
