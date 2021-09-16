@@ -9,7 +9,7 @@ Version 6.38.0 debuts a media addition, Maintenance Buttons and release dates on
 
 # Features
 
-- Coach Admins can now add a date and time to release a workout via the Workout Builder. Say when. ::doc holiday voice:: https://youtu.be/j5kokM0M45Y
+- Coach Admins can now add a date and time to release a workout via the Workout Builder. Say when. *[::doc holiday voice::](https://youtu.be/j5kokM0M45Y)* 
 - If a Coach Admin adds Maintenance to a Daily Workout, a button will now show up for the user that brings up Maintenance videos just right...because that's what developers do: they make buttons (but for real, how do you think buttons get places?! Someone has to make them). 
 - We made it so that Coach Admins can add more than one piece of media to a movement in the Movement Library. That's how media comes right? In pieces?
 
