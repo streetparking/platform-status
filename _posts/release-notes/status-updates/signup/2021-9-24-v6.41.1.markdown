@@ -1,0 +1,24 @@
+---
+layout: post
+title:  V 6.41.2
+date:   2021-9-24 16:30:13 -0600
+categories: release-note
+
+---
+Version 6.41.1 debuts one change.  
+
+# Features
+
+- We changed the title of Challenges to be the title of the Challenge. Yep. That's literally it. Seems obvious, I know, but sometimes things just aren't okay, so here we are. Stop judging me. 
+
+<br/>
+
+
+*[6.41.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.41.1)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
