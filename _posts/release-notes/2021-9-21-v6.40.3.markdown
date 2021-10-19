@@ -1,0 +1,25 @@
+---
+layout: post
+title:  V 6.40.3
+date:   2021-9-21 16:30:13 -0600
+categories: release-note
+
+---
+Version 6.40.3 debuts one feature update.
+
+# Features
+
+- We adjusted some coloring style related things here and there. It was super subtle, but still a thing.
+
+
+
+<br/>
+
+*[6.40.3](https://github.com/streetparking/my-streetparking/releases/tag/v6.40.3)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
