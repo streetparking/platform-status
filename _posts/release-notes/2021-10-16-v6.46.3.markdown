@@ -1,0 +1,24 @@
+---
+layout: post
+title:  V 6.46.3
+date:   2021-10-16 11:30:13 -0600
+categories: release-note
+
+---
+Version 6.46.3 debuts a styling bug fix. 
+
+# Bug
+
+- We unsquished some spacing on iPad views because no one likes a squishy view. Ew. That just sounds gross. Forget I said it, but remember that it's fixed. 
+
+<br/>
+
+
+*[6.46.3](https://github.com/streetparking/my-streetparking/releases/tag/v6.46.3)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
