@@ -9,7 +9,7 @@ Version 6.40.0 debuts two feature updates and two bug fixes. Even Steven...or St
 
 # Features
 
-- Users can now favorite and unfavorite a workout and view it under the favorites tab/ Gold stars all around. Except not, because that wouldn't be favorites then would it. 
+- Users can now favorite and unfavorite a workout and view it under the favorites tab. Gold stars all around. Except not, because that wouldn't be favorites then would it. 
 - We spruced up the scoring emojis! Smile. Or Grimace...or have heart eyes. You choose. That's why they're there. 
 - We added a 'replace media' button to media detail pages so that Admins can...replace media. Go figure. 
 
