@@ -5,7 +5,7 @@ date:   2021-9-21 16:30:13 -0600
 categories: release-note
 
 ---
-Version 6.40.3 debuts one feature update.
+Version 6.40.3 debuts a little bit of sprucing.
 
 # Features
 
