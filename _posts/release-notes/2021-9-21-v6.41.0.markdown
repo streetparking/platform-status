@@ -1,0 +1,30 @@
+---
+layout: post
+title:  V 6.41.0
+date:   2021-9-23 16:30:13 -0600
+categories: release-note
+
+---
+Version 6.41.0 debuts a few fixes and a couple features. 
+
+# Features
+
+- We did a button overhaul. (Because engineers do buttons (among other things)- but seriously, how do you think buttons get there in the first place?!) This means that we made some super subtle styling adjustments to some buttons and some less than subtle adjustments to others.
+- Back by popular demand: the red outline to the delete buttons in admin. 
+
+<br/>
+
+# Bugs
+
+- We fixed a buggy cursor that felt confusing when selecting a date on a daily workout.
+- We fixed some logic-y things so that Challenges with repeated workouts :cough 'Vault': will now work as expected.
+- If a movement showed up more than once in a workout, the customizations were showing for each occurrence of each movement instead of just once...like calm down, amiright? So now things show only as many times as they should. 
+
+*[6.41.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.41.0)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
