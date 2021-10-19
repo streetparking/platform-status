@@ -7,7 +7,7 @@ categories: release-note
 ---
 Version 6.41.1 debuts one change.  
 
-# Features
+# Feature
 
 - We changed the title of Challenges to be the title of the Challenge. Yep. That's literally it. Seems obvious, I know, but sometimes things just aren't okay, so here we are. Stop judging me. 
 

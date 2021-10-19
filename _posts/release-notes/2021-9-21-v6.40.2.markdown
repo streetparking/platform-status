@@ -7,7 +7,7 @@ categories: release-note
 ---
 Version 6.40.2 debuts one feature update.
 
-# Features
+# Feature
 
 - We returned the Save Changes and Back buttons to Challenge detail pages for admins because ICYMI they'd gone. 
 

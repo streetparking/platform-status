@@ -1,0 +1,25 @@
+---
+layout: post
+title:  V 6.44.0
+date:   2021-10-1 16:30:13 -0600
+categories: release-note
+
+---
+Version 6.44.0 debuts an admin tools feature upgrade.
+
+# Feature
+
+- Admins can now start a membership for a lead if there's a credit card on file. Feel. The. Power. 
+
+
+<br/>
+
+
+*[6.44.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.44.0)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 

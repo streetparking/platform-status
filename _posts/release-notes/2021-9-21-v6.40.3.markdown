@@ -7,7 +7,7 @@ categories: release-note
 ---
 Version 6.40.3 debuts a little bit of sprucing.
 
-# Features
+# Feature
 
 - We adjusted some coloring style related things here and there. It was super subtle, but still a thing.
 
