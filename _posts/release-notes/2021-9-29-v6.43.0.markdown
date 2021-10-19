@@ -1,0 +1,27 @@
+---
+layout: post
+title:  V 6.43.0
+date:   2021-9-29 16:30:13 -0600
+categories: release-note
+
+---
+Version 6.43.0 debuts a feature update and a long awaited fix.
+
+# Features
+
+- The user logbook now shows when user completed a workout and then the name of the workout because it just feels better that way. #organization
+
+# Features
+- You know how jet lag sucks because of different time zones? Well, time zones caused issues when it came to logged workouts being counted correctly in the Trophy Case, that no amount of sleep or coffee could help. BUT it's fixed now and when a user logs a workout, it is accurately counted in the Trophy Case and everyone looks well rested. 
+
+<br/>
+
+
+*[6.43.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.43.0)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
