@@ -5,7 +5,7 @@ date:   2021-10-20 11:30:13 -0600
 categories: release-note
 
 ---
-Version 6.47.0 debuts a styling bug fix. 
+Version 6.47.0 debuts the end of scoring drafts and a media fix.  
 
 # Features
 
@@ -13,7 +13,8 @@ Version 6.47.0 debuts a styling bug fix.
 - We did some styling so that when media has several associated tags, the tags don't take over the page and mess up the users view like jerks. 
 
 - Drafts be gone! Closing the scoring sheet mid-score doesn't save a draft anymore. 
-We did some coding voodoo that keeps scores and times zones playing nicely together.  
+
+- We did even more coding voodoo that keeps scores and times zones playing nicely together.  
 
 
 <br/>
