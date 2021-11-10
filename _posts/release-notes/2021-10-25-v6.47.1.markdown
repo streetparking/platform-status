@@ -1,0 +1,24 @@
+---
+layout: post
+title:  V 6.47.1
+date:   2021-10-25 11:30:13 -0600
+categories: release-note
+
+---
+Version 6.47.1 debuts a style fix.
+# Features
+
+
+- We fixed a spacing issue on workout notes. Things were either too spacey or too squishy. 
+
+<br/>
+
+
+*[6.47.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.47.1)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
