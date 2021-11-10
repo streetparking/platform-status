@@ -1,0 +1,42 @@
+---
+layout: post
+title:  V 6.48.0
+date:   2021-10-26 11:30:13 -0600
+categories: release-note
+
+---
+Version 6.48.0 debuts an option for 'strict' challenges and 4 bug fixes. 
+
+# Features
+ 
+- Admins can now add captions to videos! 
+
+- Extra Programs needed a brief description shown on the card so the description wouldn't hog up all the room on the card and look super extra. We added such a field and made the full description visible upon clicking into an Extra Program.
+
+- We upgraded some cool nerdy tech stuff that makes things better for everyone. 
+
+- Challenges now have the option to be 'strict' or ... not strict (relaxed?). If a challenge is toggled to strict, the workouts must be completed in real time and cannot be scored outside of specified timeframes (we're looking at you, Vault). 
+
+<br/>
+
+# Bug
+
+- When an admin used a search function, results didn't always populate in a very helpful way...which is the entire point of a search, really. So we fixed it. 
+
+- Speaking of searches- if a search yielded a boat load of results, we added a button you can click to show the next 20.
+
+- We fixed a bug that was duplicating notes notes on the daily workout. 
+
+- A bug was bugging up the ability to save a Mamas Modification Note. (As if moms don't already have enough to deal with.) So we put the bug in time out and now things save as expected. - 
+
+<br/>
+
+
+*[6.48.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.48.0)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
