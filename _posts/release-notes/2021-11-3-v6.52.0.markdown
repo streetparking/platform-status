@@ -5,7 +5,7 @@ date:   2021-11-3 11:39:13 -0600
 categories: release-note
 
 ---
-Version 6.52.0 debuts a media related bug fix. 
+Version 6.52.0 debuts some styling upgrades and a bug fix. 
 
 <br/>
 
@@ -21,7 +21,8 @@ Version 6.52.0 debuts a media related bug fix.
 <br/>
 
 # Bug
-Scheduling a challenge no longer requires a start date. You do you, boo. 
+
+- Scheduling a challenge no longer requires a start date. You do you, boo. 
 
 *[6.52.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.52.0)*
 <br/>
