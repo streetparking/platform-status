@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  V 6.54.0
-date:   2021-11-10 11:39:13 -0600
+date:   2021-11-09 11:39:13 -0600
 categories: release-note
 
 ---
