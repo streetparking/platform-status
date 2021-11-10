@@ -1,0 +1,27 @@
+---
+layout: post
+title:  V 6.54.0
+date:   2021-11-10 11:39:13 -0600
+categories: release-note
+
+---
+Version 6.54.0 debuts media fixes.
+
+
+<br/>
+
+# Bug
+- If you navigated to Collections via Extra Programs, the media didn't show up. Like did someone steal it? Is it on vacay? Where'd it go? Turns out it wasn't showing up for tech reasons, but it's back now.
+
+- We gave the Trophy Case a little freshening up in the style department. So cute. 
+
+- We fixed a caching issue that caused the Daily Workout card on the dashboard and certain Daily Workout media to stop showing for some users, giving them that enjoyable panic feeling we all love when you can't view a workout, but as fun as it was, we fixed it and now all the things are showing as expected. ::breathes into a paper bag::
+
+*[6.54.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.54.0)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
