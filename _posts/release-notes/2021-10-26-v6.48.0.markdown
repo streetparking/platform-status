@@ -5,7 +5,7 @@ date:   2021-10-26 11:30:13 -0600
 categories: release-note
 
 ---
-Version 6.48.0 debuts an option for 'strict' challenges and 4 bug fixes. 
+Version 6.48.0 debuts a tagline description for Extra Programs and some search fixes. 
 
 # Features
  
@@ -15,7 +15,6 @@ Version 6.48.0 debuts an option for 'strict' challenges and 4 bug fixes.
 
 - We upgraded some cool nerdy tech stuff that makes things better for everyone. 
 
-- Challenges now have the option to be 'strict' or ... not strict (relaxed?). If a challenge is toggled to strict, the workouts must be completed in real time and cannot be scored outside of specified timeframes (we're looking at you, Vault). 
 
 <br/>
 
