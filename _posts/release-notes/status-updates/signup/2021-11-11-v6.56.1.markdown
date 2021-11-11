@@ -1,0 +1,24 @@
+---
+layout: post
+title:  V 6.56.1
+date:   2021-11-11 11:39:13 -0600
+categories: release-note
+
+---
+Version 6.56.1 debuts a fix to a loading error. 
+
+<br/>
+
+# Bug
+The Safari browser sometimes likes to play by its own rules which caused a sort of perpetual page loading issue for some users. We told it NOT TODAY, SAFARI and handled the issue so things load as expected. 
+<br/>
+
+
+*[6.56.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.55.1)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
