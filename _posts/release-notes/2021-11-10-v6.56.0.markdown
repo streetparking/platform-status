@@ -22,7 +22,7 @@ Version 6.56.0 debuts an SP Shop link, a hamburger of sorts and the darkness of 
 - Not only does daylight saving times suck the life out of each day, turns out it also flops around user scores, so we accounted for it and now scoring is as it should be (even though it still gets dark at like 3pm).
 
 
-*[6.55.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.55.1)*
+*[6.56.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.55.0)*
 <br/>
 <br/>
 
