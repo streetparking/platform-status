@@ -1,0 +1,32 @@
+---
+layout: post
+title:  V 6.56.0
+date:   2021-11-10 11:39:13 -0600
+categories: release-note
+
+---
+Version 6.56.0 debuts an SP Shop link, a hamburger of sorts and the darkness of daylight savings time. 
+
+
+<br/>
+
+# Feature
+- The SP Shop is now linked conveniently on the navigation menu on my.sp! #everythingiseffingdelayed
+
+<br/>
+
+# Bug
+
+- The hamburger menu used to require two taps/clicks to respond and we fixed it so now it just needs one and you can save double tapping for the gram. 
+
+- Not only does daylight saving times suck the life out of each day, turns out it also flops around user scores, so we accounted for it and now scoring is as it should be (even though it still gets dark at like 3pm).
+
+
+*[6.55.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.55.1)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
