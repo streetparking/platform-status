@@ -1,0 +1,30 @@
+---
+layout: post
+title:  V 6.55.1
+date:   2021-11-10 11:39:13 -0600
+categories: release-note
+
+---
+Version 6.55.1 debuts four features! 
+
+
+<br/>
+
+# Feature
+- Preliminary breadcrumbs (name of my new band) are now present to help users navigate in and out of Extra Programs when entering a workout collection. 
+
+- The Endurance Badge is no longer just for looks. She now counts applicable endurance workouts and shows up in the Trophy Case as expected. 
+
+- A past due membership status does not allow a user to view loggable workouts, and this restriction now applies to favorites as well. 
+
+- If there's one or zero pieces of media on a workout, the media carousel and the 'hey there's more media' buttons don't show up. You'd kinda think this would be automatic, but it's not. And that's why we're in dev land doing buttons, and you're here reading this. 
+
+
+*[6.55.1](https://github.com/streetparking/my-streetparking/releases/tag/v6.55.1)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
