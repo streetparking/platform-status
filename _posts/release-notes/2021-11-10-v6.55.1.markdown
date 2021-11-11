@@ -11,7 +11,7 @@ Version 6.55.1 debuts four features!
 <br/>
 
 # Feature
-- Preliminary breadcrumbs (name of my new band) are now present to help users navigate in and out of Extra Programs when entering a workout collection. 
+- Preliminary breadcrumbs (name of my new band) are now present to help users navigate in and out of Extra Programs when viewing a workout collection. 
 
 - The Endurance Badge is no longer just for looks. She now counts applicable endurance workouts and shows up in the Trophy Case as expected. 
 
