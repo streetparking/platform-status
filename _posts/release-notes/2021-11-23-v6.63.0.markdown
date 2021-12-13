@@ -1,0 +1,32 @@
+---
+layout: post
+title:  V 6.63.0
+date:   2021-11-23 11:39:13 -0600
+categories: release-note
+
+---
+Version 6.63.0 debuts an update to trophy case counting, a back button (for a minute) and a fix!
+
+# Features
+- The trophy case has to count entries and we changed the order it counts in (excuse me "we changed the order 'in which it counts'") so that it doesn't get confused. 
+
+- We added a back button on mobile to help with navigation until the breadcrumbs are done baking. 
+
+- If a user is less than 12 hours old (meaning membership, not actual life - how would a 12 hours old baby sign up when they don't have their own computers?) they will not see the links to Members Only, so they don't get all confused while they are waiting for access.
+
+<br/>
+
+# Bug
+- We fixed a pagination bug on the media table. (Tech terms review: 'pagination' is the name for the "hey this is how many items and pages are on this table/page" guy in bottom right hand corner.)
+
+<br/> 
+
+
+*[6.63.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.63.0)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
