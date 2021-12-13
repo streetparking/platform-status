@@ -33,7 +33,7 @@ Version 6.65.0 debuts a 2:1 new stuff to bug fix ratio.
 <br/>
 
 
-*[6.65.0 ](https://github.com/streetparking/my-streetparking/releases/tag/v6.65.0)*
+*[6.65.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.65.0)*
 <br/>
 <br/>
 
