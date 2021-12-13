@@ -1,0 +1,28 @@
+---
+layout: post
+title:  V 6.62.3
+date:   2021-11-19 11:39:13 -0600
+categories: release-note
+
+---
+Version 6.62.3 debuts a fix and an upgrate for editing past scores. 
+
+# Features
+- We added a placeholder card so users can go back an edit a workout that didn't make it in the migration (for techy reasons).
+
+<br/>
+
+# Bug
+- We fixed some buggy business that was shenanagan-ing up the edit flow.
+
+<br/> 
+
+
+*[6.62.3](https://github.com/streetparking/my-streetparking/releases/tag/v6.62.3)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
