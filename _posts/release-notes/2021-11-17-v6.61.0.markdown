@@ -1,0 +1,22 @@
+---
+layout: post
+title:  V 6.61.0
+date:   2021-11-17 11:30:13 -0600
+categories: release-note
+
+---
+Version 6.61.0 debuts two little updates. 
+
+# Features
+- We updated the Welcome page and fixed a few weak links and made more mobile responsive, because it's a web APP, not just a website, people. 
+
+- When a user scores, The Heathers Like This page now gives the option to navigate to the Trophy Case or the Logbook. Cute and functional. 
+
+*[6.61.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.61.0)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
