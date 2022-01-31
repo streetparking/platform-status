@@ -1,0 +1,28 @@
+---
+layout: post
+title:  V 6.69.2
+date:   2022-1-15 11:29:13 -0600
+categories: release-note
+
+---
+Version 6.69.2  
+
+
+<br/>
+
+# Bug
+- A bug didn't want to save a user's score if only rounds were entered on a workout with rounds and reps. Sometimes there's just no spare reps hanging around, so we caught and released the bug back to it's natural habitat and it will no longer plague scoring. 
+ 
+
+
+<br/>
+
+
+*[6.69.2](https://github.com/streetparking/my-streetparking/releases/tag/v6.69.2)*
+<br/>
+<br/>
+
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
