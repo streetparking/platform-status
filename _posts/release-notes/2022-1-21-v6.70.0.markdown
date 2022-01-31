@@ -8,24 +8,17 @@ categories: release-note
 Version 6.70.0  
 
 # Features
-- We love the smell of fresh copy in the morning, so we updated the Welcome Page as requested. 
+- Challenge Creation got an upgrade! You can create a challenge that counts for days or workouts, define minimum workouts and now challenges can be program specific
+- Adding a program to a challenge is now on the challenge detail page. It's all in the details, as they say. 
+- Admins can now add programs to a challenge - the gifts just keep coming!
+- Breadcrumbs have been added to pages. Breadcrumbs are a known hot mess in coding land, so next time you casually brush aside a breadcrumb, remember that somwhere, a developer is triggered to twitching at the mere though of them. 
 
-- We added the option to add a payment method on the manage membership dropdown menu and now manage membership thinks it's all fancy. 
-
-- We removed the option to change membership for Past Due users because things were getting hairy (and to keep manage membership humble). 
-
-- We changed About Me to My Account because people didn't need to find themselves, they needed to find where to update their payment info. 
-
-- We hide workouts on the Trophy Case detail if they're not released because it's a secret. 
-
-- We used to call badge-related things Challenges because that's how it's viewed from code-land, but Challenges means a lot of things, so we changed Challenges to Trophies and now we all get it.
 
 <br/>
 
 # Bug
-- Challenge Creation got an upgrade! You can create a challenge that counts for days or workouts, define minimum workouts and now challenges can be program specific (this was a thing before, but now it's even more of a thing, so I'm telling you ICYMI.
-
-- We fixed the broken On Ramp link on the side menu. And you know what they say, "If it ain't broke, don't fix it…but this was broken so we did what we had to do.
+- We smashed a bug that wasn't showing the created date for user scores.
+- 
 
 - 
 
