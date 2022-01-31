@@ -6,6 +6,7 @@ categories: release-note
 
 ---
 Version 6.71.1  
+
 # Features
 - We love the smell of fresh copy in the morning, so we updated the Welcome Page as requested. 
 

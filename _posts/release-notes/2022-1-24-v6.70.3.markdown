@@ -6,6 +6,7 @@ categories: release-note
 
 ---
 Version 6.70.3 
+
 # Features
 - We updated the On Ramp link to go to the On Ramp workouts instead of the group of workouts. The shortest distance between two points is a straight line. That doesn't really apply to this situation, but it's just nice to remember. 
 
