@@ -18,9 +18,7 @@ Version 6.70.0
 
 # Bug
 - We smashed a bug that wasn't showing the created date for user scores.
-- 
 
-- 
 
 
 <br/>
