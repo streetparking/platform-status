@@ -10,6 +10,8 @@ Version 6.71.1
 # Features
 - We love the smell of fresh copy in the morning, so we updated the Welcome Page as requested. 
 
+- Challenge Creation got an upgrade! You can create a challenge that counts for days or workouts, define minimum workouts and now challenges can be program specific (this was a thing before, but now it's even more of a thing, so I'm telling you ICYMI.
+
 - We added the option to add a payment method on the manage membership dropdown menu and now manage membership thinks it's all fancy. 
 
 - We removed the option to change membership for Past Due users because things were getting hairy (and to keep manage membership humble). 
@@ -23,11 +25,9 @@ Version 6.71.1
 <br/>
 
 # Bug
-- Challenge Creation got an upgrade! You can create a challenge that counts for days or workouts, define minimum workouts and now challenges can be program specific (this was a thing before, but now it's even more of a thing, so I'm telling you ICYMI.
 
 - We fixed the broken On Ramp link on the side menu. And you know what they say, "If it ain't broke, don't fix it…but this was broken so we did what we had to do.
 
-- 
 
 
 <br/>
