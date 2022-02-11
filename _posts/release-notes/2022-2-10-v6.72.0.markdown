@@ -8,7 +8,7 @@ categories: release-note
 Version 6.72.0  
 
 # Features & Updates
-- TLDR: We did some majorly gnar gnar coding (#itsalive) and you can now set time zones to challenges (including Vault) giving coach admins the ability to choose when users will be able to view and complete challenges. Vault is now set to run on PST.
+- We did some majorly gnar gnar coding (#itsalive) and you can now set time zones to challenges (including Vault) giving coach admins the ability to choose when users will be able to view and complete challenges. Vault is now set to run on PST.
 
 - We moved Payments over to join Manage Membership. It's settling in nicely. 
 
