@@ -7,13 +7,19 @@ categories: release-note
 ---
 Version 6.72.0  
 
-# Features
-- 
-<br/>
+# Features & Updates
+- TLDR: We did some majorly gnar gnar coding (#itsalive) and you can now set time zones to challenges (including Vault) giving coach admins the ability to choose when users will be able to view and complete challenges. Vault is now set to run on PST.
 
-# Bug
+- We moved Payments over to join Manage Membership. It's settling in nicely. 
 
-- 
+- We had some eye-twitchingly shifty spacing differences between cards on various pages (User Dashboard, Extra Programs, Collections) which we have now made uniform so your eyelids can chill. 
+
+- We nudged the month and year down to be centered on daily workouts - 'twas askew.
+
+- On a related note, those formerly shifty cards now span the width on mobile and look super clean. 
+
+- WORKOUT TITLES ARE NOW ALL CAPS BY DEFAULT.
+<br/> 
 
 
 <br/>
