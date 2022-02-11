@@ -19,6 +19,12 @@ Version 6.72.0
 - On a related note, those formerly shifty cards now span the width on mobile and look super clean. 
 
 - WORKOUT TITLES ARE NOW ALL CAPS BY DEFAULT.
+
+- Support support! If a member cancels and does not list a reason, the support ticket is created and marked complete. (When a member leaves a feedback message, the ticket is created with a status of new.) Easy button. 
+
+- This just in: if a member changes their membership while it's past due, the previous invoice is voided and a new one is created to reflect the membership change. Booya. Suck it Stripe. 
+
+- iPad styling was showing up a little funky, so we unfunked it and now the tablet toting population are looking at a cleaner view. 
 <br/> 
 
 
