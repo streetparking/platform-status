@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  V 6.71.0
-date:   2022-1-28 11:39:13 -0600
+title:  V 6.72.0
+date:   2022-2-10 11:39:13 -0600
 categories: release-note
 
 ---
-Version 6.71.0  
+Version 6.72.0  
 
 # Features
 - We love the smell of fresh copy in the morning, so we updated the Welcome Page as requested. 
@@ -33,7 +33,7 @@ Version 6.71.0
 <br/>
 
 
-*[6.71.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.71.0)*
+*[6.72.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.72.0)*
 <br/>
 <br/>
 
