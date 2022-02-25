@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "V 1.55.59 "
-date:   2020-7-21 14:24:13 -0600
+title:  "V 6.74.0 "
+date:   2022-2-23 14:24:13 -0600
 categories: release-note
 
 ---
-Version 1.55.59 debuts helpful new administrative tools, ID.me verification upgrades and smooths out some difficulties with saving information.
+Version 6.74.0
 
 # What’s New
 - We added new sign ups and athlete trend and a couple other cool reports to the memberships dashboard in admin. Charts and graphs never looked so good. 
