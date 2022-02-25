@@ -7,8 +7,8 @@ categories: release-note
 ---
 Version 6.74.1  
 
-# Update
-- We added a guard to the URL on Daily Workouts. This means that if someone tries to get sneaky and adjust the date via the url to view workouts ahead of their releases, they can't. Nice try, Sneaky. You have to wait like the rest of us. 
+# Updates
+- We added a guard to the URL on Daily Workouts. This means that if someone tries to get sneaky and adjust the date via the url to view workouts ahead of their releases, they can't. Nice try, Sneaky. You have to wait like the rest of us. 3
 
 <br/>
 
