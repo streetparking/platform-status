@@ -8,7 +8,7 @@ categories: release-note
 Version 6.73.1  
 
 # Updates
-- 	- Admin users couldn't see membership or lead overviews for a second (oopsie), but we fixed it and now they can see the deets. 
+- Admin users couldn't see membership or lead overviews for a second (oopsie), but we fixed it and now they can see the deets. 
 
 - We added a workout preview to Favorites so now there's more than just a table of dates and the user doesn't have to play a guessing game to find that Starduster workout they're looking for. 
 
