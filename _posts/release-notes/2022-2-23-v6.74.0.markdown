@@ -8,7 +8,7 @@ categories: release-note
 Version 6.74.0  
 
 # Bug Fix
-- The One wiht the Trophy Case: In some cases, if scores were added, the necessary re-evaluation would glitch and create a discrepancy between 75/365/1000 counts and total days worked out. BUT FEAR NOT, it's fixed (unlike the ending of Friends, in which we all know Rachel and Joey should've ended up together, but at least workouts are counting properly). 
+- The One with the Trophy Case: In some cases, if scores were added, the necessary re-evaluation would glitch and create a discrepancy between 75/365/1000 counts and total days worked out. BUT FEAR NOT, it's fixed (unlike the ending of Friends, in which we all know Rachel and Joey should've ended up together, but at least workouts are counting properly). 
 
 <br/>
 
