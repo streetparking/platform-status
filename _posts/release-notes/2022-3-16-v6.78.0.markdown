@@ -1,0 +1,25 @@
+---
+layout: post
+title:  V 6.78.0
+date:   2022-3-16 12:49:13 -0600
+categories: release-note
+
+---
+Version 6.78.0  
+
+# Updates
+- The program specific progress ring was counting based on available workouts, rather than considering the requirement, so now it gives credit for doing required things - which is much more satisfying (especially if I'm putting down my barbell for a month).
+
+- Aaaand we updated some wording on the Badge info modal. (It was a little bit of a head scratcher as it was.)
+<br/>
+
+<br/>
+
+*[6.78.0](https://github.com/streetparking/my-streetparking/releases/tag/v6.78.0)*
+<br/>
+<br/>
+ 
+_RN Ninja: [RO](https://github.com/robyanna)_
+ 
+ 
+ 
